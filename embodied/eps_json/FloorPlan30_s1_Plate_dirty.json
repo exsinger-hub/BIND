@@ -1,0 +1,560 @@
+{
+ "episode_id": "FloorPlan30_s1_Plate_dirty",
+ "scene": "FloorPlan30",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Plate",
+ "target_name": "plate",
+ "family": "dirty",
+ "phrase": "the dirty plate",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9277887344360352,
+   "z": 0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Plate_8fe81783(Clone)_random_copy_1",
+  "obj2": "Plate_8fe81783(Clone)_random_copy_0",
+  "obj3": "Plate_8fe81783",
+  "obj4": "Egg_071d7d0a",
+  "obj5": "Kettle_0d27cb47",
+  "obj6": "Bowl_fb2ee54d",
+  "obj7": "Bread_b8f4d80a",
+  "obj8": "CellPhone_817e3724",
+  "obj9": "Knife_5c47ffc1",
+  "obj10": "Ladle_9e3e6428",
+  "obj11": "Pan_8fa0fd27"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.23,
+    0.92,
+    0.32
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.86,
+    0.91,
+    0.24
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.01,
+    0.91,
+    -0.08
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.95,
+    -1.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.6,
+    0.9,
+    -1.09
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.99,
+    0.9,
+    -0.75
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.26,
+    0.97,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.81,
+    0.9,
+    -0.62
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.2,
+    0.92,
+    -1.64
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.04,
+    0.93,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    -0.42,
+    0.9,
+    -1.27
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.23,
+    0.92,
+    0.32
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.86,
+    0.91,
+    0.24
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.01,
+    0.91,
+    -0.08
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.95,
+    -1.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.6,
+    0.9,
+    -1.09
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.99,
+    0.9,
+    -0.75
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.26,
+    0.97,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.81,
+    0.9,
+    -0.62
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.2,
+    0.92,
+    -1.64
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.04,
+    0.93,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    -0.42,
+    0.9,
+    -1.27
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.23,
+    0.92,
+    0.32
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.86,
+    0.91,
+    0.24
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.01,
+    0.91,
+    -0.08
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.6,
+    0.92,
+    -1.09
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.97,
+    -1.53
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.99,
+    0.9,
+    -0.75
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.26,
+    0.97,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.81,
+    0.9,
+    -0.62
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.2,
+    0.92,
+    -1.64
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.04,
+    0.93,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    -0.42,
+    0.9,
+    -1.27
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "washed the dirty plate and then used another plate, which is now dirty",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the egg and the kettle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

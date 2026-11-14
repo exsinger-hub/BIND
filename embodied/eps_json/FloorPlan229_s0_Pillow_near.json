@@ -1,0 +1,338 @@
+{
+ "episode_id": "FloorPlan229_s0_Pillow_near",
+ "scene": "FloorPlan229",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "near",
+ "phrase": "the pillow next to the sofa",
+ "anchor": {
+  "id": "obj6",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -3.25,
+   "y": 0.9220515489578247,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pillow_90537ffc(Clone)_random_copy_1",
+  "obj2": "Pillow_90537ffc(Clone)_random_copy_0",
+  "obj3": "Pillow_90537ffc",
+  "obj4": "Boots_84ceb6d4",
+  "obj5": "Pen_6f1e600d",
+  "obj6": "Sofa_20d8c2da",
+  "obj7": "Book_50e2e676"
+ },
+ "visible_B": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.33,
+    0.51,
+    2.43
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.52,
+    0.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.15,
+    0.61,
+    0.79
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Boots",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.01,
+    0.45,
+    3.78
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.75,
+    0.42,
+    2.53
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.43,
+    0.43,
+    0.63
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.54,
+    0.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.33,
+    0.53,
+    2.43
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.15,
+    0.61,
+    0.79
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Boots",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.01,
+    0.45,
+    3.78
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.75,
+    0.42,
+    2.53
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.43,
+    0.43,
+    0.63
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.33,
+    0.51,
+    2.43
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.52,
+    0.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.15,
+    0.61,
+    0.79
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.75,
+    0.44,
+    2.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.01,
+    0.47,
+    3.78
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.43,
+    0.43,
+    0.63
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the boots and the pen",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

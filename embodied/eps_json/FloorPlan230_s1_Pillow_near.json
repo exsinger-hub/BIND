@@ -1,0 +1,482 @@
+{
+ "episode_id": "FloorPlan230_s1_Pillow_near",
+ "scene": "FloorPlan230",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "near",
+ "phrase": "the pillow next to the house plant",
+ "anchor": {
+  "id": "obj6",
+  "type": "HousePlant",
+  "name": "house plant"
+ },
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9082556962966919,
+   "z": 5.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pillow_0ff9e2b0(Clone)_random_copy_1",
+  "obj2": "Pillow_0ff9e2b0(Clone)_random_copy_0",
+  "obj3": "Pillow_0ff9e2b0",
+  "obj4": "Newspaper_2f52188d",
+  "obj5": "Boots_7abad8a2",
+  "obj6": "HousePlant_8b7b146f",
+  "obj7": "Plate_90564ff8",
+  "obj8": "RemoteControl_94e2d79e",
+  "obj9": "Statue_ac3f15f2",
+  "obj10": "TissueBox_bb804b94"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.53,
+    6.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.84,
+    2.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HousePlant",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.2,
+    0.45,
+    6.8
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.57,
+    6.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.65,
+    7.24
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.55,
+    6.39
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.64,
+    6.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.84,
+    2.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HousePlant",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.2,
+    0.45,
+    6.8
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.57,
+    6.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.65,
+    7.24
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.53,
+    6.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.84,
+    2.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.49,
+    7.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.49,
+    7.22
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HousePlant",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.2,
+    0.45,
+    6.8
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.57,
+    6.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.65,
+    7.24
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the newspaper and the boots",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,356 @@
+{
+ "episode_id": "FloorPlan21_s0_Bowl_on",
+ "scene": "FloorPlan21",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Bowl",
+ "target_name": "bowl",
+ "family": "on",
+ "phrase": "the bowl on the dining table",
+ "anchor": {
+  "id": null,
+  "type": "DiningTable",
+  "name": "dining table"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.8696960806846619,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Bowl_524520be(Clone)_random_copy_1",
+  "obj2": "Bowl_524520be(Clone)_random_copy_0",
+  "obj3": "Bowl_524520be",
+  "obj4": "Pan_ce86f1cf",
+  "obj5": "Lettuce_15ba6f2f",
+  "obj6": "Cup_5bdc0615"
+ },
+ "visible_B": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.71,
+    0.84,
+    -1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.49,
+    -1.39
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.55,
+    0.5,
+    0.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    0.74,
+    -0.01,
+    -0.6
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.02,
+    0.78,
+    -3.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.11,
+    0.83,
+    -1.02
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.51,
+    -1.39
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.71,
+    0.86,
+    -1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.55,
+    0.5,
+    0.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    0.74,
+    -0.01,
+    -0.6
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.02,
+    0.78,
+    -3.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.11,
+    0.83,
+    -1.02
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.71,
+    0.84,
+    -1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.49,
+    -1.39
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.55,
+    0.5,
+    0.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "dining table",
+    "microwave"
+   ],
+   "position": [
+    -2.02,
+    0.8,
+    -3.34
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    0.74,
+    0.01,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.11,
+    0.83,
+    -1.02
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two bowls",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pan and the lettuce",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

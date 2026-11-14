@@ -1,0 +1,427 @@
+{
+ "episode_id": "FloorPlan230_s0_Newspaper_on",
+ "scene": "FloorPlan230",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Newspaper",
+ "target_name": "newspaper",
+ "family": "on",
+ "phrase": "the newspaper on the coffee table",
+ "anchor": {
+  "id": null,
+  "type": "CoffeeTable",
+  "name": "coffee table"
+ },
+ "view": {
+  "position": {
+   "x": -2.75,
+   "y": 0.9082556962966919,
+   "z": 5.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Newspaper_2f52188d(Clone)_random_copy_1",
+  "obj2": "Newspaper_2f52188d(Clone)_random_copy_0",
+  "obj3": "Newspaper_2f52188d",
+  "obj4": "Statue_ac3f15f2",
+  "obj5": "Box_b250fc32",
+  "obj6": "Candle_53a8da47",
+  "obj7": "RemoteControl_94e2d79e",
+  "obj8": "Statue_22b6afb0",
+  "obj9": "TissueBox_bb804b94"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -2.57,
+    0.35,
+    4.71
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    5.97
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.65,
+    6.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.24,
+    0.6,
+    6.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Candle",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    6.71
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.44,
+    0.47,
+    5.97
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.73,
+    0.56,
+    6.45
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -2.57,
+    0.35,
+    4.71
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.49,
+    5.97
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.58,
+    7.24
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.65,
+    6.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.24,
+    0.6,
+    6.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Candle",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    6.71
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.44,
+    0.47,
+    5.97
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.73,
+    0.56,
+    6.45
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -2.57,
+    0.35,
+    4.71
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    5.97
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.24,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.91,
+    0.67,
+    6.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Candle",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    6.71
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.44,
+    0.47,
+    5.97
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.73,
+    0.56,
+    6.45
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two newspapers",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

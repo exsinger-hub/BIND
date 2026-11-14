@@ -1,0 +1,262 @@
+{
+ "episode_id": "FloorPlan218_s0_RemoteControl_on",
+ "scene": "FloorPlan218",
+ "room": "living",
+ "seed": 0,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "on",
+ "phrase": "the remote control on the side table",
+ "anchor": {
+  "id": null,
+  "type": "SideTable",
+  "name": "side table"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9008399248123169,
+   "z": 5.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "RemoteControl_083dd392(Clone)_random_copy_1",
+  "obj2": "RemoteControl_083dd392(Clone)_random_copy_0",
+  "obj3": "RemoteControl_083dd392",
+  "obj4": "Laptop_34f7f36c",
+  "obj5": "Box_d781db0d"
+ },
+ "visible_B": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.55,
+    6.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    0.98,
+    4.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    0.98,
+    3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.31,
+    2.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.76,
+    0.98,
+    4.69
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    1.0,
+    4.13
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.57,
+    6.56
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    0.98,
+    3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.31,
+    2.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.76,
+    0.98,
+    4.69
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.55,
+    6.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    0.98,
+    4.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    0.98,
+    3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [],
+   "position": [
+    -5.76,
+    1.0,
+    4.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.33,
+    2.26
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

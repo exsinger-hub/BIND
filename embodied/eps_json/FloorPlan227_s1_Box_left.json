@@ -1,0 +1,552 @@
+{
+ "episode_id": "FloorPlan227_s1_Box_left",
+ "scene": "FloorPlan227",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "left",
+ "phrase": "the box on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -6.75,
+   "y": 0.9270526170730591,
+   "z": 3.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Box_c423d56d(Clone)_random_copy_1",
+  "obj2": "Box_c423d56d(Clone)_random_copy_0",
+  "obj3": "Box_c423d56d",
+  "obj4": "Vase_17ed6b6a",
+  "obj5": "Laptop_d9d44fbe",
+  "obj6": "Pillow_dc968b61",
+  "obj7": "RemoteControl_45eda945",
+  "obj8": "Statue_e904d593",
+  "obj9": "Statue_0ba19690",
+  "obj10": "Statue_044984c5",
+  "obj11": "Statue_dcd19fe9",
+  "obj12": "Statue_5f1e0f9c"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.84,
+    2.21
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.33,
+    0.47,
+    3.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.84,
+    3.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.45,
+    0.66,
+    2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.66,
+    2.92
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.73,
+    0.34,
+    3.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.67,
+    1.86
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.19,
+    0.75,
+    2.21
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.49,
+    0.48,
+    0.36
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.67,
+    3.27
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.58,
+    0.3,
+    3.15
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.66,
+    3.62
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.86,
+    3.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.33,
+    0.47,
+    3.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.86,
+    2.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.45,
+    0.66,
+    2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.66,
+    2.92
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.73,
+    0.34,
+    3.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.67,
+    1.86
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.19,
+    0.75,
+    2.21
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.49,
+    0.48,
+    0.36
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.67,
+    3.27
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.58,
+    0.3,
+    3.15
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.66,
+    3.62
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.84,
+    2.21
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.33,
+    0.47,
+    3.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.84,
+    3.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.68,
+    2.92
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.45,
+    0.68,
+    2.21
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -3.73,
+    0.34,
+    3.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.06,
+    0.67,
+    1.86
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -6.19,
+    0.75,
+    2.21
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.49,
+    0.48,
+    0.36
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.57,
+    0.67,
+    3.27
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.58,
+    0.3,
+    3.15
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -5.82,
+    0.66,
+    3.62
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the vase and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

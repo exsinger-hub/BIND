@@ -1,0 +1,569 @@
+{
+ "episode_id": "FloorPlan26_s1_Bowl_right",
+ "scene": "FloorPlan26",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Bowl",
+ "target_name": "bowl",
+ "family": "right",
+ "phrase": "the bowl on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.0,
+   "y": 0.9015909433364868,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Bowl_bd22067b(Clone)_random_copy_1",
+  "obj2": "Bowl_bd22067b(Clone)_random_copy_0",
+  "obj3": "Bowl_bd22067b",
+  "obj4": "Spoon_3c0f5491",
+  "obj5": "Potato_c28289a1",
+  "obj6": "Cup_a7567614",
+  "obj7": "Fork_85419228",
+  "obj8": "Knife_3c40791c",
+  "obj9": "Lettuce_3b3e7df4",
+  "obj10": "Pan_bb5755df",
+  "obj11": "Plate_24f0b140"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.17,
+    0.92,
+    0.35
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.8,
+    0.87,
+    3.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    0.93,
+    3.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.9,
+    3.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.93,
+    3.67
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.67,
+    0.73,
+    2.93
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.5,
+    0.75,
+    2.82
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    1.0,
+    3.21
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.93,
+    4.67
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.91,
+    0.72,
+    2.82
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.8,
+    0.89,
+    3.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.17,
+    0.94,
+    0.35
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    0.93,
+    3.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.9,
+    3.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.93,
+    3.67
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.67,
+    0.73,
+    2.93
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.5,
+    0.75,
+    2.82
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    1.0,
+    3.21
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.93,
+    4.67
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.91,
+    0.72,
+    2.82
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.17,
+    0.92,
+    0.35
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.8,
+    0.87,
+    3.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.92,
+    3.3
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    0.95,
+    3.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.93,
+    3.67
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.67,
+    0.73,
+    2.93
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.5,
+    0.75,
+    2.82
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.63,
+    1.0,
+    3.21
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.93,
+    4.67
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.91,
+    0.72,
+    2.82
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two bowls",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spoon and the potato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

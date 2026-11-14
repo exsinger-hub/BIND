@@ -1,0 +1,355 @@
+{
+ "episode_id": "FloorPlan223_s0_Statue_left",
+ "scene": "FloorPlan223",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Statue",
+ "target_name": "statue",
+ "family": "left",
+ "phrase": "the statue on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.9009991884231567,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Statue_2147f514(Clone)_random_copy_0",
+  "obj2": "Statue_2147f514",
+  "obj3": "Statue_b51b8ac3",
+  "obj4": "Vase_c907bd59",
+  "obj5": "WateringCan_31a595df",
+  "obj6": "Box_96b9882a",
+  "obj7": "Laptop_80dcebae"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.41,
+    0.33,
+    1.22
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    2.11,
+    0.79,
+    -0.05
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.49,
+    0.33,
+    0.91
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.45,
+    0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -1.86,
+    0.45,
+    0.39
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.75,
+    0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.22,
+    0.79,
+    -0.29
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.49,
+    0.35,
+    0.91
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    2.11,
+    0.79,
+    -0.05
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.41,
+    0.35,
+    1.22
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.45,
+    0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -1.86,
+    0.45,
+    0.39
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.75,
+    0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.22,
+    0.79,
+    -0.29
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.41,
+    0.33,
+    1.22
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    2.11,
+    0.79,
+    -0.05
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -0.49,
+    0.33,
+    0.91
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -1.86,
+    0.47,
+    0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.47,
+    0.39
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.75,
+    0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.22,
+    0.79,
+    -0.29
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two statues",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the vase and the watering can",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

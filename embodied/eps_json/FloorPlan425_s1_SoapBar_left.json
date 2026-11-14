@@ -1,0 +1,260 @@
+{
+ "episode_id": "FloorPlan425_s1_SoapBar_left",
+ "scene": "FloorPlan425",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "SoapBar",
+ "target_name": "soap bar",
+ "family": "left",
+ "phrase": "the soap bar on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9019671678543091,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "SoapBar_00590e87(Clone)_random_copy_1",
+  "obj2": "SoapBar_00590e87(Clone)_random_copy_0",
+  "obj3": "SoapBar_00590e87",
+  "obj4": "ToiletPaper_9cbc1e68",
+  "obj5": "Plunger_6fd588b5"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.32,
+    1.0,
+    3.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.78
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.88
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.4,
+    0.89,
+    1.83
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.67
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.32,
+    1.0,
+    3.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.91,
+    1.88
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.91,
+    1.78
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.4,
+    0.89,
+    1.83
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.67
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.32,
+    1.0,
+    3.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.78
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.89,
+    1.88
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.33,
+    0.91,
+    1.67
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.4,
+    0.91,
+    1.83
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two soap bars",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the toilet paper and the plunger",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

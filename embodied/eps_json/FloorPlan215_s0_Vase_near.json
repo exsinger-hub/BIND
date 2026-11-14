@@ -1,0 +1,474 @@
+{
+ "episode_id": "FloorPlan215_s0_Vase_near",
+ "scene": "FloorPlan215",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "near",
+ "phrase": "the vase next to the shelf",
+ "anchor": {
+  "id": "obj10",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": -5.0,
+   "y": 0.910965085029602,
+   "z": 4.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3",
+  "obj4",
+  "obj5",
+  "obj6",
+  "obj7"
+ ],
+ "ref_B": "obj5",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj5",
+ "marks": {
+  "obj1": "Vase_3540b97a",
+  "obj2": "Vase_d983054f",
+  "obj3": "Vase_295146ed",
+  "obj4": "Vase_a3cfc6da",
+  "obj5": "Vase_2d8a3763",
+  "obj6": "Vase_25867beb",
+  "obj7": "Vase_76a7e128",
+  "obj8": "Statue_5717ac4a",
+  "obj9": "Newspaper_3a46a3c1",
+  "obj10": "Shelf_4e7898f8"
+ },
+ "visible_B": [
+  4,
+  5,
+  6,
+  7,
+  10
+ ],
+ "visible_C_rel": [
+  2,
+  4,
+  6,
+  7,
+  10
+ ],
+ "visible_C_unr": [
+  4,
+  5,
+  6,
+  7,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.8,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.46,
+    3.61
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.29,
+    4.99
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.47,
+    4.37
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -2.41,
+    0.44,
+    2.18
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Newspaper",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.63,
+    0.44,
+    2.29
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -5.95,
+    0.16,
+    4.34
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.8,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.49,
+    4.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.29,
+    4.99
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.48,
+    3.61
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -2.41,
+    0.44,
+    2.18
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Newspaper",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.63,
+    0.44,
+    2.29
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -5.95,
+    0.16,
+    4.34
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.8,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.46,
+    3.61
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.29,
+    4.99
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.47,
+    4.37
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.63,
+    0.46,
+    2.29
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Newspaper",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -2.41,
+    0.46,
+    2.18
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -5.95,
+    0.16,
+    4.34
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj5",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the newspaper",
+  "objects": [
+   "obj8",
+   "obj9"
+  ]
+ }
+}

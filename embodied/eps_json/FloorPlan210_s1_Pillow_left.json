@@ -1,0 +1,258 @@
+{
+ "episode_id": "FloorPlan210_s1_Pillow_left",
+ "scene": "FloorPlan210",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "left",
+ "phrase": "the pillow on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9057542085647583,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Pillow_4f745fd7(Clone)_random_copy_1",
+  "obj2": "Pillow_4f745fd7(Clone)_random_copy_0",
+  "obj3": "Pillow_4f745fd7",
+  "obj4": "Newspaper_28828880",
+  "obj5": "Box_acb44c64"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "ottoman"
+   ],
+   "position": [
+    -1.57,
+    0.53,
+    1.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.12,
+    0.57,
+    0.43
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.82,
+    0.57,
+    0.15
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.46,
+    0.44,
+    1.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.53,
+    0.78,
+    0.62
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "ottoman"
+   ],
+   "position": [
+    -1.57,
+    0.53,
+    1.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.82,
+    0.59,
+    0.15
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.12,
+    0.59,
+    0.43
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.46,
+    0.44,
+    1.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.53,
+    0.78,
+    0.62
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "ottoman"
+   ],
+   "position": [
+    -1.57,
+    0.53,
+    1.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.12,
+    0.57,
+    0.43
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.82,
+    0.57,
+    0.15
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [],
+   "position": [
+    -2.53,
+    0.8,
+    0.62
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -4.46,
+    0.46,
+    1.38
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the newspaper and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

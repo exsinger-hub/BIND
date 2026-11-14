@@ -1,0 +1,266 @@
+{
+ "episode_id": "FloorPlan225_s0_Vase_left",
+ "scene": "FloorPlan225",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "left",
+ "phrase": "the vase on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.906817615032196,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Vase_148d4dc0(Clone)_random_copy_1",
+  "obj2": "Vase_148d4dc0(Clone)_random_copy_0",
+  "obj3": "Vase_148d4dc0",
+  "obj4": "Newspaper_63a762ea",
+  "obj5": "TissueBox_3caeaca6"
+ },
+ "visible_B": [
+  2,
+  3,
+  4
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.43,
+    1.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.76,
+    2.83
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.43,
+    0.64
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.77,
+    2.98
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.98,
+    0.2,
+    2.84
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.43,
+    1.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.45,
+    0.64
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.78,
+    2.83
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.77,
+    2.98
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.98,
+    0.2,
+    2.84
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.43,
+    1.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.76,
+    2.83
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.43,
+    0.64
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Newspaper",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.98,
+    0.22,
+    2.84
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.79,
+    2.98
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the newspaper and the tissue box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

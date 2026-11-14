@@ -1,0 +1,484 @@
+{
+ "episode_id": "FloorPlan211_s0_Box_right",
+ "scene": "FloorPlan211",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "right",
+ "phrase": "the box on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.75,
+   "y": 0.9009991884231567,
+   "z": -1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Box_6875efd0(Clone)_random_copy_1",
+  "obj2": "Box_6875efd0(Clone)_random_copy_0",
+  "obj3": "Box_6875efd0",
+  "obj4": "RemoteControl_6b6acd0d",
+  "obj5": "Laptop_a8426a01",
+  "obj6": "CellPhone_673ecda8",
+  "obj7": "Newspaper_4b7df6f2",
+  "obj8": "Pillow_f0273d63",
+  "obj9": "Plate_18ce2457",
+  "obj10": "Vase_c6940b75"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    3.48,
+    0.72,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.09,
+    0.19,
+    0.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.04,
+    0.18,
+    0.9
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.4,
+    0.49,
+    0.81
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.47,
+    0.49,
+    0.42
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    0.47
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    -0.04
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.17,
+    0.41,
+    0.09
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.06,
+    0.56,
+    1.93
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.25,
+    0.35,
+    0.6
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.04,
+    0.2,
+    0.9
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.09,
+    0.19,
+    0.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    3.48,
+    0.74,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.4,
+    0.49,
+    0.81
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.47,
+    0.49,
+    0.42
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    0.47
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    -0.04
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.17,
+    0.41,
+    0.09
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.06,
+    0.56,
+    1.93
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.25,
+    0.35,
+    0.6
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    3.48,
+    0.72,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.09,
+    0.19,
+    0.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.04,
+    0.18,
+    0.9
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.47,
+    0.51,
+    0.42
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    1.4,
+    0.51,
+    0.81
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    0.47
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    0.41,
+    0.35,
+    -0.04
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.17,
+    0.41,
+    0.09
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.06,
+    0.56,
+    1.93
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.25,
+    0.35,
+    0.6
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the remote control and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

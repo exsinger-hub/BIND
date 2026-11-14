@@ -1,0 +1,437 @@
+{
+ "episode_id": "FloorPlan221_s1_RemoteControl_on",
+ "scene": "FloorPlan221",
+ "room": "living",
+ "seed": 1,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "on",
+ "phrase": "the remote control on the dining table",
+ "anchor": {
+  "id": null,
+  "type": "DiningTable",
+  "name": "dining table"
+ },
+ "view": {
+  "position": {
+   "x": -3.75,
+   "y": 0.9984914064407349,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "RemoteControl_083b447b(Clone)_random_copy_1",
+  "obj2": "RemoteControl_083b447b(Clone)_random_copy_0",
+  "obj3": "RemoteControl_083b447b",
+  "obj4": "Box_5f44b523",
+  "obj5": "Laptop_a2ad536c",
+  "obj6": "Pillow_89a0dbb2",
+  "obj7": "Plate_ddedc953",
+  "obj8": "Statue_97ef7348",
+  "obj9": "Vase_729c2963"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.66,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.99,
+    0.88,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.07,
+    0.66,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -0.96,
+    0.61,
+    -0.58
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.38,
+    0.52,
+    0.8
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.95,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.43,
+    0.89,
+    -1.29
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.25,
+    0.52,
+    0.74
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.24,
+    0.97,
+    -2.53
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.99,
+    0.9,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.68,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.07,
+    0.66,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -0.96,
+    0.61,
+    -0.58
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.38,
+    0.52,
+    0.8
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.95,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.43,
+    0.89,
+    -1.29
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.25,
+    0.52,
+    0.74
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.24,
+    0.97,
+    -2.53
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.66,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.99,
+    0.88,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.07,
+    0.66,
+    -0.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.38,
+    0.54,
+    0.8
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [],
+   "position": [
+    -0.96,
+    0.63,
+    -0.58
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.95,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.43,
+    0.89,
+    -1.29
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.25,
+    0.52,
+    0.74
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.24,
+    0.97,
+    -2.53
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the box and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

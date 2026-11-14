@@ -1,0 +1,313 @@
+{
+ "episode_id": "FloorPlan223_s1_Pillow_near",
+ "scene": "FloorPlan223",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "near",
+ "phrase": "the pillow next to the arm chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.9009991884231567,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pillow_caec4930(Clone)_random_copy_1",
+  "obj2": "Pillow_caec4930(Clone)_random_copy_0",
+  "obj3": "Pillow_caec4930",
+  "obj4": "Plate_1c90ccc9",
+  "obj5": "RemoteControl_09703e97",
+  "obj6": "ArmChair_60bb8c35"
+ },
+ "visible_B": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -0.57,
+    0.38,
+    1.06
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.47,
+    0.57,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.66,
+    -0.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "dining table",
+    "floor"
+   ],
+   "position": [
+    -1.73,
+    0.24,
+    2.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.45,
+    0.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.43,
+    0.01,
+    1.06
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.68,
+    -0.81
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.47,
+    0.57,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -0.57,
+    0.4,
+    1.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "dining table",
+    "floor"
+   ],
+   "position": [
+    -1.73,
+    0.24,
+    2.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.45,
+    0.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.43,
+    0.01,
+    1.06
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -0.57,
+    0.38,
+    1.06
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.47,
+    0.57,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -3.23,
+    0.66,
+    -0.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.18,
+    0.47,
+    0.14
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "RemoteControl",
+   "on": [
+    "dining table",
+    "floor"
+   ],
+   "position": [
+    -1.73,
+    0.26,
+    2.79
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.43,
+    0.01,
+    1.06
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plate and the remote control",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

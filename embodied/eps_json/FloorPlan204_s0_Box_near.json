@@ -1,0 +1,344 @@
+{
+ "episode_id": "FloorPlan204_s0_Box_near",
+ "scene": "FloorPlan204",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "near",
+ "phrase": "the box next to the chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "Chair",
+  "name": "chair"
+ },
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.902314305305481,
+   "z": 3.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Box_09bf8add(Clone)_random_copy_1",
+  "obj2": "Box_09bf8add(Clone)_random_copy_0",
+  "obj3": "Box_09bf8add",
+  "obj4": "Laptop_dfbbea5a",
+  "obj5": "Vase_2b8fe0ec",
+  "obj6": "Chair_bbebc902",
+  "obj7": "Statue_4069e1cc"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.16,
+    0.71,
+    6.0
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.63,
+    0.62,
+    2.72
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.6,
+    1.02,
+    1.57
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.1,
+    0.74,
+    1.57
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.15,
+    0.35,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.99
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.39,
+    0.83,
+    1.08
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.6,
+    1.04,
+    1.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.63,
+    0.62,
+    2.72
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.16,
+    0.73,
+    6.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.1,
+    0.74,
+    1.57
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.15,
+    0.35,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.99
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.39,
+    0.83,
+    1.08
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.16,
+    0.71,
+    6.0
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.63,
+    0.62,
+    2.72
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.6,
+    1.02,
+    1.57
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.15,
+    0.37,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.1,
+    0.76,
+    1.57
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.99
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.39,
+    0.83,
+    1.08
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the vase",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

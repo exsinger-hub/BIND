@@ -1,0 +1,327 @@
+{
+ "episode_id": "FloorPlan415_s1_Cloth_right",
+ "scene": "FloorPlan415",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Cloth",
+ "target_name": "cloth",
+ "family": "right",
+ "phrase": "the cloth on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.9007236361503601,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Cloth_481f24b7(Clone)_random_copy_1",
+  "obj2": "Cloth_481f24b7(Clone)_random_copy_0",
+  "obj3": "Cloth_481f24b7",
+  "obj4": "Plunger_13bbea6a",
+  "obj5": "SoapBar_9112bbd7",
+  "obj6": "HandTowel_8347a457"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.08,
+    -1.11
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -0.17,
+    1.16,
+    -3.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.52,
+    0.08,
+    -0.68
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.46,
+    0.08,
+    -0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBar",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.08,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HandTowel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.59,
+    0.48,
+    -0.39
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.52,
+    0.1,
+    -0.68
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -0.17,
+    1.16,
+    -3.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.1,
+    -1.11
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.46,
+    0.08,
+    -0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBar",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.08,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HandTowel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.59,
+    0.48,
+    -0.39
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.08,
+    -1.11
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -0.17,
+    1.16,
+    -3.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.52,
+    0.08,
+    -0.68
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.65,
+    0.1,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBar",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.46,
+    0.1,
+    -0.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "HandTowel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.59,
+    0.48,
+    -0.39
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cloths",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plunger and the soap bar",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,270 @@
+{
+ "episode_id": "FloorPlan226_s0_Statue_left",
+ "scene": "FloorPlan226",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Statue",
+ "target_name": "statue",
+ "family": "left",
+ "phrase": "the statue on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.75,
+   "y": 0.9009991884231567,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Statue_6358af68(Clone)_random_copy_0",
+  "obj2": "Statue_6358af68",
+  "obj3": "Statue_f3860f63",
+  "obj4": "Box_8c8aa137",
+  "obj5": "Newspaper_1842a4b9"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.56,
+    -0.45
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.26,
+    0.33,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.34,
+    0.33,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.72,
+    0.2,
+    0.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.26,
+    0.55,
+    -0.45
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.34,
+    0.35,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.26,
+    0.33,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.58,
+    -0.45
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.72,
+    0.2,
+    0.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.26,
+    0.55,
+    -0.45
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.56,
+    -0.45
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.26,
+    0.33,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    1.34,
+    0.33,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "drawer"
+   ],
+   "position": [
+    -0.26,
+    0.57,
+    -0.45
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.72,
+    0.22,
+    0.44
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two statues",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the box and the newspaper",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "episode_id": "FloorPlan10_s1_Pan_near",
+ "scene": "FloorPlan10",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Pan",
+ "target_name": "pan",
+ "family": "near",
+ "phrase": "the pan next to the microwave",
+ "anchor": {
+  "id": "obj5",
+  "type": "Microwave",
+  "name": "microwave"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009992480278015,
+   "z": -0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pan_9ab103d1(Clone)_random_copy_0",
+  "obj2": "Pan_9ab103d1",
+  "obj3": "DishSponge_a2e8b0f9",
+  "obj4": "Apple_f33eaaa0",
+  "obj5": "Microwave_d8b935e4",
+  "obj6": "ButterKnife_42394ea7",
+  "obj7": "Knife_e6601c42",
+  "obj8": "Statue_ed6ce732",
+  "obj9": "Vase_7932859a"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    0.84,
+    0.95,
+    -1.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.91,
+    -0.21
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.91,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.11,
+    0.96,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Microwave",
+   "on": [],
+   "position": [
+    1.04,
+    1.68,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.92,
+    -0.38
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.93,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.91,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.91,
+    -1.79
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.93,
+    -0.21
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    0.84,
+    0.97,
+    -1.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.91,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.11,
+    0.96,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Microwave",
+   "on": [],
+   "position": [
+    1.04,
+    1.68,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.92,
+    -0.38
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.93,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.91,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.91,
+    -1.79
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "counter",
+    "stove"
+   ],
+   "position": [
+    0.84,
+    0.95,
+    -1.5
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.91,
+    -0.21
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.11,
+    0.98,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.86,
+    0.93,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Microwave",
+   "on": [],
+   "position": [
+    1.04,
+    1.68,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.92,
+    -0.38
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.93,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.03,
+    0.91,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.91,
+    -1.79
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pans",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the dish sponge and the apple",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

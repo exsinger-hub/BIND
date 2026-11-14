@@ -1,0 +1,254 @@
+{
+ "episode_id": "FloorPlan316_s1_KeyChain_left",
+ "scene": "FloorPlan316",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "KeyChain",
+ "target_name": "key chain",
+ "family": "left",
+ "phrase": "the key chain on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9019328355789185,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "KeyChain_749453ef(Clone)_random_copy_1",
+  "obj2": "KeyChain_749453ef(Clone)_random_copy_0",
+  "obj3": "KeyChain_749453ef",
+  "obj4": "CellPhone_02be18f8",
+  "obj5": "Laptop_dbbe4fcb"
+ },
+ "visible_B": [
+  1,
+  2
+ ],
+ "visible_C_rel": [
+  1,
+  3
+ ],
+ "visible_C_unr": [
+  1,
+  2
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.56,
+    0.68,
+    0.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.79,
+    0.67,
+    0.41
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.03,
+    0.42,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.22,
+    0.59,
+    -1.04
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.65,
+    0.7,
+    -1.4
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.56,
+    0.68,
+    0.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.03,
+    0.44,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.79,
+    0.69,
+    0.41
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.22,
+    0.59,
+    -1.04
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.65,
+    0.7,
+    -1.4
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.56,
+    0.68,
+    0.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.79,
+    0.67,
+    0.41
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.03,
+    0.42,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.65,
+    0.72,
+    -1.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.22,
+    0.61,
+    -1.04
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two key chains",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cell phone and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

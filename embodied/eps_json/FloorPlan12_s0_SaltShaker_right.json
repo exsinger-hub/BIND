@@ -1,0 +1,343 @@
+{
+ "episode_id": "FloorPlan12_s0_SaltShaker_right",
+ "scene": "FloorPlan12",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "SaltShaker",
+ "target_name": "salt shaker",
+ "family": "right",
+ "phrase": "the salt shaker on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.75,
+   "y": 0.9799999594688416,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "SaltShaker_8f512b39(Clone)_random_copy_1",
+  "obj2": "SaltShaker_8f512b39(Clone)_random_copy_0",
+  "obj3": "SaltShaker_8f512b39",
+  "obj4": "Fork_4730c908",
+  "obj5": "Lettuce_061177c5",
+  "obj6": "DishSponge_dd3bbd51",
+  "obj7": "SoapBottle_cb8a06f5"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.6,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.32,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.41,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.46,
+    0.94,
+    1.76
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.59,
+    1.01,
+    2.12
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.71,
+    0.93,
+    2.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.36,
+    0.93,
+    2.12
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.41,
+    0.96,
+    1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.32,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.6,
+    0.96,
+    1.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.46,
+    0.94,
+    1.76
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.59,
+    1.01,
+    2.12
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.71,
+    0.93,
+    2.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.36,
+    0.93,
+    2.12
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.6,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.32,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.41,
+    0.94,
+    1.84
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.59,
+    1.03,
+    2.12
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.46,
+    0.96,
+    1.76
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.71,
+    0.93,
+    2.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.36,
+    0.93,
+    2.12
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two salt shakers",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the fork and the lettuce",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,300 @@
+{
+ "episode_id": "FloorPlan409_s0_SprayBottle_right",
+ "scene": "FloorPlan409",
+ "room": "bathroom",
+ "seed": 0,
+ "target_type": "SprayBottle",
+ "target_name": "spray bottle",
+ "family": "right",
+ "phrase": "the spray bottle on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9011651277542114,
+   "z": 2.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "SprayBottle_053f0711(Clone)_random_copy_1",
+  "obj2": "SprayBottle_053f0711(Clone)_random_copy_0",
+  "obj3": "SprayBottle_053f0711",
+  "obj4": "ScrubBrush_fb49be2c",
+  "obj5": "ToiletPaper_9ba31529",
+  "obj6": "Towel_d0874aed"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.04,
+    1.4
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.04,
+    1.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.82,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.04,
+    1.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.04,
+    1.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.06,
+    1.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.06,
+    1.4
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.82,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.04,
+    1.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.04,
+    1.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.04,
+    1.4
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.04,
+    1.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.82,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.66,
+    1.06,
+    1.34
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.56,
+    1.06,
+    1.53
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two spray bottles",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the scrub brush and the toilet paper",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

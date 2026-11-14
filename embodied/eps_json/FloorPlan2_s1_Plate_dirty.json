@@ -1,0 +1,422 @@
+{
+ "episode_id": "FloorPlan2_s1_Plate_dirty",
+ "scene": "FloorPlan2",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Plate",
+ "target_name": "plate",
+ "family": "dirty",
+ "phrase": "the dirty plate",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.75,
+   "y": 0.9009992480278015,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Plate_f7062da2(Clone)_random_copy_1",
+  "obj2": "Plate_f7062da2(Clone)_random_copy_0",
+  "obj3": "Plate_f7062da2",
+  "obj4": "SoapBottle_977a5c07",
+  "obj5": "Mug_5b20fbb4",
+  "obj6": "CellPhone_aedef2ad",
+  "obj7": "Lettuce_e4c06bf0",
+  "obj8": "Tomato_5fb6a620"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.11,
+    0.92,
+    -0.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.65,
+    0.91,
+    -0.61
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.84,
+    0.91,
+    -1.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.0,
+    0.74,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.74,
+    -1.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.92,
+    0.04
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.99,
+    -0.19
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.26,
+    0.8,
+    -1.38
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.11,
+    0.92,
+    -0.19
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.65,
+    0.91,
+    -0.61
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.84,
+    0.91,
+    -1.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.0,
+    0.74,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.74,
+    -1.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.92,
+    0.04
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.99,
+    -0.19
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.26,
+    0.8,
+    -1.38
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.11,
+    0.92,
+    -0.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.65,
+    0.91,
+    -0.61
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.84,
+    0.91,
+    -1.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.76,
+    -1.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.0,
+    0.76,
+    -1.55
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.92,
+    0.04
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.99,
+    -0.19
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.26,
+    0.8,
+    -1.38
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "washed the dirty plate and then used another plate, which is now dirty",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the soap bottle and the mug",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

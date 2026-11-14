@@ -1,0 +1,299 @@
+{
+ "episode_id": "FloorPlan324_s0_AlarmClock_right",
+ "scene": "FloorPlan324",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "right",
+ "phrase": "the alarm clock on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.0,
+   "y": 0.9020034074783325,
+   "z": -1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "AlarmClock_3207556f(Clone)_random_copy_1",
+  "obj2": "AlarmClock_3207556f(Clone)_random_copy_0",
+  "obj3": "AlarmClock_3207556f",
+  "obj4": "BaseballBat_edc1898d",
+  "obj5": "KeyChain_c874d811",
+  "obj6": "Pillow_9c195aef"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.83,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.58,
+    1.1,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.76,
+    0.83,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.7,
+    0.88,
+    -1.83
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.85,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.73,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.58,
+    1.1,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.76,
+    0.83,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.7,
+    0.88,
+    -1.83
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.83,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "drawer",
+    "drawer"
+   ],
+   "position": [
+    1.76,
+    0.85,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [],
+   "position": [
+    1.58,
+    1.12,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.7,
+    0.88,
+    -1.83
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the baseball bat and the key chain",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

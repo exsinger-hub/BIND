@@ -1,0 +1,440 @@
+{
+ "episode_id": "FloorPlan226_s1_KeyChain_near",
+ "scene": "FloorPlan226",
+ "room": "living",
+ "seed": 1,
+ "target_type": "KeyChain",
+ "target_name": "key chain",
+ "family": "near",
+ "phrase": "the key chain next to the arm chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9009991884231567,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "KeyChain_a09b2c6d(Clone)_random_copy_1",
+  "obj2": "KeyChain_a09b2c6d(Clone)_random_copy_0",
+  "obj3": "KeyChain_a09b2c6d",
+  "obj4": "Statue_f3860f63",
+  "obj5": "Pillow_c7d36745",
+  "obj6": "ArmChair_d1a1ec9c",
+  "obj7": "Laptop_4fc0ea87",
+  "obj8": "Newspaper_1842a4b9",
+  "obj9": "Statue_6358af68"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.11,
+    0.34,
+    -1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.33,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.71,
+    0.55,
+    -0.54
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.33,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    0.18,
+    0.55,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.51,
+    0.0,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.52,
+    0.34,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.34,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.56,
+    -0.45
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.11,
+    0.34,
+    -1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.71,
+    0.57,
+    -0.54
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.35,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.33,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    0.18,
+    0.55,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.51,
+    0.0,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.52,
+    0.34,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.34,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.56,
+    -0.45
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.11,
+    0.34,
+    -1.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.33,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.71,
+    0.55,
+    -0.54
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.18,
+    0.57,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    1.42,
+    0.35,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    1.51,
+    0.0,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.52,
+    0.34,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.34,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.41,
+    0.56,
+    -0.45
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two key chains",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the pillow",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

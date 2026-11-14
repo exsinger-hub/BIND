@@ -1,0 +1,325 @@
+{
+ "episode_id": "FloorPlan404_s1_Cloth_near",
+ "scene": "FloorPlan404",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Cloth",
+ "target_name": "cloth",
+ "family": "near",
+ "phrase": "the cloth next to the shelf",
+ "anchor": {
+  "id": "obj6",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.9031611680984497,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Cloth_bfd11795(Clone)_random_copy_1",
+  "obj2": "Cloth_bfd11795(Clone)_random_copy_0",
+  "obj3": "Cloth_bfd11795",
+  "obj4": "SprayBottle_a9c0261e",
+  "obj5": "SoapBottle_65e881e8",
+  "obj6": "Shelf_4f6e9580"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.82,
+    1.07,
+    2.16
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.47,
+    0.29,
+    2.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.28,
+    1.05,
+    -0.77
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.14,
+    0.29,
+    2.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.31,
+    0.29,
+    2.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -1.17,
+    1.06,
+    2.16
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.28,
+    1.07,
+    -0.77
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.47,
+    0.29,
+    2.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.82,
+    1.09,
+    2.16
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.14,
+    0.29,
+    2.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.31,
+    0.29,
+    2.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -1.17,
+    1.06,
+    2.16
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.82,
+    1.07,
+    2.16
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.47,
+    0.29,
+    2.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.28,
+    1.05,
+    -0.77
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.31,
+    0.31,
+    2.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.14,
+    0.31,
+    2.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -1.17,
+    1.06,
+    2.16
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cloths",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spray bottle and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

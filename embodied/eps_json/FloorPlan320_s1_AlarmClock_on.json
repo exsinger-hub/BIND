@@ -1,0 +1,548 @@
+{
+ "episode_id": "FloorPlan320_s1_AlarmClock_on",
+ "scene": "FloorPlan320",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "on",
+ "phrase": "the alarm clock on the bed",
+ "anchor": {
+  "id": null,
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9017602205276489,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "AlarmClock_fee6a9a6(Clone)_random_copy_1",
+  "obj2": "AlarmClock_fee6a9a6(Clone)_random_copy_0",
+  "obj3": "AlarmClock_fee6a9a6",
+  "obj4": "Footstool_98f9f920",
+  "obj5": "BasketBall_3ea03c8d",
+  "obj6": "Book_9480f3bc",
+  "obj7": "CellPhone_15633f73",
+  "obj8": "Dumbbell_eb94171d",
+  "obj9": "Footstool_d3c102ff",
+  "obj10": "Pillow_a19cf96e",
+  "obj11": "TeddyBear_222111dc",
+  "obj12": "TennisRacket_c8b6933c"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.54,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.01,
+    0.7,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.87,
+    0.69,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Footstool",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.54,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.86,
+    0.75,
+    0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.58,
+    0.69,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.83
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.74,
+    0.54,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Footstool",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.65,
+    0.14,
+    1.54
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.56,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.56,
+    -0.55
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.87,
+    0.71,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.01,
+    0.7,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.56,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Footstool",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.54,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.86,
+    0.75,
+    0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.58,
+    0.69,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.83
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.74,
+    0.54,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Footstool",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.65,
+    0.14,
+    1.54
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.56,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.56,
+    -0.55
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.54,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.01,
+    0.7,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.87,
+    0.69,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Footstool",
+   "on": [],
+   "position": [
+    -1.86,
+    0.77,
+    0.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.56,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.58,
+    0.69,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.83
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.74,
+    0.54,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Footstool",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.8,
+    0.54,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.65,
+    0.14,
+    1.54
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.56,
+    0.56,
+    -0.97
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.03,
+    0.56,
+    -0.55
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the footstool and the basket ball",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

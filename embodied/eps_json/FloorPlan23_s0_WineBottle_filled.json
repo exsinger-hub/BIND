@@ -1,0 +1,525 @@
+{
+ "episode_id": "FloorPlan23_s0_WineBottle_filled",
+ "scene": "FloorPlan23",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "WineBottle",
+ "target_name": "wine bottle",
+ "family": "filled",
+ "phrase": "the wine bottle with coffee in it",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -3.25,
+   "y": 0.9009994864463806,
+   "z": -0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "WineBottle_1e7c21f9(Clone)_random_copy_1",
+  "obj2": "WineBottle_1e7c21f9(Clone)_random_copy_0",
+  "obj3": "WineBottle_1e7c21f9",
+  "obj4": "Cup_43b81289",
+  "obj5": "SoapBottle_8f65dd15",
+  "obj6": "Bowl_e22666b5",
+  "obj7": "DishSponge_dc253c88",
+  "obj8": "Lettuce_b836fe44",
+  "obj9": "Mug_086d7737",
+  "obj10": "Tomato_7bbb93e8"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.51,
+    -2.21
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.77,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.82,
+    0.91,
+    -3.56
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.4,
+    0.79,
+    -1.93
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.64,
+    0.16,
+    -1.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.43,
+    0.92,
+    -1.69
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.53,
+    1.0,
+    -3.56
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.0
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.09,
+    0.99,
+    -1.46
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.51,
+    -2.21
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.77,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.82,
+    0.91,
+    -3.56
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.4,
+    0.79,
+    -1.93
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.64,
+    0.16,
+    -1.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.43,
+    0.92,
+    -1.69
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.53,
+    1.0,
+    -3.56
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.0
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.09,
+    0.99,
+    -1.46
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.17,
+    0.51,
+    -2.21
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.77,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.46
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.4,
+    0.81,
+    -1.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.82,
+    0.93,
+    -3.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.64,
+    0.16,
+    -1.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.43,
+    0.92,
+    -1.69
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.53,
+    1.0,
+    -3.56
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.66,
+    0.92,
+    -1.0
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.09,
+    0.99,
+    -1.46
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "poured out the old coffee and made a fresh coffee in another wine bottle",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cup and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

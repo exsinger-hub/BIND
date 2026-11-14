@@ -1,0 +1,423 @@
+{
+ "episode_id": "FloorPlan206_s1_Pillow_left",
+ "scene": "FloorPlan206",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "left",
+ "phrase": "the pillow on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9009991884231567,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Pillow_2ebfd234(Clone)_random_copy_1",
+  "obj2": "Pillow_2ebfd234(Clone)_random_copy_0",
+  "obj3": "Pillow_2ebfd234",
+  "obj4": "Statue_8e561855",
+  "obj5": "Vase_c88458c3",
+  "obj6": "RemoteControl_98d89f2b",
+  "obj7": "Statue_4705969d",
+  "obj8": "Vase_815d9edb",
+  "obj9": "Vase_9f85a4eb"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.35,
+    0.61,
+    0.87
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.79,
+    0.24,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.18,
+    0.58,
+    -2.13
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -1.74,
+    0.76,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    0.42,
+    0.75,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.47,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.13,
+    0.48,
+    -0.92
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.32,
+    0.47,
+    -1.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.47,
+    0.47,
+    -0.99
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.18,
+    0.6,
+    -2.13
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.79,
+    0.24,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.35,
+    0.63,
+    0.87
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -1.74,
+    0.76,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    0.42,
+    0.75,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.47,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.13,
+    0.48,
+    -0.92
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.32,
+    0.47,
+    -1.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.47,
+    0.47,
+    -0.99
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.35,
+    0.61,
+    0.87
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -1.79,
+    0.24,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.18,
+    0.58,
+    -2.13
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    0.42,
+    0.77,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -1.74,
+    0.78,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.47,
+    -1.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.13,
+    0.48,
+    -0.92
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.32,
+    0.47,
+    -1.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.47,
+    0.47,
+    -0.99
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the vase",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

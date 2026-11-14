@@ -1,0 +1,285 @@
+{
+ "episode_id": "FloorPlan14_s1_Pot_right",
+ "scene": "FloorPlan14",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "right",
+ "phrase": "the pot on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009991884231567,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pot_9744f316(Clone)_random_copy_1",
+  "obj2": "Pot_9744f316",
+  "obj3": "Bread_a7bcfb19",
+  "obj4": "Lettuce_a9f86f45",
+  "obj5": "Tomato_23ead445"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.99,
+    0.91,
+    0.83
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.48,
+    0.91,
+    1.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.97,
+    0.64,
+    1.77
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.45,
+    0.65,
+    1.75
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.17,
+    0.62,
+    1.77
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.48,
+    0.93,
+    1.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.99,
+    0.93,
+    0.83
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.97,
+    0.64,
+    1.77
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.45,
+    0.65,
+    1.75
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.17,
+    0.62,
+    1.77
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.99,
+    0.91,
+    0.83
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.48,
+    0.91,
+    1.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.45,
+    0.67,
+    1.75
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.97,
+    0.66,
+    1.77
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.17,
+    0.62,
+    1.77
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pots",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bread and the lettuce",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

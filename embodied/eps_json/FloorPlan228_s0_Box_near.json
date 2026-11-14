@@ -1,0 +1,338 @@
+{
+ "episode_id": "FloorPlan228_s0_Box_near",
+ "scene": "FloorPlan228",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "near",
+ "phrase": "the box next to the sofa",
+ "anchor": {
+  "id": "obj6",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -4.0,
+   "y": 0.8938637971878052,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Box_4a24c46e(Clone)_random_copy_1",
+  "obj2": "Box_4a24c46e(Clone)_random_copy_0",
+  "obj3": "Box_4a24c46e",
+  "obj4": "RemoteControl_beb8e346",
+  "obj5": "Laptop_a5b01be3",
+  "obj6": "Sofa_2d03f4e3",
+  "obj7": "Pillow_20c7efac"
+ },
+ "visible_B": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.77,
+    0.52,
+    0.6
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.91,
+    0.65,
+    0.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.9,
+    0.61,
+    0.91
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.85,
+    0.4,
+    1.96
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -5.29,
+    0.47,
+    3.0
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.54,
+    -0.02,
+    0.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.54,
+    0.56,
+    0.47
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.91,
+    0.67,
+    0.39
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.77,
+    0.54,
+    0.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.9,
+    0.61,
+    0.91
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.85,
+    0.4,
+    1.96
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -5.29,
+    0.47,
+    3.0
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.54,
+    -0.02,
+    0.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.54,
+    0.56,
+    0.47
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.77,
+    0.52,
+    0.6
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.91,
+    0.65,
+    0.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.9,
+    0.61,
+    0.91
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -5.29,
+    0.49,
+    3.0
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.85,
+    0.42,
+    1.96
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.54,
+    -0.02,
+    0.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.54,
+    0.56,
+    0.47
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the remote control and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,345 @@
+{
+ "episode_id": "FloorPlan219_s1_Vase_near",
+ "scene": "FloorPlan219",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "near",
+ "phrase": "the vase next to the desk lamp",
+ "anchor": {
+  "id": "obj6",
+  "type": "DeskLamp",
+  "name": "desk lamp"
+ },
+ "view": {
+  "position": {
+   "x": -3.25,
+   "y": 0.9010564088821411,
+   "z": 3.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Vase_688cd664(Clone)_random_copy_1",
+  "obj2": "Vase_688cd664(Clone)_random_copy_0",
+  "obj3": "Vase_688cd664",
+  "obj4": "Statue_5391b44f",
+  "obj5": "Box_7ebd0db8",
+  "obj6": "DeskLamp_4286ac51",
+  "obj7": "RemoteControl_a4476624"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -5.53,
+    1.06,
+    0.17
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.11,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.11,
+    4.49
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -3.72,
+    1.11,
+    4.79
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.9,
+    0.83,
+    4.38
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.99,
+    1.11,
+    4.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -3.08,
+    1.11,
+    4.29
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.13,
+    4.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.11,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -5.53,
+    1.08,
+    0.17
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -3.72,
+    1.11,
+    4.79
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.9,
+    0.83,
+    4.38
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.99,
+    1.11,
+    4.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -3.08,
+    1.11,
+    4.29
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -5.53,
+    1.06,
+    0.17
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.11,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.11,
+    4.49
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.9,
+    0.85,
+    4.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "cabinet",
+    "dresser"
+   ],
+   "position": [
+    -3.72,
+    1.13,
+    4.79
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.99,
+    1.11,
+    4.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -3.08,
+    1.11,
+    4.29
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

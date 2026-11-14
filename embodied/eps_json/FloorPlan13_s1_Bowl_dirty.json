@@ -1,0 +1,295 @@
+{
+ "episode_id": "FloorPlan13_s1_Bowl_dirty",
+ "scene": "FloorPlan13",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Bowl",
+ "target_name": "bowl",
+ "family": "dirty",
+ "phrase": "the dirty bowl",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.8995019197463989,
+   "z": 5.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Bowl_73cbbb97(Clone)_random_copy_1",
+  "obj2": "Bowl_73cbbb97(Clone)_random_copy_0",
+  "obj3": "Bowl_73cbbb97",
+  "obj4": "Spatula_bcab7ec0",
+  "obj5": "Spoon_f1e64727"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.18,
+    0.92,
+    5.16
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.57,
+    0.93,
+    6.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.92,
+    6.26
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.18,
+    0.92,
+    5.16
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.57,
+    0.93,
+    6.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.92,
+    6.26
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.18,
+    0.92,
+    5.16
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.94,
+    6.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.57,
+    0.95,
+    6.26
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "washed the dirty bowl and then used another bowl, which is now dirty",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spatula and the spoon",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

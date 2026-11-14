@@ -1,0 +1,628 @@
+{
+ "episode_id": "FloorPlan303_s0_Mug_left",
+ "scene": "FloorPlan303",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "left",
+ "phrase": "the mug on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9010001420974731,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Mug_24c8276c(Clone)_random_copy_1",
+  "obj2": "Mug_24c8276c(Clone)_random_copy_0",
+  "obj3": "Mug_24c8276c",
+  "obj4": "Dumbbell_e6e98cae",
+  "obj5": "Cloth_f148b5b6",
+  "obj6": "AlarmClock_bbc4f349",
+  "obj7": "BaseballBat_10c50844",
+  "obj8": "Box_8056c4ad",
+  "obj9": "Laptop_6d9cd3ed",
+  "obj10": "Pencil_94a4b0ac",
+  "obj11": "Pillow_e1f1166a",
+  "obj12": "TennisRacket_10354c13",
+  "obj13": "Vase_d0d29537"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.55,
+    0.73,
+    -2.54
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.52,
+    0.36,
+    -0.22
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.43,
+    0.36,
+    -0.36
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Dumbbell",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.6,
+    -0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.72,
+    0.6,
+    -0.53
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.66,
+    0.6,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.87,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.3,
+    0.69,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.76,
+    0.42,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.46,
+    0.6,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.84,
+    0.48,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.44,
+    -1.97
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.42,
+    -2.22
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.43,
+    0.38,
+    -0.36
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.52,
+    0.36,
+    -0.22
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.55,
+    0.75,
+    -2.54
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Dumbbell",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.6,
+    -0.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.72,
+    0.6,
+    -0.53
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.66,
+    0.6,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.87,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.3,
+    0.69,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.76,
+    0.42,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.46,
+    0.6,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.84,
+    0.48,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.44,
+    -1.97
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.42,
+    -2.22
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.55,
+    0.73,
+    -2.54
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.52,
+    0.36,
+    -0.22
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.43,
+    0.36,
+    -0.36
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Dumbbell",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.72,
+    0.62,
+    -0.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.62,
+    -0.39
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.66,
+    0.6,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.52,
+    0.87,
+    -0.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.3,
+    0.69,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.76,
+    0.42,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.46,
+    0.6,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.84,
+    0.48,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.44,
+    -1.97
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.61,
+    0.42,
+    -2.22
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the dumbbell and the cloth",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

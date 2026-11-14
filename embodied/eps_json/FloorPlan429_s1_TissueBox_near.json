@@ -1,0 +1,464 @@
+{
+ "episode_id": "FloorPlan429_s1_TissueBox_near",
+ "scene": "FloorPlan429",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "TissueBox",
+ "target_name": "tissue box",
+ "family": "near",
+ "phrase": "the tissue box next to the bathtub",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bathtub",
+  "name": "bathtub"
+ },
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.9004193544387817,
+   "z": -1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "TissueBox_d6ff11e8(Clone)_random_copy_1",
+  "obj2": "TissueBox_d6ff11e8(Clone)_random_copy_0",
+  "obj3": "TissueBox_d6ff11e8",
+  "obj4": "ToiletPaper_ed7d7c57",
+  "obj5": "Candle_8254649f",
+  "obj6": "Bathtub_8c0250ab",
+  "obj7": "Plunger_b904482c",
+  "obj8": "SoapBar_0f8b8aef",
+  "obj9": "SoapBottle_e44484e3",
+  "obj10": "SprayBottle_fc7a7219"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.05,
+    0.95,
+    -3.9
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.2,
+    0.04,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.17,
+    0.83,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.04,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.88,
+    0.99,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.12,
+    -0.09,
+    -3.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.04,
+    -1.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.42,
+    0.99,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.97,
+    0.04,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.09,
+    0.04,
+    -2.97
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.2,
+    0.06,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.05,
+    0.97,
+    -3.9
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.17,
+    0.83,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.04,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.88,
+    0.99,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.12,
+    -0.09,
+    -3.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.04,
+    -1.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.42,
+    0.99,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.97,
+    0.04,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.09,
+    0.04,
+    -2.97
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.05,
+    0.95,
+    -3.9
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.2,
+    0.04,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.17,
+    0.83,
+    -0.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.88,
+    1.01,
+    -0.59
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Candle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.06,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.12,
+    -0.09,
+    -3.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plunger",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.64,
+    0.04,
+    -1.82
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.42,
+    0.99,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.97,
+    0.04,
+    -3.26
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -2.09,
+    0.04,
+    -2.97
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tissue boxs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the toilet paper and the candle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

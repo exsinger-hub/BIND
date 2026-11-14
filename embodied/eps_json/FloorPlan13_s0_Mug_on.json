@@ -1,0 +1,416 @@
+{
+ "episode_id": "FloorPlan13_s0_Mug_on",
+ "scene": "FloorPlan13",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "on",
+ "phrase": "the mug on the coffee machine",
+ "anchor": {
+  "id": null,
+  "type": "CoffeeMachine",
+  "name": "coffee machine"
+ },
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.8995019197463989,
+   "z": 6.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Mug_58045d2a(Clone)_random_copy_1",
+  "obj2": "Mug_58045d2a(Clone)_random_copy_0",
+  "obj3": "Mug_58045d2a",
+  "obj4": "WineBottle_be0de80e",
+  "obj5": "Cup_29975de9",
+  "obj6": "Bowl_73cbbb97",
+  "obj7": "Spoon_f1e64727"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.49,
+    0.92,
+    3.86
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -0.45,
+    0.96,
+    6.56
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.92,
+    5.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.49,
+    0.92,
+    5.6
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.6
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.1,
+    0.92,
+    4.94
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -0.45,
+    0.98,
+    6.56
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.49,
+    0.94,
+    3.86
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.92,
+    5.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.49,
+    0.92,
+    5.6
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.92,
+    5.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.6
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.1,
+    0.92,
+    4.94
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -4.49,
+    0.92,
+    3.86
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -0.45,
+    0.96,
+    6.56
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    0.92,
+    5.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.41,
+    0.94,
+    5.93
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.49,
+    0.94,
+    5.6
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.18,
+    0.92,
+    5.6
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.1,
+    0.92,
+    4.94
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the wine bottle and the cup",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,488 @@
+{
+ "episode_id": "FloorPlan410_s1_Cloth_near",
+ "scene": "FloorPlan410",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Cloth",
+ "target_name": "cloth",
+ "family": "near",
+ "phrase": "the cloth next to the faucet",
+ "anchor": {
+  "id": "obj6",
+  "type": "Faucet",
+  "name": "faucet"
+ },
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9003945589065552,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Cloth_975f42f1(Clone)_random_copy_1",
+  "obj2": "Cloth_975f42f1(Clone)_random_copy_0",
+  "obj3": "Cloth_975f42f1",
+  "obj4": "ScrubBrush_d254f126",
+  "obj5": "SoapBottle_7911e69e",
+  "obj6": "Faucet_4557cc2c",
+  "obj7": "HandTowel_9bcfba9a",
+  "obj8": "Plunger_9f830d51",
+  "obj9": "SoapBar_c4834e18",
+  "obj10": "ToiletPaper_11fa1759"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.51,
+    0.88,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.1,
+    0.83,
+    2.07
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.11,
+    0.88,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.87,
+    0.88,
+    1.87
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.28,
+    0.82,
+    1.65
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [],
+   "position": [
+    -1.42,
+    0.95,
+    1.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    1.28,
+    1.7
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.43,
+    0.82,
+    1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.35,
+    0.88,
+    1.7
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.88,
+    1.7
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.11,
+    0.9,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.1,
+    0.83,
+    2.07
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.51,
+    0.9,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.87,
+    0.88,
+    1.87
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.28,
+    0.82,
+    1.65
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [],
+   "position": [
+    -1.42,
+    0.95,
+    1.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    1.28,
+    1.7
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.43,
+    0.82,
+    1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.35,
+    0.88,
+    1.7
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.88,
+    1.7
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.51,
+    0.88,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cloth",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.1,
+    0.83,
+    2.07
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.11,
+    0.88,
+    1.79
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.28,
+    0.84,
+    1.65
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.87,
+    0.9,
+    1.87
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [],
+   "position": [
+    -1.42,
+    0.95,
+    1.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    1.28,
+    1.7
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.43,
+    0.82,
+    1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.35,
+    0.88,
+    1.7
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.88,
+    1.7
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cloths",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the scrub brush and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

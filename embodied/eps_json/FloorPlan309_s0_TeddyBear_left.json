@@ -1,0 +1,297 @@
+{
+ "episode_id": "FloorPlan309_s0_TeddyBear_left",
+ "scene": "FloorPlan309",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "TeddyBear",
+ "target_name": "teddy bear",
+ "family": "left",
+ "phrase": "the teddy bear on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9469271898269653,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "TeddyBear_44bd4672(Clone)_random_copy_1",
+  "obj2": "TeddyBear_44bd4672(Clone)_random_copy_0",
+  "obj3": "TeddyBear_44bd4672",
+  "obj4": "AlarmClock_f7123eac",
+  "obj5": "Book_b9ff03c6",
+  "obj6": "Pillow_647a8f8b"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.85,
+    0.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.85,
+    0.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.07,
+    0.46,
+    -2.68
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.54,
+    1.11,
+    -3.07
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.87,
+    0.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.87,
+    0.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.07,
+    0.46,
+    -2.68
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.54,
+    1.11,
+    -3.07
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.85,
+    0.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.85,
+    0.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.54,
+    1.13,
+    -3.07
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.07,
+    0.48,
+    -2.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two teddy bears",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the alarm clock and the book",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

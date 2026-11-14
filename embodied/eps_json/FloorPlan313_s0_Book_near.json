@@ -1,0 +1,337 @@
+{
+ "episode_id": "FloorPlan313_s0_Book_near",
+ "scene": "FloorPlan313",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "Book",
+ "target_name": "book",
+ "family": "near",
+ "phrase": "the book next to the laptop",
+ "anchor": {
+  "id": "obj6",
+  "type": "Laptop",
+  "name": "laptop"
+ },
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9009991884231567,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Book_e97d65c4(Clone)_random_copy_1",
+  "obj2": "Book_e97d65c4(Clone)_random_copy_0",
+  "obj3": "Book_e97d65c4",
+  "obj4": "KeyChain_17423307",
+  "obj5": "BaseballBat_aa158eb6",
+  "obj6": "Laptop_3c9aa5f5",
+  "obj7": "Pencil_6c219294"
+ },
+ "visible_B": [
+  1,
+  2,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.38,
+    0.71,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.7,
+    -1.4
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.84,
+    0.42,
+    -1.33
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.13,
+    0.7,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.69,
+    0.83,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.02,
+    0.7,
+    -1.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.89,
+    0.71,
+    -1.73
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.72,
+    -1.4
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.38,
+    0.73,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.84,
+    0.42,
+    -1.33
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.13,
+    0.7,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.69,
+    0.83,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.02,
+    0.7,
+    -1.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.89,
+    0.71,
+    -1.73
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.38,
+    0.71,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.7,
+    -1.4
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    0.84,
+    0.42,
+    -1.33
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [],
+   "position": [
+    -1.69,
+    0.85,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.13,
+    0.72,
+    -1.73
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.02,
+    0.7,
+    -1.46
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pencil",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    0.89,
+    0.71,
+    -1.73
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two books",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the key chain and the baseball bat",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

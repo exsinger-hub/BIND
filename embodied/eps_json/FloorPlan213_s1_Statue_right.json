@@ -1,0 +1,341 @@
+{
+ "episode_id": "FloorPlan213_s1_Statue_right",
+ "scene": "FloorPlan213",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Statue",
+ "target_name": "statue",
+ "family": "right",
+ "phrase": "the statue on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 10.0,
+   "y": 0.9028512835502625,
+   "z": 2.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Statue_6fa19f9e(Clone)_random_copy_1",
+  "obj2": "Statue_6fa19f9e(Clone)_random_copy_0",
+  "obj3": "Statue_6fa19f9e",
+  "obj4": "CreditCard_54e115f1",
+  "obj5": "Box_4d23394f",
+  "obj6": "Laptop_cb6d5014",
+  "obj7": "Pillow_4cd99f02"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.43,
+    0.59,
+    1.02
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.62,
+    0.59,
+    1.2
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    14.23,
+    0.74,
+    1.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    11.01,
+    0.59,
+    1.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    14.14,
+    0.98,
+    1.04
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.82,
+    0.59,
+    0.74
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    11.4,
+    0.65,
+    0.84
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.62,
+    0.61,
+    1.2
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.43,
+    0.61,
+    1.02
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    14.23,
+    0.74,
+    1.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    11.01,
+    0.59,
+    1.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    14.14,
+    0.98,
+    1.04
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.82,
+    0.59,
+    0.74
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    11.4,
+    0.65,
+    0.84
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.43,
+    0.59,
+    1.02
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.62,
+    0.59,
+    1.2
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    14.23,
+    0.74,
+    1.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [],
+   "position": [
+    14.14,
+    1.0,
+    1.04
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    11.01,
+    0.61,
+    1.21
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    10.82,
+    0.59,
+    0.74
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    11.4,
+    0.65,
+    0.84
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two statues",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the credit card and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

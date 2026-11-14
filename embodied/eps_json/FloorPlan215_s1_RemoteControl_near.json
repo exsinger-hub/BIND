@@ -1,0 +1,626 @@
+{
+ "episode_id": "FloorPlan215_s1_RemoteControl_near",
+ "scene": "FloorPlan215",
+ "room": "living",
+ "seed": 1,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "near",
+ "phrase": "the remote control next to the chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "Chair",
+  "name": "chair"
+ },
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.910965085029602,
+   "z": 3.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "RemoteControl_7510c33c(Clone)_random_copy_1",
+  "obj2": "RemoteControl_7510c33c(Clone)_random_copy_0",
+  "obj3": "RemoteControl_7510c33c",
+  "obj4": "Laptop_647e6a92",
+  "obj5": "WateringCan_dfe65a9b",
+  "obj6": "Chair_82e2bce1",
+  "obj7": "Bowl_4835ffec",
+  "obj8": "Pillow_b1eb2ce7",
+  "obj9": "Statue_d5ffce13",
+  "obj10": "Statue_5a3924c7",
+  "obj11": "Vase_d983054f",
+  "obj12": "Vase_76a7e128",
+  "obj13": "Vase_2d8a3763"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.72,
+    0.44,
+    1.93
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.42,
+    0.52,
+    4.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.5,
+    0.44,
+    1.92
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.25,
+    0.43,
+    2.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    4.13
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.27,
+    0.02,
+    1.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.56,
+    0.52,
+    4.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.41,
+    0.61,
+    6.68
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -6.14,
+    1.31,
+    5.04
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.35,
+    0.52,
+    3.9
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.43,
+    2.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.98,
+    0.91,
+    4.75
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.57,
+    0.43,
+    2.2
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.5,
+    0.46,
+    1.92
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.42,
+    0.52,
+    4.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.72,
+    0.46,
+    1.93
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.25,
+    0.43,
+    2.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    4.13
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.27,
+    0.02,
+    1.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.56,
+    0.52,
+    4.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.41,
+    0.61,
+    6.68
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -6.14,
+    1.31,
+    5.04
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.35,
+    0.52,
+    3.9
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.43,
+    2.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.98,
+    0.91,
+    4.75
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.57,
+    0.43,
+    2.2
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.72,
+    0.44,
+    1.93
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.42,
+    0.52,
+    4.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.5,
+    0.44,
+    1.92
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.49,
+    4.13
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -2.25,
+    0.45,
+    2.14
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.27,
+    0.02,
+    1.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.56,
+    0.52,
+    4.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.41,
+    0.61,
+    6.68
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Statue",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -6.14,
+    1.31,
+    5.04
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.35,
+    0.52,
+    3.9
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.43,
+    2.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.98,
+    0.91,
+    4.75
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.57,
+    0.43,
+    2.2
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the watering can",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "episode_id": "FloorPlan229_s1_Box_near",
+ "scene": "FloorPlan229",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "near",
+ "phrase": "the box next to the sofa",
+ "anchor": {
+  "id": "obj6",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -3.0,
+   "y": 0.9220515489578247,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Box_822622c5(Clone)_random_copy_1",
+  "obj2": "Box_822622c5(Clone)_random_copy_0",
+  "obj3": "Box_822622c5",
+  "obj4": "Pen_6f1e600d",
+  "obj5": "CellPhone_3c5c5d16",
+  "obj6": "Sofa_20d8c2da"
+ },
+ "visible_B": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.65,
+    0.63
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.13,
+    0.65,
+    0.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.37,
+    0.99,
+    0.76
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.54,
+    0.44,
+    0.97
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CellPhone",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.03,
+    0.44,
+    3.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.13,
+    0.67,
+    0.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.67,
+    0.63
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.37,
+    0.99,
+    0.76
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.54,
+    0.44,
+    0.97
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CellPhone",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.03,
+    0.44,
+    3.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.73,
+    0.65,
+    0.63
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.13,
+    0.65,
+    0.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.37,
+    0.99,
+    0.76
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.03,
+    0.46,
+    3.83
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CellPhone",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.54,
+    0.46,
+    0.97
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.13,
+    0.03,
+    0.61
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pen and the cell phone",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

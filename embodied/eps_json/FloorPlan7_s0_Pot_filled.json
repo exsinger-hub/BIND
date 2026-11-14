@@ -1,0 +1,466 @@
+{
+ "episode_id": "FloorPlan7_s0_Pot_filled",
+ "scene": "FloorPlan7",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "filled",
+ "phrase": "the pot with coffee in it",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -3.75,
+   "y": 0.9009991884231567,
+   "z": 2.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pot_7258e29a(Clone)_random_copy_1",
+  "obj2": "Pot_7258e29a(Clone)_random_copy_0",
+  "obj3": "Pot_7258e29a",
+  "obj4": "WineBottle_557e3ec0",
+  "obj5": "ButterKnife_3ca125f1",
+  "obj6": "DishSponge_d3c85ec8",
+  "obj7": "Lettuce_7369c905",
+  "obj8": "Statue_984e4573",
+  "obj9": "Tomato_126ea78d"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.32,
+    0.84,
+    3.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.51,
+    0.52,
+    3.24
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.41,
+    0.84,
+    3.68
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.49,
+    0.84,
+    3.44
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.73,
+    0.86,
+    3.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.79,
+    0.85,
+    3.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.17,
+    0.91,
+    3.44
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.0,
+    0.85,
+    3.15
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.81,
+    0.89,
+    3.73
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.32,
+    0.84,
+    3.09
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.51,
+    0.52,
+    3.24
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.41,
+    0.84,
+    3.68
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.49,
+    0.84,
+    3.44
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.73,
+    0.86,
+    3.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.79,
+    0.85,
+    3.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.17,
+    0.91,
+    3.44
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.0,
+    0.85,
+    3.15
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.81,
+    0.89,
+    3.73
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.32,
+    0.84,
+    3.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.51,
+    0.52,
+    3.24
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.41,
+    0.84,
+    3.68
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.73,
+    0.88,
+    3.39
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [
+    "dining table",
+    "plate"
+   ],
+   "position": [
+    -2.49,
+    0.86,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.79,
+    0.85,
+    3.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.17,
+    0.91,
+    3.44
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.0,
+    0.85,
+    3.15
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.81,
+    0.89,
+    3.73
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "poured out the old coffee and made a fresh coffee in another pot",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the wine bottle and the butter knife",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,424 @@
+{
+ "episode_id": "FloorPlan215_s0_Vase_right",
+ "scene": "FloorPlan215",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "right",
+ "phrase": "the vase on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -5.0,
+   "y": 0.910965085029602,
+   "z": 4.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3",
+  "obj4",
+  "obj5",
+  "obj6",
+  "obj7"
+ ],
+ "ref_B": "obj4",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj4",
+ "marks": {
+  "obj1": "Vase_3540b97a",
+  "obj2": "Vase_d983054f",
+  "obj3": "Vase_295146ed",
+  "obj4": "Vase_a3cfc6da",
+  "obj5": "Vase_2d8a3763",
+  "obj6": "Vase_25867beb",
+  "obj7": "Vase_76a7e128",
+  "obj8": "Statue_5a3924c7",
+  "obj9": "Watch_5a0e1ece"
+ },
+ "visible_B": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.8,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.46,
+    3.61
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.29,
+    4.99
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.47,
+    4.37
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.25,
+    0.52,
+    6.94
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Watch",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.66,
+    0.52,
+    6.53
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.31,
+    4.99
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.46,
+    3.61
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.82,
+    6.34
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.47,
+    4.37
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.25,
+    0.52,
+    6.94
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Watch",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.66,
+    0.52,
+    6.53
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.49,
+    0.8,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -0.95,
+    0.46,
+    3.61
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -3.3,
+    0.43,
+    2.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    1.29,
+    4.99
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.92,
+    0.47,
+    4.37
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -5.91,
+    0.47,
+    3.8
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -5.87,
+    1.29,
+    3.71
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.66,
+    0.54,
+    6.53
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Watch",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -5.25,
+    0.54,
+    6.94
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj4",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the watch",
+  "objects": [
+   "obj8",
+   "obj9"
+  ]
+ }
+}

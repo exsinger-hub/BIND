@@ -1,0 +1,300 @@
+{
+ "episode_id": "FloorPlan323_s0_AlarmClock_near",
+ "scene": "FloorPlan323",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "near",
+ "phrase": "the alarm clock next to the laptop",
+ "anchor": {
+  "id": "obj6",
+  "type": "Laptop",
+  "name": "laptop"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009991884231567,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "AlarmClock_7371c1f8(Clone)_random_copy_1",
+  "obj2": "AlarmClock_7371c1f8(Clone)_random_copy_0",
+  "obj3": "AlarmClock_7371c1f8",
+  "obj4": "Pillow_974691ae",
+  "obj5": "KeyChain_5d0ce94a",
+  "obj6": "Laptop_f57c484a"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  6
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.36,
+    0.91,
+    -3.08
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.09,
+    0.63,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.38,
+    0.63,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.43,
+    0.73,
+    -3.15
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.73,
+    1.23,
+    1.28
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.94,
+    0.63,
+    -2.26
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.36,
+    0.91,
+    -3.08
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.38,
+    0.65,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.09,
+    0.65,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.43,
+    0.73,
+    -3.15
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.73,
+    1.23,
+    1.28
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.94,
+    0.63,
+    -2.26
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.36,
+    0.91,
+    -3.08
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.09,
+    0.63,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.38,
+    0.63,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.73,
+    1.25,
+    1.28
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.43,
+    0.75,
+    -3.15
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.94,
+    0.63,
+    -2.26
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the key chain",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

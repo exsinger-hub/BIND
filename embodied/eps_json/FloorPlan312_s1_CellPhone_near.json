@@ -1,0 +1,459 @@
+{
+ "episode_id": "FloorPlan312_s1_CellPhone_near",
+ "scene": "FloorPlan312",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "CellPhone",
+ "target_name": "cell phone",
+ "family": "near",
+ "phrase": "the cell phone next to the window",
+ "anchor": {
+  "id": "obj6",
+  "type": "Window",
+  "name": "window"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9009992480278015,
+   "z": 0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "CellPhone_eacb5aad(Clone)_random_copy_1",
+  "obj2": "CellPhone_eacb5aad(Clone)_random_copy_0",
+  "obj3": "CellPhone_eacb5aad",
+  "obj4": "Laptop_4a30d9c4",
+  "obj5": "Book_98029b9f",
+  "obj6": "Window_3cbe96fc",
+  "obj7": "AlarmClock_26bcc218",
+  "obj8": "BasketBall_2ada6ebc",
+  "obj9": "Dumbbell_ff6b553e",
+  "obj10": "Pillow_47830f20"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.35,
+    0.76,
+    -1.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.52,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.14,
+    0.52,
+    -0.2
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.79,
+    0.51,
+    -0.17
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.48,
+    0.52,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.68,
+    1.4,
+    0.37
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.79,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.31,
+    0.64,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.53,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.64,
+    0.6,
+    -1.41
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.14,
+    0.54,
+    -0.2
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.52,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "desk",
+    "shelf"
+   ],
+   "position": [
+    2.35,
+    0.78,
+    -1.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.79,
+    0.51,
+    -0.17
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.48,
+    0.52,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.68,
+    1.4,
+    0.37
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.79,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.31,
+    0.64,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.53,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.64,
+    0.6,
+    -1.41
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.35,
+    0.76,
+    -1.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.52,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.14,
+    0.52,
+    -0.2
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.48,
+    0.54,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.79,
+    0.53,
+    -0.17
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.68,
+    1.4,
+    0.37
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.79,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.31,
+    0.64,
+    -0.93
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Dumbbell",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.98,
+    0.53,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.64,
+    0.6,
+    -1.41
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cell phones",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the book",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

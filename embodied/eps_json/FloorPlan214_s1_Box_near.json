@@ -1,0 +1,319 @@
+{
+ "episode_id": "FloorPlan214_s1_Box_near",
+ "scene": "FloorPlan214",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "near",
+ "phrase": "the box next to the shelf",
+ "anchor": {
+  "id": "obj6",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": -3.0,
+   "y": 0.9204407930374146,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Box_d97b4ac1(Clone)_random_copy_1",
+  "obj2": "Box_d97b4ac1(Clone)_random_copy_0",
+  "obj3": "Box_d97b4ac1",
+  "obj4": "Bowl_3aa5ccc4",
+  "obj5": "Statue_0dedf31d",
+  "obj6": "Shelf_f6fe03f0"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.89,
+    0.66,
+    0.79
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.65,
+    0.59,
+    3.62
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.48,
+    0.41,
+    6.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.59,
+    0.54,
+    0.98
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.75,
+    0.62,
+    1.0
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.59,
+    0.36,
+    0.84
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.65,
+    0.61,
+    3.62
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.89,
+    0.68,
+    0.79
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.48,
+    0.41,
+    6.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.59,
+    0.54,
+    0.98
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.75,
+    0.62,
+    1.0
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.59,
+    0.36,
+    0.84
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.89,
+    0.66,
+    0.79
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.65,
+    0.59,
+    3.62
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.48,
+    0.41,
+    6.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.75,
+    0.64,
+    1.0
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.59,
+    0.56,
+    0.98
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.59,
+    0.36,
+    0.84
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bowl and the statue",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

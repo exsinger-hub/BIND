@@ -1,0 +1,264 @@
+{
+ "episode_id": "FloorPlan222_s1_Box_on",
+ "scene": "FloorPlan222",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "on",
+ "phrase": "the box on the arm chair",
+ "anchor": {
+  "id": null,
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9009992480278015,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Box_7d6b3e2c(Clone)_random_copy_1",
+  "obj2": "Box_7d6b3e2c(Clone)_random_copy_0",
+  "obj3": "Box_7d6b3e2c",
+  "obj4": "CreditCard_e8e0f0f7",
+  "obj5": "Pillow_7512d345"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.64,
+    0.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.22,
+    0.66,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.8,
+    0.63,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.8,
+    0.61,
+    -1.78
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.8,
+    0.53,
+    -0.21
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.64,
+    0.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.8,
+    0.65,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.22,
+    0.68,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.8,
+    0.61,
+    -1.78
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.8,
+    0.53,
+    -0.21
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.93,
+    0.64,
+    0.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.22,
+    0.66,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.8,
+    0.63,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.8,
+    0.55,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.8,
+    0.63,
+    -1.78
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the credit card and the pillow",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

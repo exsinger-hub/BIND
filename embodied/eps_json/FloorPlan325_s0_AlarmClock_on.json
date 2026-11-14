@@ -1,0 +1,384 @@
+{
+ "episode_id": "FloorPlan325_s0_AlarmClock_on",
+ "scene": "FloorPlan325",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "on",
+ "phrase": "the alarm clock on the dresser",
+ "anchor": {
+  "id": null,
+  "type": "Dresser",
+  "name": "dresser"
+ },
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9497443437576294,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "AlarmClock_3343d18f(Clone)_random_copy_1",
+  "obj2": "AlarmClock_3343d18f(Clone)_random_copy_0",
+  "obj3": "AlarmClock_3343d18f",
+  "obj4": "Pillow_c92ca5e2",
+  "obj5": "Pen_2f434997",
+  "obj6": "CellPhone_34cb4913",
+  "obj7": "Laptop_339e1aa0",
+  "obj8": "Vase_17d20dc0"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.89,
+    0.62,
+    1.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.8,
+    1.03,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.01,
+    0.79,
+    3.14
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.05,
+    0.67,
+    0.62
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.62,
+    1.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.22,
+    0.72,
+    1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.55,
+    0.62,
+    0.62
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.62,
+    0.86
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.8,
+    1.05,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.89,
+    0.64,
+    1.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.01,
+    0.79,
+    3.14
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.05,
+    0.67,
+    0.62
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.62,
+    1.34
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.22,
+    0.72,
+    1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.55,
+    0.62,
+    0.62
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.62,
+    0.86
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.89,
+    0.62,
+    1.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.8,
+    1.03,
+    -1.77
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.01,
+    0.79,
+    3.14
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.64,
+    1.34
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pen",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.05,
+    0.69,
+    0.62
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.22,
+    0.72,
+    1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.55,
+    0.62,
+    0.62
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.72,
+    0.62,
+    0.86
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the pen",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

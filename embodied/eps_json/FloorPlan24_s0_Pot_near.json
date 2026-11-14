@@ -1,0 +1,429 @@
+{
+ "episode_id": "FloorPlan24_s0_Pot_near",
+ "scene": "FloorPlan24",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "near",
+ "phrase": "the pot next to the stove",
+ "anchor": {
+  "id": "obj5",
+  "type": "StoveBurner",
+  "name": "stove"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009992480278015,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pot_e063a8ec(Clone)_random_copy_1",
+  "obj2": "Pot_e063a8ec",
+  "obj3": "Pan_2303bbba",
+  "obj4": "Egg_bfeeb8dc",
+  "obj5": "StoveBurner_aa9bfe8f",
+  "obj6": "Lettuce_470604f9",
+  "obj7": "Mug_c5f962e2",
+  "obj8": "PepperShaker_f3cc2a1a"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    0.91,
+    0.85,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.81,
+    3.74
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.86,
+    2.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "StoveBurner",
+   "on": [],
+   "position": [
+    0.91,
+    0.84,
+    1.77
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.86,
+    2.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.82,
+    2.11
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.87,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    0.91,
+    0.87,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.81,
+    3.74
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.86,
+    2.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "StoveBurner",
+   "on": [],
+   "position": [
+    0.91,
+    0.84,
+    1.77
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.86,
+    2.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.82,
+    2.11
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    0.91,
+    0.85,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.88,
+    2.11
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.83,
+    3.74
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "StoveBurner",
+   "on": [],
+   "position": [
+    0.91,
+    0.84,
+    1.77
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.86,
+    2.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "PepperShaker",
+   "on": [
+    "counter",
+    "obj3"
+   ],
+   "position": [
+    0.88,
+    0.82,
+    2.11
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pots",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pan and the egg",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

@@ -1,0 +1,452 @@
+{
+ "episode_id": "FloorPlan22_s1_Cup_left",
+ "scene": "FloorPlan22",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Cup",
+ "target_name": "cup",
+ "family": "left",
+ "phrase": "the cup on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.9009991884231567,
+   "z": 2.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Cup_21bfc3ed(Clone)_random_copy_1",
+  "obj2": "Cup_21bfc3ed(Clone)_random_copy_0",
+  "obj3": "Cup_21bfc3ed",
+  "obj4": "SoapBottle_b2f7b14a",
+  "obj5": "Pan_34830b38",
+  "obj6": "Egg_12a66a43",
+  "obj7": "Kettle_ade0ba6d",
+  "obj8": "Pot_2dee9f64"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.14,
+    1.11,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.24,
+    1.11,
+    1.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.25,
+    1.11,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.44,
+    0.91,
+    0.28
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.9,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    1.14,
+    1.68
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.71
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.14,
+    1.11,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.25,
+    1.13,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.24,
+    1.13,
+    1.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.44,
+    0.91,
+    0.28
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.9,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    1.14,
+    1.68
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.71
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.14,
+    1.11,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.24,
+    1.11,
+    1.93
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.25,
+    1.11,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.92,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.44,
+    0.93,
+    0.28
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    1.14,
+    1.68
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.71
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    -2.82,
+    0.93,
+    -0.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cups",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the soap bottle and the pan",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

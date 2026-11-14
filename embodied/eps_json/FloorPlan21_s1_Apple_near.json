@@ -1,0 +1,653 @@
+{
+ "episode_id": "FloorPlan21_s1_Apple_near",
+ "scene": "FloorPlan21",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Apple",
+ "target_name": "apple",
+ "family": "near",
+ "phrase": "the apple next to the coffee machine",
+ "anchor": {
+  "id": "obj6",
+  "type": "CoffeeMachine",
+  "name": "coffee machine"
+ },
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.8696960806846619,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Apple_434e31d0(Clone)_random_copy_1",
+  "obj2": "Apple_434e31d0(Clone)_random_copy_0",
+  "obj3": "Apple_434e31d0",
+  "obj4": "Plate_ebabd858",
+  "obj5": "Tomato_230bf60f",
+  "obj6": "CoffeeMachine_ecf5b2e4",
+  "obj7": "AluminumFoil_c1d1f6a6",
+  "obj8": "Bowl_524520be",
+  "obj9": "ButterKnife_ffa7fae3",
+  "obj10": "Cup_5bdc0615",
+  "obj11": "Fork_ed9cac15",
+  "obj12": "Potato_4c3b63dd",
+  "obj13": "SaltShaker_48442aea",
+  "obj14": "Spatula_67ae4f8c"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.08,
+    0.19,
+    0.65
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.93,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.82,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.71,
+    0.46,
+    0.39
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.84,
+    0.82,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CoffeeMachine",
+   "on": [],
+   "position": [
+    0.87,
+    0.86,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AluminumFoil",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.72,
+    0.77,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "obj4",
+    "side table"
+   ],
+   "position": [
+    0.66,
+    0.66,
+    0.33
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.58,
+    0.89,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.88,
+    -0.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.88,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.92,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.67,
+    0.77,
+    -0.52
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.89,
+    0.03
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.08,
+    0.19,
+    0.65
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.84,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.95,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.71,
+    0.46,
+    0.39
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.84,
+    0.82,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CoffeeMachine",
+   "on": [],
+   "position": [
+    0.87,
+    0.86,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AluminumFoil",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.72,
+    0.77,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "obj4",
+    "side table"
+   ],
+   "position": [
+    0.66,
+    0.66,
+    0.33
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.58,
+    0.89,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.88,
+    -0.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.88,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.92,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.67,
+    0.77,
+    -0.52
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.89,
+    0.03
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.08,
+    0.19,
+    0.65
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.93,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "obj4",
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.82,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.84,
+    0.84,
+    -0.68
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    0.71,
+    0.48,
+    0.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CoffeeMachine",
+   "on": [],
+   "position": [
+    0.87,
+    0.86,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AluminumFoil",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.72,
+    0.77,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.66,
+    0.66,
+    0.33
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.58,
+    0.89,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.88,
+    -0.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.88,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.92,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.67,
+    0.77,
+    -0.52
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.66,
+    0.89,
+    0.03
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two apples",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plate and the tomato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

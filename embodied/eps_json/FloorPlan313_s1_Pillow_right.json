@@ -1,0 +1,256 @@
+{
+ "episode_id": "FloorPlan313_s1_Pillow_right",
+ "scene": "FloorPlan313",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "right",
+ "phrase": "the pillow on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9009991884231567,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pillow_1c781adc(Clone)_random_copy_1",
+  "obj2": "Pillow_1c781adc",
+  "obj3": "Book_e97d65c4",
+  "obj4": "CreditCard_527dc125",
+  "obj5": "TennisRacket_ec04ab46"
+ },
+ "visible_B": [
+  1,
+  2,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.41,
+    0.61,
+    0.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.69,
+    0.62,
+    -0.15
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.71,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.56,
+    0.72,
+    -0.7
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.13,
+    0.58,
+    -0.16
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.69,
+    0.64,
+    -0.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.41,
+    0.63,
+    0.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.71,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.56,
+    0.72,
+    -0.7
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.13,
+    0.58,
+    -0.16
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.41,
+    0.61,
+    0.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.69,
+    0.62,
+    -0.15
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.56,
+    0.74,
+    -0.7
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    1.14,
+    0.73,
+    -1.48
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TennisRacket",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -2.13,
+    0.58,
+    -0.16
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the book and the credit card",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

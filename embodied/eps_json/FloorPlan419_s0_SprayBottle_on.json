@@ -1,0 +1,346 @@
+{
+ "episode_id": "FloorPlan419_s0_SprayBottle_on",
+ "scene": "FloorPlan419",
+ "room": "bathroom",
+ "seed": 0,
+ "target_type": "SprayBottle",
+ "target_name": "spray bottle",
+ "family": "on",
+ "phrase": "the spray bottle on the side table",
+ "anchor": {
+  "id": null,
+  "type": "SideTable",
+  "name": "side table"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9025555849075317,
+   "z": -0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "SprayBottle_65642c04(Clone)_random_copy_1",
+  "obj2": "SprayBottle_65642c04(Clone)_random_copy_0",
+  "obj3": "SprayBottle_65642c04",
+  "obj4": "HandTowel_08ed6e0f",
+  "obj5": "SoapBottle_879e194a",
+  "obj6": "Plunger_55068c7e",
+  "obj7": "Towel_5c28a00c"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.11,
+    0.86,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.14,
+    1.04,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.33,
+    0.68,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.15,
+    1.26,
+    -1.95
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.06,
+    0.67,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.15,
+    0.67,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Towel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.94,
+    0.64,
+    -2.8
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.33,
+    0.7,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.14,
+    1.04,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.11,
+    0.88,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.15,
+    1.26,
+    -1.95
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.06,
+    0.67,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.15,
+    0.67,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Towel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.94,
+    0.64,
+    -2.8
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.11,
+    0.86,
+    -2.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.14,
+    1.04,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.33,
+    0.68,
+    -1.39
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "drawer",
+    "drawer"
+   ],
+   "position": [
+    -2.06,
+    0.69,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [],
+   "position": [
+    -2.15,
+    1.28,
+    -1.95
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -2.15,
+    0.67,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Towel",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -1.94,
+    0.64,
+    -2.8
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two spray bottles",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the hand towel and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

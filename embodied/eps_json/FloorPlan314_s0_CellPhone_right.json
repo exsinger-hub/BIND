@@ -1,0 +1,254 @@
+{
+ "episode_id": "FloorPlan314_s0_CellPhone_right",
+ "scene": "FloorPlan314",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "CellPhone",
+ "target_name": "cell phone",
+ "family": "right",
+ "phrase": "the cell phone on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 2.0,
+   "y": 0.9009991884231567,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "CellPhone_5741a504(Clone)_random_copy_1",
+  "obj2": "CellPhone_5741a504(Clone)_random_copy_0",
+  "obj3": "CellPhone_5741a504",
+  "obj4": "Pen_1dcc71ef",
+  "obj5": "CD_2d535d96"
+ },
+ "visible_B": [
+  2,
+  3
+ ],
+ "visible_C_rel": [
+  1,
+  2
+ ],
+ "visible_C_unr": [
+  2,
+  3
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.61,
+    2.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.26,
+    0.84,
+    -0.23
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.36,
+    0.84,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.12,
+    0.84,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CD",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.01,
+    0.6,
+    1.24
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.36,
+    0.86,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.26,
+    0.84,
+    -0.23
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.63,
+    2.12
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.12,
+    0.84,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CD",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.01,
+    0.6,
+    1.24
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.61,
+    2.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.26,
+    0.84,
+    -0.23
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.36,
+    0.84,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pen",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.01,
+    0.62,
+    1.24
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "CD",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.12,
+    0.86,
+    -0.49
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cell phones",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pen and the c d",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

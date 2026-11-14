@@ -1,0 +1,568 @@
+{
+ "episode_id": "FloorPlan304_s1_AlarmClock_on",
+ "scene": "FloorPlan304",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "on",
+ "phrase": "the alarm clock on the shelf",
+ "anchor": {
+  "id": null,
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9069997072219849,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "AlarmClock_7d0d38ae(Clone)_random_copy_1",
+  "obj2": "AlarmClock_7d0d38ae(Clone)_random_copy_0",
+  "obj3": "AlarmClock_7d0d38ae",
+  "obj4": "Pillow_fc6f2755",
+  "obj5": "Mug_9ba5c3ff",
+  "obj6": "BasketBall_875fe79f",
+  "obj7": "Book_afb3f9df",
+  "obj8": "Bowl_0abdf3bb",
+  "obj9": "Box_a991ba61",
+  "obj10": "CellPhone_5d6cd5e8",
+  "obj11": "Laptop_f85d4674",
+  "obj12": "Statue_8424377d"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.19,
+    2.06,
+    2.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.8,
+    1.55,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.58,
+    2.06,
+    0.58
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.06,
+    2.11,
+    0.58
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.0,
+    -1.49
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "BasketBall",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.19,
+    1.67,
+    -1.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.45,
+    0.9,
+    2.34
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.93,
+    2.06,
+    1.46
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.31,
+    1.19,
+    1.46
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.0,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Laptop",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.69,
+    0.55,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.6,
+    1.0,
+    -1.57
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.8,
+    1.57,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.19,
+    2.08,
+    2.05
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.58,
+    2.06,
+    0.58
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.06,
+    2.11,
+    0.58
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.0,
+    -1.49
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "BasketBall",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.19,
+    1.67,
+    -1.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.45,
+    0.9,
+    2.34
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.93,
+    2.06,
+    1.46
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.31,
+    1.19,
+    1.46
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.0,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Laptop",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.69,
+    0.55,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.6,
+    1.0,
+    -1.57
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.19,
+    2.06,
+    2.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -0.8,
+    1.55,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.58,
+    2.06,
+    0.58
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.02,
+    -1.49
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.06,
+    2.13,
+    0.58
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "BasketBall",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.19,
+    1.67,
+    -1.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.45,
+    0.9,
+    2.34
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.93,
+    2.06,
+    1.46
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.31,
+    1.19,
+    1.46
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.39,
+    1.0,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Laptop",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.69,
+    0.55,
+    -1.16
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Statue",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -1.6,
+    1.0,
+    -1.57
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the mug",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

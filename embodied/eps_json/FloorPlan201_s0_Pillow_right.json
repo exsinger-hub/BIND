@@ -1,0 +1,346 @@
+{
+ "episode_id": "FloorPlan201_s0_Pillow_right",
+ "scene": "FloorPlan201",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "right",
+ "phrase": "the pillow on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -3.5,
+   "y": 0.9026566743850708,
+   "z": 4.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pillow_a480e27b(Clone)_random_copy_1",
+  "obj2": "Pillow_a480e27b(Clone)_random_copy_0",
+  "obj3": "Pillow_a480e27b",
+  "obj4": "Statue_b3eadc86",
+  "obj5": "TissueBox_55ef7114",
+  "obj6": "CreditCard_20443235",
+  "obj7": "Laptop_2705aadd"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.33,
+    0.42,
+    4.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.98,
+    0.54,
+    6.0
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.38,
+    0.54,
+    5.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.07,
+    0.47,
+    5.7
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -2.39,
+    0.73,
+    6.22
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.25,
+    0.61,
+    4.92
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.39,
+    0.24,
+    6.22
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.33,
+    0.42,
+    4.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.38,
+    0.56,
+    5.81
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.98,
+    0.56,
+    6.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.07,
+    0.47,
+    5.7
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -2.39,
+    0.73,
+    6.22
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.25,
+    0.61,
+    4.92
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.39,
+    0.24,
+    6.22
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.33,
+    0.42,
+    4.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.98,
+    0.54,
+    6.0
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.38,
+    0.54,
+    5.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -2.39,
+    0.75,
+    6.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.07,
+    0.49,
+    5.7
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.25,
+    0.61,
+    4.92
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.39,
+    0.24,
+    6.22
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the tissue box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

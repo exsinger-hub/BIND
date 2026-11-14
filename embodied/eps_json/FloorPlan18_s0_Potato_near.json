@@ -1,0 +1,522 @@
+{
+ "episode_id": "FloorPlan18_s0_Potato_near",
+ "scene": "FloorPlan18",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Potato",
+ "target_name": "potato",
+ "family": "near",
+ "phrase": "the potato next to the sink",
+ "anchor": {
+  "id": "obj6",
+  "type": "SinkBasin",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": 0.75,
+   "y": 0.9009997248649597,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Potato_fbcb3826(Clone)_random_copy_1",
+  "obj2": "Potato_fbcb3826(Clone)_random_copy_0",
+  "obj3": "Potato_fbcb3826",
+  "obj4": "Egg_ec1e9b77",
+  "obj5": "Tomato_9935716a",
+  "obj6": "SinkBasin_7e7a0cc5",
+  "obj7": "ButterKnife_f0cd89d4",
+  "obj8": "Kettle_7137cd16",
+  "obj9": "Knife_09e33ecf",
+  "obj10": "Mug_9b823ea8",
+  "obj11": "SoapBottle_66a38a4b"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.92,
+    2.58
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.28,
+    0.87,
+    6.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.92,
+    2.68
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.28,
+    0.94,
+    2.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.67,
+    1.04,
+    2.95
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    1.39,
+    0.88,
+    2.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.55,
+    0.9,
+    2.58
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.49,
+    0.99,
+    0.44
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.07,
+    1.02,
+    2.2
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    1.37,
+    1.05,
+    0.84
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.14,
+    0.99,
+    1.12
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.28,
+    0.89,
+    6.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.94,
+    2.58
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.92,
+    2.68
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.28,
+    0.94,
+    2.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.67,
+    1.04,
+    2.95
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    1.39,
+    0.88,
+    2.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.55,
+    0.9,
+    2.58
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.49,
+    0.99,
+    0.44
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.07,
+    1.02,
+    2.2
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    1.37,
+    1.05,
+    0.84
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.14,
+    0.99,
+    1.12
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.92,
+    2.58
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.28,
+    0.87,
+    6.34
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.44,
+    0.92,
+    2.68
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.67,
+    1.06,
+    2.95
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.28,
+    0.96,
+    2.03
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    1.39,
+    0.88,
+    2.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    1.55,
+    0.9,
+    2.58
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.49,
+    0.99,
+    0.44
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.07,
+    1.02,
+    2.2
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    1.37,
+    1.05,
+    0.84
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.14,
+    0.99,
+    1.12
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two potatos",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the egg and the tomato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

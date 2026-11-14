@@ -1,0 +1,349 @@
+{
+ "episode_id": "FloorPlan401_s0_SprayBottle_near",
+ "scene": "FloorPlan401",
+ "room": "bathroom",
+ "seed": 0,
+ "target_type": "SprayBottle",
+ "target_name": "spray bottle",
+ "family": "near",
+ "phrase": "the spray bottle next to the sink",
+ "anchor": {
+  "id": "obj6",
+  "type": "SinkBasin",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": -2.75,
+   "y": 0.9016162753105164,
+   "z": 0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "SprayBottle_6f3b5fe8(Clone)_random_copy_1",
+  "obj2": "SprayBottle_6f3b5fe8(Clone)_random_copy_0",
+  "obj3": "SprayBottle_6f3b5fe8",
+  "obj4": "Cloth_17a05ade",
+  "obj5": "PaperTowelRoll_6a22a21e",
+  "obj6": "SinkBasin_9ea82a63",
+  "obj7": "ToiletPaper_97c38469"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.67,
+    0.79,
+    3.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.97,
+    0.85,
+    1.45
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.41,
+    1.04,
+    1.44
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.28,
+    0.86,
+    0.26
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "floor",
+    "side table"
+   ],
+   "position": [
+    -3.22,
+    0.34,
+    0.33
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -3.08,
+    0.94,
+    1.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.17,
+    0.85,
+    1.65
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.67,
+    0.79,
+    3.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.41,
+    1.06,
+    1.44
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.97,
+    0.87,
+    1.45
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.28,
+    0.86,
+    0.26
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "floor",
+    "side table"
+   ],
+   "position": [
+    -3.22,
+    0.34,
+    0.33
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -3.08,
+    0.94,
+    1.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.17,
+    0.85,
+    1.65
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SprayBottle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -2.67,
+    0.79,
+    3.82
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SprayBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.97,
+    0.85,
+    1.45
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.41,
+    1.04,
+    1.44
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.22,
+    0.36,
+    0.33
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.28,
+    0.88,
+    0.26
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -3.08,
+    0.94,
+    1.54
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.17,
+    0.85,
+    1.65
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two spray bottles",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cloth and the paper towel roll",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

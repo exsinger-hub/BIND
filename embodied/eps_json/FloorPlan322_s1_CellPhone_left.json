@@ -1,0 +1,421 @@
+{
+ "episode_id": "FloorPlan322_s1_CellPhone_left",
+ "scene": "FloorPlan322",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "CellPhone",
+ "target_name": "cell phone",
+ "family": "left",
+ "phrase": "the cell phone on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.75,
+   "y": 0.9017602801322937,
+   "z": 1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "CellPhone_7aad0a06(Clone)_random_copy_1",
+  "obj2": "CellPhone_7aad0a06(Clone)_random_copy_0",
+  "obj3": "CellPhone_7aad0a06",
+  "obj4": "KeyChain_54a1995b",
+  "obj5": "Pillow_6ef46ee3",
+  "obj6": "AlarmClock_0920a0f3",
+  "obj7": "BaseballBat_e1cab205",
+  "obj8": "BaseballBat_2c62129d",
+  "obj9": "Book_604a2c66"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.58,
+    0.46,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.01,
+    0.63,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.65,
+    0.34
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.74,
+    0.64,
+    0.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.45,
+    0.54,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.2,
+    0.65,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.53,
+    0.74,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BaseballBat",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.61,
+    0.95,
+    -1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.66,
+    0.56
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.67,
+    0.34
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.01,
+    0.63,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.58,
+    0.48,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.74,
+    0.64,
+    0.11
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.45,
+    0.54,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.2,
+    0.65,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.53,
+    0.74,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BaseballBat",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.61,
+    0.95,
+    -1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.66,
+    0.56
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "CellPhone",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.58,
+    0.46,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.01,
+    0.63,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.47,
+    0.65,
+    0.34
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.45,
+    0.56,
+    -0.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.74,
+    0.66,
+    0.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.2,
+    0.65,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "BaseballBat",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.53,
+    0.74,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "BaseballBat",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.61,
+    0.95,
+    -1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.66,
+    0.56
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cell phones",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the key chain and the pillow",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

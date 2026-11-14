@@ -1,0 +1,626 @@
+{
+ "episode_id": "FloorPlan22_s0_Pan_near",
+ "scene": "FloorPlan22",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Pan",
+ "target_name": "pan",
+ "family": "near",
+ "phrase": "the pan next to the sink",
+ "anchor": {
+  "id": "obj6",
+  "type": "SinkBasin",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.9009991884231567,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pan_34830b38(Clone)_random_copy_1",
+  "obj2": "Pan_34830b38(Clone)_random_copy_0",
+  "obj3": "Pan_34830b38",
+  "obj4": "Pot_2dee9f64",
+  "obj5": "Plate_77c0067b",
+  "obj6": "SinkBasin_8b3cecad",
+  "obj7": "Apple_94878181",
+  "obj8": "ButterKnife_460db78e",
+  "obj9": "Egg_12a66a43",
+  "obj10": "PepperShaker_ebca4a23",
+  "obj11": "Potato_49585079",
+  "obj12": "SoapBottle_b2f7b14a",
+  "obj13": "Spatula_821c3717"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.85,
+    -1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.89,
+    1.11,
+    1.13
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.9,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.09,
+    0.91,
+    -1.37
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.77,
+    0.91,
+    -1.03
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -1.34,
+    0.84,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.25,
+    0.9,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.86,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.33,
+    0.88,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.84,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.88,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.85,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Spatula",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.85,
+    -1.36
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.92,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.89,
+    1.11,
+    1.13
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.87,
+    -1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.09,
+    0.91,
+    -1.37
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.77,
+    0.91,
+    -1.03
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -1.34,
+    0.84,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.25,
+    0.9,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.86,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.33,
+    0.88,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.84,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.88,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.85,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Spatula",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.85,
+    -1.36
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pan",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.85,
+    -1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.89,
+    1.11,
+    1.13
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.9,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.77,
+    0.93,
+    -1.03
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.09,
+    0.93,
+    -1.37
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -1.34,
+    0.84,
+    -1.25
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.25,
+    0.9,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.86,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.33,
+    0.88,
+    -1.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.51,
+    0.84,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.88,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.07,
+    0.85,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Spatula",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.16,
+    0.85,
+    -1.36
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pans",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pot and the plate",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

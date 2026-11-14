@@ -1,0 +1,260 @@
+{
+ "episode_id": "FloorPlan218_s0_RemoteControl_right",
+ "scene": "FloorPlan218",
+ "room": "living",
+ "seed": 0,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "right",
+ "phrase": "the remote control on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9008399248123169,
+   "z": 5.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "RemoteControl_083dd392(Clone)_random_copy_1",
+  "obj2": "RemoteControl_083dd392(Clone)_random_copy_0",
+  "obj3": "RemoteControl_083dd392",
+  "obj4": "CreditCard_ade85d2f",
+  "obj5": "Laptop_34f7f36c"
+ },
+ "visible_B": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.55,
+    6.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    0.98,
+    4.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    0.98,
+    3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.11,
+    0.56,
+    3.0
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.31,
+    2.26
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.55,
+    6.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    1.0,
+    3.71
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    1.0,
+    4.13
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.11,
+    0.56,
+    3.0
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.31,
+    2.26
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.02,
+    0.55,
+    6.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.66,
+    0.98,
+    4.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    0.91,
+    0.98,
+    3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CreditCard",
+   "on": [
+    "coffee table",
+    "floor"
+   ],
+   "position": [
+    -1.62,
+    0.33,
+    2.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.11,
+    0.58,
+    3.0
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the credit card and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

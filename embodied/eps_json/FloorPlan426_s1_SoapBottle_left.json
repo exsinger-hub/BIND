@@ -1,0 +1,270 @@
+{
+ "episode_id": "FloorPlan426_s1_SoapBottle_left",
+ "scene": "FloorPlan426",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "SoapBottle",
+ "target_name": "soap bottle",
+ "family": "left",
+ "phrase": "the soap bottle on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9018632173538208,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "SoapBottle_0f0f34c4(Clone)_random_copy_1",
+  "obj2": "SoapBottle_0f0f34c4(Clone)_random_copy_0",
+  "obj3": "SoapBottle_0f0f34c4",
+  "obj4": "SprayBottle_616784a0",
+  "obj5": "Cloth_8bd9d5f9"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.31,
+    0.89,
+    3.04
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    0.98,
+    3.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.38,
+    0.98,
+    3.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.62,
+    0.89,
+    2.97
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    1.0,
+    3.21
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.31,
+    0.91,
+    3.04
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.38,
+    0.98,
+    3.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.62,
+    0.89,
+    2.97
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.31,
+    0.89,
+    3.04
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    0.98,
+    3.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.62,
+    0.91,
+    2.97
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "sink",
+    "sink"
+   ],
+   "position": [
+    -0.38,
+    1.0,
+    3.18
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two soap bottles",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spray bottle and the cloth",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

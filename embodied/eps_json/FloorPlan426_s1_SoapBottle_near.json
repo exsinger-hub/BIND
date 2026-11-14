@@ -1,0 +1,308 @@
+{
+ "episode_id": "FloorPlan426_s1_SoapBottle_near",
+ "scene": "FloorPlan426",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "SoapBottle",
+ "target_name": "soap bottle",
+ "family": "near",
+ "phrase": "the soap bottle next to the sink",
+ "anchor": {
+  "id": "obj6",
+  "type": "SinkBasin",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9018632173538208,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "SoapBottle_0f0f34c4(Clone)_random_copy_1",
+  "obj2": "SoapBottle_0f0f34c4(Clone)_random_copy_0",
+  "obj3": "SoapBottle_0f0f34c4",
+  "obj4": "Cloth_8bd9d5f9",
+  "obj5": "SprayBottle_616784a0",
+  "obj6": "SinkBasin_7314ecf8"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.31,
+    0.89,
+    3.04
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    0.98,
+    3.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.62,
+    0.89,
+    2.97
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.38,
+    0.98,
+    3.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.45,
+    0.89,
+    2.97
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    1.0,
+    3.21
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.31,
+    0.91,
+    3.04
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.62,
+    0.89,
+    2.97
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.38,
+    0.98,
+    3.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.45,
+    0.89,
+    2.97
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SoapBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.31,
+    0.89,
+    3.04
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBottle",
+   "on": [
+    "bathtub"
+   ],
+   "position": [
+    -3.57,
+    0.22,
+    1.31
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.2,
+    0.98,
+    3.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "sink",
+    "obj6"
+   ],
+   "position": [
+    -0.38,
+    1.0,
+    3.18
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.62,
+    0.91,
+    2.97
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.45,
+    0.89,
+    2.97
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two soap bottles",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cloth and the spray bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

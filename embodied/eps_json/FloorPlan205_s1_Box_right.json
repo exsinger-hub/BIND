@@ -1,0 +1,272 @@
+{
+ "episode_id": "FloorPlan205_s1_Box_right",
+ "scene": "FloorPlan205",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "right",
+ "phrase": "the box on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.9011250734329224,
+   "z": 2.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Box_8ba0f6ee(Clone)_random_copy_1",
+  "obj2": "Box_8ba0f6ee(Clone)_random_copy_0",
+  "obj3": "Box_8ba0f6ee",
+  "obj4": "Statue_703be644",
+  "obj5": "WateringCan_d61dcb57"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.73,
+    0.86,
+    1.7
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.31,
+    0.86,
+    1.41
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.08,
+    0.59,
+    4.86
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.61,
+    0.45,
+    3.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.24,
+    0.48,
+    5.56
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.73,
+    0.86,
+    1.7
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.08,
+    0.61,
+    4.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.31,
+    0.88,
+    1.41
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.61,
+    0.45,
+    3.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.24,
+    0.48,
+    5.56
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.73,
+    0.86,
+    1.7
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.31,
+    0.86,
+    1.41
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.08,
+    0.59,
+    4.86
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -4.24,
+    0.5,
+    5.56
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -2.61,
+    0.47,
+    3.61
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the watering can",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

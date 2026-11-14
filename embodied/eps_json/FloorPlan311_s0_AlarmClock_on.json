@@ -1,0 +1,261 @@
+{
+ "episode_id": "FloorPlan311_s0_AlarmClock_on",
+ "scene": "FloorPlan311",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "on",
+ "phrase": "the alarm clock on the arm chair",
+ "anchor": {
+  "id": null,
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9101201295852661,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "AlarmClock_5f091878(Clone)_random_copy_1",
+  "obj2": "AlarmClock_5f091878(Clone)_random_copy_0",
+  "obj3": "AlarmClock_5f091878",
+  "obj4": "RemoteControl_c3b173fc",
+  "obj5": "Book_98f38563"
+ },
+ "visible_B": [
+  1,
+  3,
+  4
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.53,
+    0.79,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.59,
+    0.73,
+    1.78
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.17,
+    0.4,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.33,
+    0.4,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.95,
+    0.91,
+    4.53
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.17,
+    0.42,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.59,
+    0.73,
+    1.78
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.53,
+    0.81,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.33,
+    0.4,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.95,
+    0.91,
+    4.53
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    2.53,
+    0.79,
+    -1.31
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.59,
+    0.73,
+    1.78
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.17,
+    0.4,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "RemoteControl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.95,
+    0.93,
+    4.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    2.33,
+    0.42,
+    -0.56
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the remote control and the book",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

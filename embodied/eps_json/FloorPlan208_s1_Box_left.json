@@ -1,0 +1,220 @@
+{
+ "episode_id": "FloorPlan208_s1_Box_left",
+ "scene": "FloorPlan208",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "left",
+ "phrase": "the box on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.25,
+   "y": 0.9009991884231567,
+   "z": -3.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Box_dc858e6b(Clone)_random_copy_0",
+  "obj2": "Box_dc858e6b",
+  "obj3": "RemoteControl_bfda677c",
+  "obj4": "Pillow_0c3605b8"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.9,
+    -3.17
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.89,
+    -4.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.73,
+    0.52,
+    -3.24
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.35,
+    0.9,
+    -3.61
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.91,
+    -4.06
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.92,
+    -3.17
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.73,
+    0.52,
+    -3.24
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.35,
+    0.9,
+    -3.61
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.9,
+    -3.17
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.98,
+    0.89,
+    -4.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [],
+   "position": [
+    -3.35,
+    0.92,
+    -3.61
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.73,
+    0.54,
+    -3.24
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the remote control and the pillow",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

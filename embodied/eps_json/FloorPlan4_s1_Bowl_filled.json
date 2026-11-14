@@ -1,0 +1,520 @@
+{
+ "episode_id": "FloorPlan4_s1_Bowl_filled",
+ "scene": "FloorPlan4",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Bowl",
+ "target_name": "bowl",
+ "family": "filled",
+ "phrase": "the bowl with coffee in it",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.9009998440742493,
+   "z": 1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Bowl_06119370(Clone)_random_copy_1",
+  "obj2": "Bowl_06119370(Clone)_random_copy_0",
+  "obj3": "Bowl_06119370",
+  "obj4": "Plate_970c9e6e",
+  "obj5": "Bread_8f587d15",
+  "obj6": "Apple_381cdb86",
+  "obj7": "Cup_6477d41f",
+  "obj8": "Egg_2744cca4",
+  "obj9": "Fork_75350a73",
+  "obj10": "Lettuce_c532b8b7"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.55,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.12,
+    0.21
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.51,
+    1.12,
+    0.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.12,
+    0.48
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.64,
+    1.01,
+    0.57
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.47,
+    1.15,
+    0.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.66,
+    1.18,
+    0.07
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.28,
+    1.15,
+    0.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.29
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.55,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.12,
+    0.21
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.51,
+    1.12,
+    0.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.12,
+    0.48
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.64,
+    1.01,
+    0.57
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.47,
+    1.15,
+    0.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.66,
+    1.18,
+    0.07
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.28,
+    1.15,
+    0.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.29
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.55,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.12,
+    0.21
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.51,
+    1.12,
+    0.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.64,
+    1.03,
+    0.57
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.87,
+    1.14,
+    0.48
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.47,
+    1.15,
+    0.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.66,
+    1.18,
+    0.07
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.28,
+    1.15,
+    0.08
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.11,
+    1.0,
+    0.29
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "poured out the old coffee and made a fresh coffee in another bowl",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plate and the bread",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

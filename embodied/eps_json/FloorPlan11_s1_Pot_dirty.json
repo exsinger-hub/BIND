@@ -1,0 +1,253 @@
+{
+ "episode_id": "FloorPlan11_s1_Pot_dirty",
+ "scene": "FloorPlan11",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "dirty",
+ "phrase": "the dirty pot",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.0,
+   "y": 0.9009991884231567,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pot_5eac2b25(Clone)_random_copy_1",
+  "obj2": "Pot_5eac2b25",
+  "obj3": "Bread_fd127487",
+  "obj4": "Plate_c93ad5c3"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.29,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.54,
+    0.91,
+    -1.82
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.91,
+    0.99,
+    0.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.72,
+    0.91,
+    0.38
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.29,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.54,
+    0.91,
+    -1.82
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.91,
+    0.99,
+    0.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.72,
+    0.91,
+    0.38
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.29,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "dirty",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.54,
+    0.91,
+    -1.82
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.72,
+    0.93,
+    0.38
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [],
+   "position": [
+    1.91,
+    1.01,
+    0.46
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "washed the dirty pot and then used another pot, which is now dirty",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bread and the plate",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

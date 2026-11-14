@@ -1,0 +1,481 @@
+{
+ "episode_id": "FloorPlan28_s1_Cup_on",
+ "scene": "FloorPlan28",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Cup",
+ "target_name": "cup",
+ "family": "on",
+ "phrase": "the cup on the dining table",
+ "anchor": {
+  "id": null,
+  "type": "DiningTable",
+  "name": "dining table"
+ },
+ "view": {
+  "position": {
+   "x": -2.25,
+   "y": 0.9009982347488403,
+   "z": -2.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Cup_9be1bbbc(Clone)_random_copy_1",
+  "obj2": "Cup_9be1bbbc(Clone)_random_copy_0",
+  "obj3": "Cup_9be1bbbc",
+  "obj4": "Tomato_4bdd59c9",
+  "obj5": "Potato_18e2d13c",
+  "obj6": "Mug_ee37c650",
+  "obj7": "Pan_36f039b1",
+  "obj8": "SaltShaker_380a7ae0",
+  "obj9": "SoapBottle_8dacd270"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.61,
+    0.81,
+    -3.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.64,
+    0.83,
+    -3.21
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.05,
+    0.69,
+    -0.42
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.47,
+    0.99,
+    -3.91
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.7,
+    0.84,
+    -3.63
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.05,
+    0.94,
+    -3.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.74,
+    0.83,
+    -3.63
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.48,
+    0.83,
+    -3.0
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    0.94,
+    -3.86
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.61,
+    0.81,
+    -3.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.05,
+    0.71,
+    -0.42
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.64,
+    0.85,
+    -3.21
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.47,
+    0.99,
+    -3.91
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.7,
+    0.84,
+    -3.63
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.05,
+    0.94,
+    -3.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.74,
+    0.83,
+    -3.63
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.48,
+    0.83,
+    -3.0
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    0.94,
+    -3.86
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.61,
+    0.81,
+    -3.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.64,
+    0.83,
+    -3.21
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.05,
+    0.69,
+    -0.42
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Tomato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.7,
+    0.86,
+    -3.63
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.47,
+    1.01,
+    -3.91
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.05,
+    0.94,
+    -3.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.74,
+    0.83,
+    -3.63
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.48,
+    0.83,
+    -3.0
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    0.94,
+    -3.86
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two cups",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the tomato and the potato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "episode_id": "FloorPlan24_s0_Pot_filled",
+ "scene": "FloorPlan24",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "filled",
+ "phrase": "the pot with coffee in it",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009992480278015,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pot_e063a8ec(Clone)_random_copy_1",
+  "obj2": "Pot_e063a8ec",
+  "obj3": "PepperShaker_f3cc2a1a",
+  "obj4": "Mug_c5f962e2",
+  "obj5": "Egg_bfeeb8dc",
+  "obj6": "Lettuce_470604f9",
+  "obj7": "Pan_2303bbba"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.91,
+    0.85,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.82,
+    2.11
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.86,
+    2.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.86,
+    2.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.81,
+    3.74
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.91,
+    0.85,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.82,
+    2.11
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.86,
+    2.38
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.86,
+    2.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.81,
+    3.74
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.91,
+    0.85,
+    1.77
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "PepperShaker",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.83,
+    0.88,
+    2.38
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.84,
+    2.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.02,
+    0.86,
+    2.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.73,
+    0.89,
+    2.2
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.67,
+    0.81,
+    3.74
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "poured out the old coffee and made a fresh coffee in another pot",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pepper shaker and the mug",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

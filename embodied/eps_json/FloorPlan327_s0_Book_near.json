@@ -1,0 +1,436 @@
+{
+ "episode_id": "FloorPlan327_s0_Book_near",
+ "scene": "FloorPlan327",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "Book",
+ "target_name": "book",
+ "family": "near",
+ "phrase": "the book next to the bed",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9009992480278015,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Book_c42bbc37(Clone)_random_copy_1",
+  "obj2": "Book_c42bbc37(Clone)_random_copy_0",
+  "obj3": "Book_c42bbc37",
+  "obj4": "BaseballBat_d2ba2cf9",
+  "obj5": "BasketBall_42af16da",
+  "obj6": "Bed_7d8e78d7",
+  "obj7": "Boots_31169312",
+  "obj8": "Laptop_65b9a854",
+  "obj9": "Pillow_a07f7b2e"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.46,
+    0.67,
+    -2.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.96,
+    0.6,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.61,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.31,
+    0.88,
+    0.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.72,
+    0.6
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.21,
+    0.02,
+    -0.27
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Boots",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.61,
+    -0.53
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.6,
+    0.31
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.14,
+    0.7,
+    -0.99
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.46,
+    0.67,
+    -2.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.63,
+    0.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.96,
+    0.62,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.31,
+    0.88,
+    0.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.72,
+    0.6
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.21,
+    0.02,
+    -0.27
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Boots",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.61,
+    -0.53
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.6,
+    0.31
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.14,
+    0.7,
+    -0.99
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -1.46,
+    0.67,
+    -2.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.96,
+    0.6,
+    -0.25
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.61,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.74,
+    0.6
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.31,
+    0.9,
+    0.03
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.21,
+    0.02,
+    -0.27
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Boots",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.44,
+    0.61,
+    -0.53
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.08,
+    0.6,
+    0.31
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.14,
+    0.7,
+    -0.99
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two books",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the baseball bat and the basket ball",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

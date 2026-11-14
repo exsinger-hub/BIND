@@ -1,0 +1,338 @@
+{
+ "episode_id": "FloorPlan407_s0_SoapBar_near",
+ "scene": "FloorPlan407",
+ "room": "bathroom",
+ "seed": 0,
+ "target_type": "SoapBar",
+ "target_name": "soap bar",
+ "family": "near",
+ "phrase": "the soap bar next to the bathtub",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bathtub",
+  "name": "bathtub"
+ },
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.9004555940628052,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "SoapBar_c1f2a2f7(Clone)_random_copy_1",
+  "obj2": "SoapBar_c1f2a2f7(Clone)_random_copy_0",
+  "obj3": "SoapBar_c1f2a2f7",
+  "obj4": "ToiletPaper_ce1afe84",
+  "obj5": "Plunger_eaab1160",
+  "obj6": "Bathtub_7a069a01",
+  "obj7": "ToiletPaper_eaa65801"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.01,
+    0.91,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.91,
+    -1.49
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.42,
+    1.04,
+    0.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.91,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.6,
+    0.92,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [],
+   "position": [
+    0.88,
+    0.39,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.52,
+    0.59,
+    -1.8
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.93,
+    -1.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.01,
+    0.93,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.42,
+    1.04,
+    0.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.91,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.6,
+    0.92,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [],
+   "position": [
+    0.88,
+    0.39,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.52,
+    0.59,
+    -1.8
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.01,
+    0.91,
+    -1.76
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SoapBar",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.91,
+    -1.49
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.42,
+    1.04,
+    0.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.6,
+    0.94,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.93,
+    -1.61
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bathtub",
+   "on": [],
+   "position": [
+    0.88,
+    0.39,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ToiletPaper",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.52,
+    0.59,
+    -1.8
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two soap bars",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the toilet paper and the plunger",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

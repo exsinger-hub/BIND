@@ -1,0 +1,303 @@
+{
+ "episode_id": "FloorPlan418_s1_ToiletPaper_near",
+ "scene": "FloorPlan418",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "ToiletPaper",
+ "target_name": "toilet paper",
+ "family": "near",
+ "phrase": "the toilet paper next to the toilet",
+ "anchor": {
+  "id": "obj6",
+  "type": "Toilet",
+  "name": "toilet"
+ },
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.9016419649124146,
+   "z": -3.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "ToiletPaper_fa080d90(Clone)_random_copy_0",
+  "obj2": "ToiletPaper_fa080d90",
+  "obj3": "ToiletPaper_0aaaf627",
+  "obj4": "Towel_20f8849e",
+  "obj5": "SoapBottle_5bb3ff1f",
+  "obj6": "Toilet_5ddf0f63"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -0.09,
+    0.84,
+    -2.62
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.81,
+    -2.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.8,
+    0.8,
+    -3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Towel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.62,
+    1.38,
+    -2.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.45,
+    0.8,
+    -2.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Toilet",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.45,
+    0.0,
+    -3.05
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.83,
+    -2.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -0.09,
+    0.86,
+    -2.62
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.8,
+    0.8,
+    -3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Towel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.62,
+    1.38,
+    -2.53
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.45,
+    0.8,
+    -2.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Toilet",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.45,
+    0.0,
+    -3.05
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -0.09,
+    0.84,
+    -2.62
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.81,
+    -2.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.8,
+    0.8,
+    -3.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Towel",
+   "on": [
+    "cabinet",
+    "counter"
+   ],
+   "position": [
+    -2.45,
+    0.82,
+    -2.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [],
+   "position": [
+    -2.62,
+    1.4,
+    -2.53
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Toilet",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.45,
+    0.0,
+    -3.05
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two toilet papers",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the towel and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

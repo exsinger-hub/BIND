@@ -1,0 +1,275 @@
+{
+ "episode_id": "FloorPlan412_s1_Candle_on",
+ "scene": "FloorPlan412",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Candle",
+ "target_name": "candle",
+ "family": "on",
+ "phrase": "the candle on the counter",
+ "anchor": {
+  "id": null,
+  "type": "CounterTop",
+  "name": "counter"
+ },
+ "view": {
+  "position": {
+   "x": -2.75,
+   "y": 0.8999244570732117,
+   "z": -1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Candle_4c1cf54b(Clone)_random_copy_1",
+  "obj2": "Candle_4c1cf54b(Clone)_random_copy_0",
+  "obj3": "Candle_4c1cf54b",
+  "obj4": "Cloth_77f380f3",
+  "obj5": "HandTowel_821b9eb2"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.48,
+    0.96,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.28,
+    0.95,
+    -1.32
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.39,
+    0.96,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.35,
+    0.92,
+    -0.93
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.26,
+    1.32,
+    -0.81
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.28,
+    0.97,
+    -1.32
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.48,
+    0.98,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.39,
+    0.96,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.35,
+    0.92,
+    -0.93
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.26,
+    1.32,
+    -0.81
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.48,
+    0.96,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.28,
+    0.95,
+    -1.32
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -3.39,
+    0.96,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cloth",
+   "on": [],
+   "position": [
+    -3.26,
+    1.34,
+    -0.81
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "cabinet",
+    "sink"
+   ],
+   "position": [
+    -3.35,
+    0.94,
+    -0.93
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two candles",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cloth and the hand towel",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

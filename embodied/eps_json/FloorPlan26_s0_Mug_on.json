@@ -1,0 +1,355 @@
+{
+ "episode_id": "FloorPlan26_s0_Mug_on",
+ "scene": "FloorPlan26",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "on",
+ "phrase": "the mug on the coffee machine",
+ "anchor": {
+  "id": null,
+  "type": "CoffeeMachine",
+  "name": "coffee machine"
+ },
+ "view": {
+  "position": {
+   "x": -2.0,
+   "y": 0.9015909433364868,
+   "z": 2.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Mug_8e482ae7(Clone)_random_copy_1",
+  "obj2": "Mug_8e482ae7(Clone)_random_copy_0",
+  "obj3": "Mug_8e482ae7",
+  "obj4": "Pot_870f5e0e",
+  "obj5": "Bread_fe4bb3e3",
+  "obj6": "Apple_499e3527"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -2.74,
+    1.01,
+    3.72
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.27,
+    0.79,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.93,
+    4.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.92,
+    3.55
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.99,
+    3.49
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.27,
+    0.81,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -2.74,
+    1.03,
+    3.72
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.93,
+    4.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.92,
+    3.55
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.99,
+    3.49
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    -2.74,
+    1.01,
+    3.72
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.94,
+    0.93,
+    3.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.27,
+    0.79,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.94,
+    3.55
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bread",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -0.54,
+    0.95,
+    4.27
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.55,
+    0.99,
+    3.49
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pot and the bread",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

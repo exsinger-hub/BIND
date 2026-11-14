@@ -1,0 +1,261 @@
+{
+ "episode_id": "FloorPlan219_s0_Box_left",
+ "scene": "FloorPlan219",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "left",
+ "phrase": "the box on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -5.0,
+   "y": 0.9010564088821411,
+   "z": 3.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Box_7ebd0db8(Clone)_random_copy_1",
+  "obj2": "Box_7ebd0db8(Clone)_random_copy_0",
+  "obj3": "Box_7ebd0db8",
+  "obj4": "Pillow_62ae86e0",
+  "obj5": "KeyChain_5f1e2895"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.33,
+    4.69
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.33,
+    4.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.87,
+    0.82,
+    3.01
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -5.0,
+    1.18,
+    4.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.36,
+    1.11,
+    4.49
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.87,
+    0.84,
+    3.01
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.33,
+    4.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.35,
+    4.69
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -5.0,
+    1.18,
+    4.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.36,
+    1.11,
+    4.49
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.68,
+    1.33,
+    4.69
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -4.04,
+    1.33,
+    4.69
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.87,
+    0.82,
+    3.01
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "obj1",
+    "obj2"
+   ],
+   "position": [
+    -4.36,
+    1.13,
+    4.49
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -5.0,
+    1.2,
+    4.69
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the key chain",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

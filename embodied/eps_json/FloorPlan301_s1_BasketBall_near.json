@@ -1,0 +1,395 @@
+{
+ "episode_id": "FloorPlan301_s1_BasketBall_near",
+ "scene": "FloorPlan301",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "BasketBall",
+ "target_name": "basket ball",
+ "family": "near",
+ "phrase": "the basket ball next to the bed",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.910415768623352,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "BasketBall_a3f9e174(Clone)_random_copy_1",
+  "obj2": "BasketBall_a3f9e174(Clone)_random_copy_0",
+  "obj3": "BasketBall_a3f9e174",
+  "obj4": "Book_fdf9ad18",
+  "obj5": "Box_ff621ec4",
+  "obj6": "Bed_b25ec7e7",
+  "obj7": "Pillow_19035c72",
+  "obj8": "TissueBox_e98f9a75"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.69,
+    0.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.9,
+    0.56,
+    1.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.46,
+    0.76,
+    1.09
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.87
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.57,
+    0.85
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.69,
+    0.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    0.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    0.85
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.9,
+    0.56,
+    1.18
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.46,
+    0.76,
+    1.09
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.87
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.57,
+    0.85
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.69,
+    0.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.46,
+    0.78,
+    1.09
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -0.9,
+    0.58,
+    1.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "obj5",
+    "floor"
+   ],
+   "position": [
+    -0.64,
+    0.01,
+    0.87
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.15,
+    0.57,
+    0.85
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two basket balls",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the book and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

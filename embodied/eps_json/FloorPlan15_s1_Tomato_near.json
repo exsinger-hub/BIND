@@ -1,0 +1,449 @@
+{
+ "episode_id": "FloorPlan15_s1_Tomato_near",
+ "scene": "FloorPlan15",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Tomato",
+ "target_name": "tomato",
+ "family": "near",
+ "phrase": "the tomato next to the window",
+ "anchor": {
+  "id": "obj6",
+  "type": "Window",
+  "name": "window"
+ },
+ "view": {
+  "position": {
+   "x": -2.75,
+   "y": 0.914953351020813,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Tomato_08a009fe(Clone)_random_copy_1",
+  "obj2": "Tomato_08a009fe(Clone)_random_copy_0",
+  "obj3": "Tomato_08a009fe",
+  "obj4": "Lettuce_ed91ea03",
+  "obj5": "Cup_6beb01b4",
+  "obj6": "Window_c7dbe382",
+  "obj7": "Bread_36a16484",
+  "obj8": "Pot_93605e1b",
+  "obj9": "WineBottle_1e8ef6ff"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.61,
+    0.98,
+    4.1
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.28,
+    0.95,
+    0.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.98,
+    1.11
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.27,
+    1.0,
+    1.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.66,
+    0.88,
+    0.45
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.43,
+    1.34,
+    -0.35
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.41,
+    0.96,
+    0.05
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.16,
+    0.88,
+    0.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.78,
+    0.88,
+    0.25
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.61,
+    0.98,
+    4.1
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    1.0,
+    1.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.28,
+    0.97,
+    0.35
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.27,
+    1.0,
+    1.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.66,
+    0.88,
+    0.45
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.43,
+    1.34,
+    -0.35
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.41,
+    0.96,
+    0.05
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.16,
+    0.88,
+    0.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.78,
+    0.88,
+    0.25
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.61,
+    0.98,
+    4.1
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.28,
+    0.95,
+    0.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.98,
+    1.11
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.66,
+    0.9,
+    0.45
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [],
+   "position": [
+    -3.27,
+    1.02,
+    1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.43,
+    1.34,
+    -0.35
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.41,
+    0.96,
+    0.05
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pot",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.16,
+    0.88,
+    0.05
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.78,
+    0.88,
+    0.25
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tomatos",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the lettuce and the cup",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

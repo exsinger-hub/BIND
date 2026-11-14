@@ -1,0 +1,491 @@
+{
+ "episode_id": "FloorPlan15_s0_Tomato_left",
+ "scene": "FloorPlan15",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Tomato",
+ "target_name": "tomato",
+ "family": "left",
+ "phrase": "the tomato on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.0,
+   "y": 0.914953351020813,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Tomato_08a009fe(Clone)_random_copy_1",
+  "obj2": "Tomato_08a009fe(Clone)_random_copy_0",
+  "obj3": "Tomato_08a009fe",
+  "obj4": "Lettuce_ed91ea03",
+  "obj5": "Spatula_a120ef63",
+  "obj6": "Apple_8a347234",
+  "obj7": "Cup_6beb01b4",
+  "obj8": "Pan_669802a6",
+  "obj9": "Plate_e52bf766",
+  "obj10": "SoapBottle_40110d8f"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter",
+    "obj9"
+   ],
+   "position": [
+    -3.65,
+    0.98,
+    1.19
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.3,
+    0.98,
+    4.0
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.03,
+    0.95,
+    0.45
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.4,
+    1.0,
+    4.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.08,
+    0.92,
+    3.01
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.56,
+    0.97,
+    2.84
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.08,
+    0.91,
+    1.52
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pan",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -3.42,
+    0.97,
+    1.97
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.61
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.3,
+    1.0,
+    4.0
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter",
+    "obj9"
+   ],
+   "position": [
+    -3.65,
+    1.0,
+    1.19
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.03,
+    0.95,
+    0.45
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.4,
+    1.0,
+    4.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.08,
+    0.92,
+    3.01
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.56,
+    0.97,
+    2.84
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.08,
+    0.91,
+    1.52
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pan",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -3.42,
+    0.97,
+    1.97
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.61
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter",
+    "obj9"
+   ],
+   "position": [
+    -3.65,
+    0.98,
+    1.19
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.3,
+    0.98,
+    4.0
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.03,
+    0.95,
+    0.45
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter",
+    "drawer"
+   ],
+   "position": [
+    -3.08,
+    0.94,
+    3.01
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Spatula",
+   "on": [],
+   "position": [
+    -2.4,
+    1.02,
+    4.21
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.56,
+    0.97,
+    2.84
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.08,
+    0.91,
+    1.52
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pan",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    -3.42,
+    0.97,
+    1.97
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -3.46,
+    0.91,
+    1.61
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tomatos",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the lettuce and the spatula",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

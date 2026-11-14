@@ -1,0 +1,342 @@
+{
+ "episode_id": "FloorPlan301_s1_BasketBall_right",
+ "scene": "FloorPlan301",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "BasketBall",
+ "target_name": "basket ball",
+ "family": "right",
+ "phrase": "the basket ball on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.910415768623352,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "BasketBall_a3f9e174(Clone)_random_copy_1",
+  "obj2": "BasketBall_a3f9e174(Clone)_random_copy_0",
+  "obj3": "BasketBall_a3f9e174",
+  "obj4": "TissueBox_e98f9a75",
+  "obj5": "Box_ff621ec4",
+  "obj6": "Book_fdf9ad18",
+  "obj7": "Pillow_19035c72"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.15,
+    0.69,
+    0.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "TissueBox",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.15,
+    0.57,
+    0.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.46,
+    0.76,
+    1.09
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.9,
+    0.56,
+    1.18
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    0.85
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.15,
+    0.71,
+    0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "TissueBox",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.15,
+    0.57,
+    0.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.46,
+    0.76,
+    1.09
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.9,
+    0.56,
+    1.18
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -1.15,
+    0.69,
+    0.11
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.69,
+    0.6
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "TissueBox",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.46,
+    0.78,
+    1.09
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "bed",
+    "floor"
+   ],
+   "position": [
+    -1.15,
+    0.59,
+    0.85
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Book",
+   "on": [
+    "bed",
+    "obj5"
+   ],
+   "position": [
+    -0.9,
+    0.56,
+    1.18
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.63,
+    1.61
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two basket balls",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the tissue box and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

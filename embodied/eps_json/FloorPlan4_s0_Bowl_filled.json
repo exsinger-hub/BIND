@@ -1,0 +1,586 @@
+{
+ "episode_id": "FloorPlan4_s0_Bowl_filled",
+ "scene": "FloorPlan4",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Bowl",
+ "target_name": "bowl",
+ "family": "filled",
+ "phrase": "the bowl with coffee in it",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.9009998440742493,
+   "z": 1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Bowl_06119370(Clone)_random_copy_1",
+  "obj2": "Bowl_06119370(Clone)_random_copy_0",
+  "obj3": "Bowl_06119370",
+  "obj4": "Lettuce_c532b8b7",
+  "obj5": "SaltShaker_59351c88",
+  "obj6": "Apple_381cdb86",
+  "obj7": "Cup_6477d41f",
+  "obj8": "DishSponge_27e2133d",
+  "obj9": "Knife_29d7d4bb",
+  "obj10": "PepperShaker_8752c32c",
+  "obj11": "Potato_ed0e0ce0",
+  "obj12": "SoapBottle_d29e5d33"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.66,
+    1.05,
+    3.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.5
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.66,
+    1.11,
+    2.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.12,
+    0.48
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.5,
+    1.19,
+    0.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.63,
+    1.12,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.26,
+    1.12,
+    0.66
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.42,
+    1.08,
+    2.37
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.29,
+    1.04,
+    2.14
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.15,
+    0.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.38,
+    0.93,
+    0.64
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.66,
+    1.05,
+    3.27
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.5
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.66,
+    1.11,
+    2.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.12,
+    0.48
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.5,
+    1.19,
+    0.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.63,
+    1.12,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.26,
+    1.12,
+    0.66
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.42,
+    1.08,
+    2.37
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.29,
+    1.04,
+    2.14
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.15,
+    0.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.38,
+    0.93,
+    0.64
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.66,
+    1.05,
+    3.27
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.5
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.2,
+    0.93,
+    0.29
+   ],
+   "state": [
+    "clean",
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.14,
+    0.48
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [],
+   "position": [
+    -0.66,
+    1.13,
+    2.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.5,
+    1.19,
+    0.12
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.63,
+    1.12,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.26,
+    1.12,
+    0.66
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.42,
+    1.08,
+    2.37
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PepperShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.29,
+    1.04,
+    2.14
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Potato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.75,
+    1.15,
+    0.21
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.38,
+    0.93,
+    0.64
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "poured out the old coffee and made a fresh coffee in another bowl",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the lettuce and the salt shaker",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

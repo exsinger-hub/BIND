@@ -1,0 +1,471 @@
+{
+ "episode_id": "FloorPlan420_s1_ToiletPaper_near",
+ "scene": "FloorPlan420",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "ToiletPaper",
+ "target_name": "toilet paper",
+ "family": "near",
+ "phrase": "the toilet paper next to the faucet",
+ "anchor": {
+  "id": "obj6",
+  "type": "Faucet",
+  "name": "faucet"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9014922380447388,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "ToiletPaper_89637738(Clone)_random_copy_0",
+  "obj2": "ToiletPaper_89637738",
+  "obj3": "ToiletPaper_dc724746",
+  "obj4": "Plunger_5871c79a",
+  "obj5": "HandTowel_8d04b82a",
+  "obj6": "Faucet_903d1f91",
+  "obj7": "Candle_4a90d452",
+  "obj8": "Cloth_d72a9107",
+  "obj9": "SoapBar_b46883c0",
+  "obj10": "SprayBottle_5e6731a2"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.91,
+    -1.58
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -1.49,
+    1.05,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.78,
+    0.29,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.4,
+    1.04,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.36,
+    1.38,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.45,
+    0.94,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.43,
+    1.02,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.22,
+    0.91,
+    -1.38
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.37,
+    1.04,
+    -0.3
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.91,
+    -1.71
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.78,
+    0.31,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -1.49,
+    1.05,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.93,
+    -1.58
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.4,
+    1.04,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.36,
+    1.38,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.45,
+    0.94,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.43,
+    1.02,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.22,
+    0.91,
+    -1.38
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.37,
+    1.04,
+    -0.3
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.91,
+    -1.71
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.91,
+    -1.58
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet paper hanger"
+   ],
+   "position": [
+    -1.49,
+    1.05,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.78,
+    0.29,
+    -2.46
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plunger",
+   "on": [],
+   "position": [
+    -2.36,
+    1.4,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "HandTowel",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.4,
+    1.06,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.45,
+    0.94,
+    -1.52
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.43,
+    1.02,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.22,
+    0.91,
+    -1.38
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -2.37,
+    1.04,
+    -0.3
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.19,
+    0.91,
+    -1.71
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two toilet papers",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plunger and the hand towel",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

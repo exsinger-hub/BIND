@@ -1,0 +1,300 @@
+{
+ "episode_id": "FloorPlan210_s0_Statue_near",
+ "scene": "FloorPlan210",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Statue",
+ "target_name": "statue",
+ "family": "near",
+ "phrase": "the statue next to the sofa",
+ "anchor": {
+  "id": "obj6",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9057542085647583,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Statue_b7418b43(Clone)_random_copy_1",
+  "obj2": "Statue_b7418b43(Clone)_random_copy_0",
+  "obj3": "Statue_b7418b43",
+  "obj4": "Watch_2ee0717d",
+  "obj5": "Box_acb44c64",
+  "obj6": "Sofa_b5cc7b35"
+ },
+ "visible_B": [
+  1,
+  2,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.82,
+    0.49,
+    0.43
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.12,
+    0.49,
+    0.24
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.12,
+    1.1,
+    4.07
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Watch",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -5.85,
+    0.35,
+    0.12
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.28,
+    0.73,
+    1.2
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.52,
+    0.01,
+    0.26
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.12,
+    0.51,
+    0.24
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.82,
+    0.51,
+    0.43
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.12,
+    1.1,
+    4.07
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Watch",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -5.85,
+    0.35,
+    0.12
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.28,
+    0.73,
+    1.2
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.52,
+    0.01,
+    0.26
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.82,
+    0.49,
+    0.43
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -3.12,
+    0.49,
+    0.24
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    -2.12,
+    1.1,
+    4.07
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Watch",
+   "on": [],
+   "position": [
+    -4.28,
+    0.75,
+    1.2
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -5.85,
+    0.37,
+    0.12
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.52,
+    0.01,
+    0.26
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two statues",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the watch and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

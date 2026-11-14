@@ -1,0 +1,423 @@
+{
+ "episode_id": "FloorPlan328_s1_Mug_on",
+ "scene": "FloorPlan328",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "on",
+ "phrase": "the mug on the bed",
+ "anchor": {
+  "id": null,
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009991884231567,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Mug_22ae65a3(Clone)_random_copy_1",
+  "obj2": "Mug_22ae65a3(Clone)_random_copy_0",
+  "obj3": "Mug_22ae65a3",
+  "obj4": "Pillow_2d410ecc",
+  "obj5": "TissueBox_257206f9",
+  "obj6": "Dumbbell_e2992246",
+  "obj7": "KeyChain_3b24af6c",
+  "obj8": "Laptop_2e5fa273"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.56,
+    -0.48
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.24,
+    0.52,
+    -1.62
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.16,
+    0.44,
+    -1.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.66,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.89,
+    0.8,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Dumbbell",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.24,
+    0.45,
+    -1.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.16,
+    0.52,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.57,
+    -0.25
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.16,
+    0.46,
+    -1.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.24,
+    0.52,
+    -1.62
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.58,
+    -0.48
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.66,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    2.89,
+    0.8,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Dumbbell",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.24,
+    0.45,
+    -1.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.16,
+    0.52,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.57,
+    -0.25
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.56,
+    -0.48
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.24,
+    0.52,
+    -1.62
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.16,
+    0.44,
+    -1.7
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "desk",
+    "shelf"
+   ],
+   "position": [
+    2.89,
+    0.82,
+    -1.67
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TissueBox",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.55,
+    0.68,
+    -1.15
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Dumbbell",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    2.24,
+    0.45,
+    -1.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.16,
+    0.52,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.06,
+    0.57,
+    -0.25
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the tissue box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

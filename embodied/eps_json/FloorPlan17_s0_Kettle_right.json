@@ -1,0 +1,560 @@
+{
+ "episode_id": "FloorPlan17_s0_Kettle_right",
+ "scene": "FloorPlan17",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Kettle",
+ "target_name": "kettle",
+ "family": "right",
+ "phrase": "the kettle on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9089995622634888,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Kettle_96100666(Clone)_random_copy_1",
+  "obj2": "Kettle_96100666(Clone)_random_copy_0",
+  "obj3": "Kettle_96100666",
+  "obj4": "WineBottle_a0af04ed",
+  "obj5": "SoapBottle_6b7f8022",
+  "obj6": "Bottle_1d1c29e1",
+  "obj7": "Bowl_527e65d2",
+  "obj8": "Bread_6e9d01dc",
+  "obj9": "Knife_82e35e38",
+  "obj10": "Potato_da6cb02c",
+  "obj11": "Spatula_362edcaa"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.34,
+    0.45,
+    2.73
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.76,
+    1.91
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.18,
+    0.77,
+    2.75
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.76,
+    2.92
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.76,
+    2.58
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.76,
+    2.24
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.37,
+    0.76,
+    2.41
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.82,
+    2.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.46,
+    0.78,
+    1.91
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Potato",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.95,
+    0.18,
+    2.73
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Spatula",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.77,
+    1.91
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.34,
+    0.45,
+    2.73
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.18,
+    0.79,
+    2.75
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.78,
+    1.91
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.76,
+    2.92
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.76,
+    2.58
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.76,
+    2.24
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.37,
+    0.76,
+    2.41
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.82,
+    2.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.46,
+    0.78,
+    1.91
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Potato",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.95,
+    0.18,
+    2.73
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Spatula",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.77,
+    1.91
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -1.34,
+    0.45,
+    2.73
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.76,
+    1.91
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.18,
+    0.77,
+    2.75
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "WineBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.78,
+    2.58
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.78,
+    2.92
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.76,
+    2.24
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.37,
+    0.76,
+    2.41
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.09,
+    0.82,
+    2.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.46,
+    0.78,
+    1.91
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Potato",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.95,
+    0.18,
+    2.73
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Spatula",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.77,
+    1.91
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two kettles",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the wine bottle and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

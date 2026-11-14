@@ -1,0 +1,500 @@
+{
+ "episode_id": "FloorPlan323_s1_TeddyBear_near",
+ "scene": "FloorPlan323",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "TeddyBear",
+ "target_name": "teddy bear",
+ "family": "near",
+ "phrase": "the teddy bear next to the bed",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9009991884231567,
+   "z": -3.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "TeddyBear_cde4a75b(Clone)_random_copy_1",
+  "obj2": "TeddyBear_cde4a75b(Clone)_random_copy_0",
+  "obj3": "TeddyBear_cde4a75b",
+  "obj4": "Pillow_0c062a19",
+  "obj5": "Book_261172bc",
+  "obj6": "Bed_b8ad3dcc",
+  "obj7": "AlarmClock_7371c1f8",
+  "obj8": "Bowl_90ac891e",
+  "obj9": "Mug_99a3c1ae",
+  "obj10": "Pillow_974691ae"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.18,
+    0.36,
+    0.1
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.65,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.94,
+    0.65,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.68,
+    -2.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.23,
+    0.63,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.61,
+    -0.03,
+    -1.86
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.66,
+    0.63,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.64,
+    1.23,
+    1.51
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.78,
+    1.23,
+    1.17
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.25,
+    0.39,
+    -0.31
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.67,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.18,
+    0.38,
+    0.1
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.94,
+    0.65,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.68,
+    -2.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.23,
+    0.63,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.61,
+    -0.03,
+    -1.86
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.66,
+    0.63,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.64,
+    1.23,
+    1.51
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.78,
+    1.23,
+    1.17
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.25,
+    0.39,
+    -0.31
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.18,
+    0.36,
+    0.1
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.65,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.94,
+    0.65,
+    -1.66
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -2.23,
+    0.65,
+    -1.86
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Book",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.38,
+    0.7,
+    -2.26
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.61,
+    -0.03,
+    -1.86
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "AlarmClock",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -1.66,
+    0.63,
+    -1.26
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bowl",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.64,
+    1.23,
+    1.51
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.78,
+    1.23,
+    1.17
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    2.25,
+    0.39,
+    -0.31
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two teddy bears",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the book",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

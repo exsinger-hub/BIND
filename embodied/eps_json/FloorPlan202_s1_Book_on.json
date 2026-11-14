@@ -1,0 +1,313 @@
+{
+ "episode_id": "FloorPlan202_s1_Book_on",
+ "scene": "FloorPlan202",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Book",
+ "target_name": "book",
+ "family": "on",
+ "phrase": "the book on the sofa",
+ "anchor": {
+  "id": null,
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9010459184646606,
+   "z": 2.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Book_7cd647c4(Clone)_random_copy_1",
+  "obj2": "Book_7cd647c4(Clone)_random_copy_0",
+  "obj3": "Book_7cd647c4",
+  "obj4": "Box_9f2261ac",
+  "obj5": "Laptop_1793eb2d",
+  "obj6": "Statue_d7da8aef"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.25,
+    0.25,
+    0.26
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.54,
+    0.73
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.88,
+    0.25,
+    0.18
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.38,
+    0.73,
+    0.54
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.63,
+    0.72,
+    0.5
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.39,
+    0.54,
+    0.8
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.25,
+    0.25,
+    0.26
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.88,
+    0.27,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.56,
+    0.73
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.38,
+    0.73,
+    0.54
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.63,
+    0.72,
+    0.5
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.39,
+    0.54,
+    0.8
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.25,
+    0.25,
+    0.26
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.54,
+    0.73
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    0.88,
+    0.25,
+    0.18
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Box",
+   "on": [
+    "shelf",
+    "side table"
+   ],
+   "position": [
+    0.63,
+    0.74,
+    0.5
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.38,
+    0.75,
+    0.54
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -0.39,
+    0.54,
+    0.8
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two books",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the box and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

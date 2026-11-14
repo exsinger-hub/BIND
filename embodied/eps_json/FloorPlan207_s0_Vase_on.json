@@ -1,0 +1,347 @@
+{
+ "episode_id": "FloorPlan207_s0_Vase_on",
+ "scene": "FloorPlan207",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "on",
+ "phrase": "the vase on the arm chair",
+ "anchor": {
+  "id": null,
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9009992480278015,
+   "z": 2.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Vase_cc1947d6",
+  "obj2": "Vase_5af273ef",
+  "obj3": "Vase_0cc41aeb",
+  "obj4": "Laptop_277077f6",
+  "obj5": "Pillow_e654fd90",
+  "obj6": "Box_046f9ebd",
+  "obj7": "RemoteControl_4801d4ad"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.24,
+    0.34,
+    0.85
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.32,
+    0.33,
+    2.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.17,
+    0.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.23,
+    0.48,
+    0.77
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.14,
+    0.59,
+    0.24
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.65,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.39,
+    0.34,
+    0.85
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.32,
+    0.35,
+    2.13
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.24,
+    0.36,
+    0.85
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.17,
+    0.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.23,
+    0.48,
+    0.77
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.14,
+    0.59,
+    0.24
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.65,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.39,
+    0.34,
+    0.85
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.24,
+    0.34,
+    0.85
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    0.32,
+    0.33,
+    2.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    1.73,
+    0.17,
+    0.21
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.14,
+    0.61,
+    0.24
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -0.23,
+    0.5,
+    0.77
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    0.02,
+    0.65,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.39,
+    0.34,
+    0.85
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the pillow",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

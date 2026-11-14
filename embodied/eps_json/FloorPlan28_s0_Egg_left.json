@@ -1,0 +1,462 @@
+{
+ "episode_id": "FloorPlan28_s0_Egg_left",
+ "scene": "FloorPlan28",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Egg",
+ "target_name": "egg",
+ "family": "left",
+ "phrase": "the egg on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -3.5,
+   "y": 0.9009982347488403,
+   "z": -1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Egg_7fd04de3(Clone)_random_copy_1",
+  "obj2": "Egg_7fd04de3(Clone)_random_copy_0",
+  "obj3": "Egg_7fd04de3",
+  "obj4": "Mug_ee37c650",
+  "obj5": "PepperShaker_9e5e1427",
+  "obj6": "Apple_dddc5ab2",
+  "obj7": "Lettuce_c4f57aa0",
+  "obj8": "Plate_d3f76717",
+  "obj9": "Pot_3ca784b0"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Egg",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -3.87,
+    0.31,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.02,
+    0.73,
+    -0.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.22,
+    0.73,
+    -0.28
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.14,
+    0.69,
+    -0.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -4.21,
+    0.26,
+    -0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.93,
+    0.76,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.92,
+    0.77,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plate",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.11,
+    0.71,
+    -0.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -4.03,
+    0.27,
+    -0.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Egg",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -3.87,
+    0.31,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.22,
+    0.75,
+    -0.28
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.02,
+    0.75,
+    -0.12
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.14,
+    0.69,
+    -0.11
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -4.21,
+    0.26,
+    -0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.93,
+    0.76,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.92,
+    0.77,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plate",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.11,
+    0.71,
+    -0.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -4.03,
+    0.27,
+    -0.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Egg",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -3.87,
+    0.31,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.02,
+    0.73,
+    -0.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.22,
+    0.73,
+    -0.28
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "obj9",
+    "shelf"
+   ],
+   "position": [
+    -4.21,
+    0.28,
+    -0.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.14,
+    0.71,
+    -0.11
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.93,
+    0.76,
+    -0.49
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Lettuce",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.92,
+    0.77,
+    -0.31
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Plate",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.11,
+    0.71,
+    -0.42
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -4.03,
+    0.27,
+    -0.3
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two eggs",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the mug and the pepper shaker",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,453 @@
+{
+ "episode_id": "FloorPlan17_s1_Apple_right",
+ "scene": "FloorPlan17",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Apple",
+ "target_name": "apple",
+ "family": "right",
+ "phrase": "the apple on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.9089995622634888,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Apple_9b33ed08(Clone)_random_copy_1",
+  "obj2": "Apple_9b33ed08(Clone)_random_copy_0",
+  "obj3": "Apple_9b33ed08",
+  "obj4": "Lettuce_ed5a1cdb",
+  "obj5": "WineBottle_a0af04ed",
+  "obj6": "CellPhone_30bf3935",
+  "obj7": "Fork_439802c4",
+  "obj8": "Mug_65460ff0",
+  "obj9": "Pot_eefa2a21"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.97,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.04,
+    0.82,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.03,
+    2.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.02,
+    0.82,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.91,
+    -0.91
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.04,
+    0.84,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.99,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.03,
+    2.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.02,
+    0.82,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.91,
+    -0.91
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.97,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.04,
+    0.82,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.03,
+    2.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.93,
+    -0.91
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WineBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.02,
+    0.84,
+    -0.69
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two apples",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the lettuce and the wine bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

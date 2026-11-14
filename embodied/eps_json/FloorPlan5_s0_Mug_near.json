@@ -1,0 +1,371 @@
+{
+ "episode_id": "FloorPlan5_s0_Mug_near",
+ "scene": "FloorPlan5",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "near",
+ "phrase": "the mug next to the shelf",
+ "anchor": {
+  "id": "obj6",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": 2.5,
+   "y": 0.9009991884231567,
+   "z": 0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Mug_6e6b5c75(Clone)_random_copy_1",
+  "obj2": "Mug_6e6b5c75(Clone)_random_copy_0",
+  "obj3": "Mug_6e6b5c75",
+  "obj4": "ButterKnife_dabdcb92",
+  "obj5": "Tomato_87a95f98",
+  "obj6": "Shelf_9138160c",
+  "obj7": "Potato_dd4f8072"
+ },
+ "visible_B": [
+  1,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.96,
+    0.89,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.5,
+    0.96,
+    -1.88
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.76,
+    0.89,
+    0.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.92,
+    -1.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.07,
+    1.18,
+    0.66
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    2.76,
+    0.88,
+    0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Potato",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    2.86,
+    0.6,
+    0.1
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.76,
+    0.91,
+    0.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.5,
+    0.96,
+    -1.88
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.96,
+    0.91,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.92,
+    -1.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.07,
+    1.18,
+    0.66
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    2.76,
+    0.88,
+    0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Potato",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    2.86,
+    0.6,
+    0.1
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.96,
+    0.89,
+    0.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "coffee machine",
+    "counter"
+   ],
+   "position": [
+    0.5,
+    0.96,
+    -1.88
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    2.76,
+    0.89,
+    0.09
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.07,
+    1.2,
+    0.66
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.9,
+    0.94,
+    -1.85
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    2.76,
+    0.88,
+    0.14
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Potato",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    2.86,
+    0.6,
+    0.1
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the butter knife and the tomato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

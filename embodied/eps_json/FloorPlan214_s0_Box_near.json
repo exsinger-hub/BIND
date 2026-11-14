@@ -1,0 +1,346 @@
+{
+ "episode_id": "FloorPlan214_s0_Box_near",
+ "scene": "FloorPlan214",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "near",
+ "phrase": "the box next to the shelf",
+ "anchor": {
+  "id": "obj6",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.9204407930374146,
+   "z": 4.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Box_d97b4ac1(Clone)_random_copy_1",
+  "obj2": "Box_d97b4ac1(Clone)_random_copy_0",
+  "obj3": "Box_d97b4ac1",
+  "obj4": "Bowl_3aa5ccc4",
+  "obj5": "Statue_0dedf31d",
+  "obj6": "Shelf_0f27d4ba",
+  "obj7": "Statue_c3b822af"
+ },
+ "visible_B": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  2,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.67,
+    0.23,
+    0.92
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.27,
+    0.61,
+    6.26
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.59,
+    4.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.56,
+    1.47,
+    5.25
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.02,
+    0.47,
+    4.71
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -0.39,
+    1.45,
+    5.95
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.35,
+    0.49,
+    6.72
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.61,
+    4.5
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.27,
+    0.61,
+    6.26
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.67,
+    0.25,
+    0.92
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.56,
+    1.47,
+    5.25
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.02,
+    0.47,
+    4.71
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -0.39,
+    1.45,
+    5.95
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.35,
+    0.49,
+    6.72
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -0.67,
+    0.23,
+    0.92
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.27,
+    0.61,
+    6.26
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.59,
+    4.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.02,
+    0.49,
+    4.71
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.56,
+    1.49,
+    5.25
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [],
+   "position": [
+    -0.39,
+    1.45,
+    5.95
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Statue",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -4.35,
+    0.49,
+    6.72
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bowl and the statue",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

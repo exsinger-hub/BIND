@@ -1,0 +1,409 @@
+{
+ "episode_id": "FloorPlan201_s1_Newspaper_left",
+ "scene": "FloorPlan201",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Newspaper",
+ "target_name": "newspaper",
+ "family": "left",
+ "phrase": "the newspaper on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -3.25,
+   "y": 0.9026566743850708,
+   "z": 4.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Newspaper_e3da9db3(Clone)_random_copy_1",
+  "obj2": "Newspaper_e3da9db3(Clone)_random_copy_0",
+  "obj3": "Newspaper_e3da9db3",
+  "obj4": "Bowl_375e143b",
+  "obj5": "Box_0370b400",
+  "obj6": "Laptop_2705aadd",
+  "obj7": "Plate_2c856200",
+  "obj8": "TissueBox_55ef7114"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.17,
+    0.11,
+    4.69
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.93,
+    0.56,
+    3.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.17,
+    0.61,
+    5.16
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.17,
+    0.61,
+    4.84
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.75,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.4,
+    0.55,
+    3.44
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.61,
+    4.84
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.18,
+    0.47,
+    5.84
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.17,
+    0.63,
+    5.16
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.93,
+    0.56,
+    3.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.17,
+    0.13,
+    4.69
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.17,
+    0.61,
+    4.84
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.75,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.4,
+    0.55,
+    3.44
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.61,
+    4.84
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.18,
+    0.47,
+    5.84
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "shelf"
+   ],
+   "position": [
+    -2.17,
+    0.11,
+    4.69
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Newspaper",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.93,
+    0.56,
+    3.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Newspaper",
+   "on": [
+    "obj5",
+    "coffee table"
+   ],
+   "position": [
+    -2.17,
+    0.61,
+    5.16
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.87,
+    0.77,
+    3.44
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Box",
+   "on": [
+    "coffee table",
+    "obj7"
+   ],
+   "position": [
+    -2.17,
+    0.63,
+    4.84
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.4,
+    0.55,
+    3.44
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.4,
+    0.61,
+    4.84
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.18,
+    0.47,
+    5.84
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two newspapers",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bowl and the box",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

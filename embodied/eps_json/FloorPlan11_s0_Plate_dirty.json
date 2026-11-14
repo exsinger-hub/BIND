@@ -1,0 +1,459 @@
+{
+ "episode_id": "FloorPlan11_s0_Plate_dirty",
+ "scene": "FloorPlan11",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Plate",
+ "target_name": "plate",
+ "family": "dirty",
+ "phrase": "the dirty plate",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.9009991884231567,
+   "z": -0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Plate_c93ad5c3(Clone)_random_copy_1",
+  "obj2": "Plate_c93ad5c3(Clone)_random_copy_0",
+  "obj3": "Plate_c93ad5c3",
+  "obj4": "Potato_a4c7c0c2",
+  "obj5": "SoapBottle_6078d077",
+  "obj6": "ButterKnife_ed1eda6a",
+  "obj7": "Cup_9b650a42",
+  "obj8": "SaltShaker_2ba925d6",
+  "obj9": "Spoon_bda7ac08"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.66,
+    0.91,
+    -1.74
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.14,
+    0.95,
+    0.35
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.34,
+    0.81,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.38,
+    0.77,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.86,
+    0.93,
+    -1.72
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.7,
+    0.91,
+    -1.45
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.96,
+    0.91,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Spoon",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.92,
+    -1.65
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.66,
+    0.91,
+    -1.74
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.14,
+    0.95,
+    0.35
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.34,
+    0.81,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.38,
+    0.77,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.86,
+    0.93,
+    -1.72
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.7,
+    0.91,
+    -1.45
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.96,
+    0.91,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Spoon",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.92,
+    -1.65
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.91,
+    -1.49
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.66,
+    0.91,
+    -1.74
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.14,
+    0.95,
+    0.35
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.38,
+    0.79,
+    -1.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.34,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.86,
+    0.93,
+    -1.72
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.7,
+    0.91,
+    -1.45
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.96,
+    0.91,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Spoon",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.8,
+    0.92,
+    -1.65
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "washed the dirty plate and then used another plate, which is now dirty",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the potato and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

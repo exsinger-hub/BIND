@@ -1,0 +1,337 @@
+{
+ "episode_id": "FloorPlan324_s0_AlarmClock_near",
+ "scene": "FloorPlan324",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "AlarmClock",
+ "target_name": "alarm clock",
+ "family": "near",
+ "phrase": "the alarm clock next to the painting",
+ "anchor": {
+  "id": "obj6",
+  "type": "Painting",
+  "name": "painting"
+ },
+ "view": {
+  "position": {
+   "x": 1.0,
+   "y": 0.9020034074783325,
+   "z": -1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "AlarmClock_3207556f(Clone)_random_copy_1",
+  "obj2": "AlarmClock_3207556f(Clone)_random_copy_0",
+  "obj3": "AlarmClock_3207556f",
+  "obj4": "BaseballBat_edc1898d",
+  "obj5": "Pillow_9c195aef",
+  "obj6": "Painting_392f0cb1",
+  "obj7": "KeyChain_c874d811"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.83,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.58,
+    1.1,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.7,
+    0.88,
+    -1.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    1.89,
+    1.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.76,
+    0.83,
+    -1.27
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.85,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.85,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.58,
+    1.1,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.7,
+    0.88,
+    -1.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    1.89,
+    1.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.76,
+    0.83,
+    -1.27
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "AlarmClock",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.63,
+    0.71,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.82,
+    0.83,
+    -2.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "AlarmClock",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.46,
+    0.83,
+    -1.65
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "BaseballBat",
+   "on": [
+    "drawer",
+    "drawer"
+   ],
+   "position": [
+    1.7,
+    0.9,
+    -1.83
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pillow",
+   "on": [],
+   "position": [
+    1.58,
+    1.12,
+    -2.21
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    1.89,
+    1.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    1.76,
+    0.83,
+    -1.27
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two alarm clocks",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the baseball bat and the pillow",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "episode_id": "FloorPlan19_s1_SaltShaker_right",
+ "scene": "FloorPlan19",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "SaltShaker",
+ "target_name": "salt shaker",
+ "family": "right",
+ "phrase": "the salt shaker on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9023619890213013,
+   "z": -1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "SaltShaker_49e6a73c(Clone)_random_copy_1",
+  "obj2": "SaltShaker_49e6a73c(Clone)_random_copy_0",
+  "obj3": "SaltShaker_49e6a73c",
+  "obj4": "Cup_54786de5",
+  "obj5": "Tomato_9996f74d",
+  "obj6": "Apple_32d35e39",
+  "obj7": "Pan_dc5e4805",
+  "obj8": "Potato_ffd2fa6b",
+  "obj9": "SoapBottle_2ce1c2f6"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.96,
+    0.52,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.3,
+    0.84,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.84,
+    -0.22
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.91,
+    0.52,
+    -1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.14,
+    0.57,
+    -1.28
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.04,
+    0.89,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.21,
+    0.84,
+    -0.8
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.02,
+    0.56,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.22,
+    0.52,
+    -1.23
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.96,
+    0.52,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.86,
+    -0.22
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.3,
+    0.86,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.91,
+    0.52,
+    -1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.14,
+    0.57,
+    -1.28
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.04,
+    0.89,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.21,
+    0.84,
+    -0.8
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.02,
+    0.56,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.22,
+    0.52,
+    -1.23
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.96,
+    0.52,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.3,
+    0.84,
+    -0.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -2.76,
+    0.84,
+    -0.22
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.14,
+    0.59,
+    -1.28
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Tomato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.91,
+    0.54,
+    -1.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.04,
+    0.89,
+    -0.73
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.21,
+    0.84,
+    -0.8
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.02,
+    0.56,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "SoapBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.22,
+    0.52,
+    -1.23
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two salt shakers",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cup and the tomato",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

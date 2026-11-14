@@ -1,0 +1,395 @@
+{
+ "episode_id": "FloorPlan409_s1_Candle_on",
+ "scene": "FloorPlan409",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Candle",
+ "target_name": "candle",
+ "family": "on",
+ "phrase": "the candle on the counter",
+ "anchor": {
+  "id": null,
+  "type": "CounterTop",
+  "name": "counter"
+ },
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9011651277542114,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Candle_be1a1c72(Clone)_random_copy_1",
+  "obj2": "Candle_be1a1c72(Clone)_random_copy_0",
+  "obj3": "Candle_be1a1c72",
+  "obj4": "HandTowel_f189488d",
+  "obj5": "SoapBottle_5ecc8213",
+  "obj6": "Cloth_7ad7ed78",
+  "obj7": "SoapBar_cb22c782",
+  "obj8": "Towel_d0874aed"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.82,
+    2.59
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.4,
+    0.67,
+    2.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.53,
+    1.04,
+    1.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.46,
+    1.21,
+    2.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.82,
+    2.27
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.59,
+    1.05,
+    1.4
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.69,
+    1.04,
+    1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.4,
+    0.69,
+    2.86
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.84,
+    2.59
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.53,
+    1.04,
+    1.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.46,
+    1.21,
+    2.38
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.32,
+    0.82,
+    2.27
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.59,
+    1.05,
+    1.4
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.69,
+    1.04,
+    1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.69,
+    0.82,
+    2.59
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.4,
+    0.67,
+    2.86
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.53,
+    1.04,
+    1.27
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "counter",
+    "drawer"
+   ],
+   "position": [
+    0.32,
+    0.84,
+    2.27
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SoapBottle",
+   "on": [],
+   "position": [
+    0.46,
+    1.23,
+    2.38
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.59,
+    1.05,
+    1.4
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "SoapBar",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    0.69,
+    1.04,
+    1.6
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Towel",
+   "on": [
+    "towel holder"
+   ],
+   "position": [
+    -0.44,
+    1.38,
+    1.28
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two candles",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the hand towel and the soap bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

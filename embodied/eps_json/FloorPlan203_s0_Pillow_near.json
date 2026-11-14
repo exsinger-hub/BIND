@@ -1,0 +1,459 @@
+{
+ "episode_id": "FloorPlan203_s0_Pillow_near",
+ "scene": "FloorPlan203",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "near",
+ "phrase": "the pillow next to the sofa",
+ "anchor": {
+  "id": "obj5",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9070531129837036,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pillow_f25864b9(Clone)_random_copy_0",
+  "obj2": "Pillow_f25864b9",
+  "obj3": "Plate_782e018c",
+  "obj4": "Bowl_cd243bbd",
+  "obj5": "Sofa_9b5cac5c",
+  "obj6": "Boots_23fb5c69",
+  "obj7": "Laptop_aa18e137",
+  "obj8": "TissueBox_88aca81e",
+  "obj9": "WateringCan_695c2523"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.0,
+    0.52,
+    2.33
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.12,
+    0.52,
+    2.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.62,
+    0.52,
+    0.2
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.76,
+    -0.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.53,
+    0.01,
+    2.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -3.75,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.11,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.35,
+    0.45,
+    3.28
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WateringCan",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.47,
+    0.45,
+    2.8
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.12,
+    0.54,
+    2.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.0,
+    0.54,
+    2.33
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.62,
+    0.52,
+    0.2
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.76,
+    -0.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.53,
+    0.01,
+    2.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -3.75,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.11,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.35,
+    0.45,
+    3.28
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WateringCan",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.47,
+    0.45,
+    2.8
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.0,
+    0.52,
+    2.33
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.12,
+    0.52,
+    2.8
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Plate",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.78,
+    -0.19
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bowl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -4.62,
+    0.54,
+    0.2
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -1.53,
+    0.01,
+    2.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -3.75,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.11,
+    0.76,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "TissueBox",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.35,
+    0.45,
+    3.28
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "WateringCan",
+   "on": [
+    "obj5"
+   ],
+   "position": [
+    -1.47,
+    0.45,
+    2.8
+   ],
+   "state": [
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plate and the bowl",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

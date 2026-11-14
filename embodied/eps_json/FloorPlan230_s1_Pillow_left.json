@@ -1,0 +1,429 @@
+{
+ "episode_id": "FloorPlan230_s1_Pillow_left",
+ "scene": "FloorPlan230",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "left",
+ "phrase": "the pillow on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -2.5,
+   "y": 0.9082556962966919,
+   "z": 5.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pillow_0ff9e2b0(Clone)_random_copy_1",
+  "obj2": "Pillow_0ff9e2b0(Clone)_random_copy_0",
+  "obj3": "Pillow_0ff9e2b0",
+  "obj4": "Plate_90564ff8",
+  "obj5": "Statue_ac3f15f2",
+  "obj6": "Boots_7abad8a2",
+  "obj7": "Newspaper_2f52188d",
+  "obj8": "RemoteControl_94e2d79e",
+  "obj9": "TissueBox_bb804b94"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.53,
+    6.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.84,
+    2.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.57,
+    6.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.65,
+    7.24
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.86,
+    2.06
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.55,
+    6.39
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.57,
+    6.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.65,
+    7.24
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.62,
+    6.18
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.53,
+    6.39
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.71,
+    0.84,
+    2.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Plate",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.0,
+    0.67,
+    7.24
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.59,
+    6.98
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Boots",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.34,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -3.04,
+    0.47,
+    7.22
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.82,
+    0.56,
+    7.24
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TissueBox",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.64,
+    0.56,
+    7.24
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the plate and the statue",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

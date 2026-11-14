@@ -1,0 +1,349 @@
+{
+ "episode_id": "FloorPlan217_s1_RemoteControl_left",
+ "scene": "FloorPlan217",
+ "room": "living",
+ "seed": 1,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "left",
+ "phrase": "the remote control on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.9011412858963013,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "RemoteControl_0fb7c39a(Clone)_random_copy_1",
+  "obj2": "RemoteControl_0fb7c39a(Clone)_random_copy_0",
+  "obj3": "RemoteControl_0fb7c39a",
+  "obj4": "Laptop_dffce803",
+  "obj5": "WateringCan_845e769a",
+  "obj6": "Box_5785d8e5",
+  "obj7": "CreditCard_25a7d6ea"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.45,
+    2.74
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.65
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.31,
+    0.57,
+    3.14
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.64,
+    0.57,
+    1.72
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.45,
+    2.55
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.81,
+    0.75,
+    0.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.36
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.31,
+    0.59,
+    3.14
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.65
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.47,
+    2.74
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.64,
+    0.57,
+    1.72
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.45,
+    2.55
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.81,
+    0.75,
+    0.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.36
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.45,
+    2.74
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.65
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.31,
+    0.57,
+    3.14
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.03,
+    0.47,
+    2.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "WateringCan",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -0.64,
+    0.59,
+    1.72
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Box",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.81,
+    0.75,
+    0.96
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CreditCard",
+   "on": [
+    "coffee table"
+   ],
+   "position": [
+    -2.53,
+    0.45,
+    2.36
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the watering can",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

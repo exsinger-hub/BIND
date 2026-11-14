@@ -1,0 +1,307 @@
+{
+ "episode_id": "FloorPlan216_s1_Statue_near",
+ "scene": "FloorPlan216",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Statue",
+ "target_name": "statue",
+ "family": "near",
+ "phrase": "the statue next to the shelf",
+ "anchor": {
+  "id": "obj6",
+  "type": "Shelf",
+  "name": "shelf"
+ },
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9009991884231567,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Statue_53d54d99(Clone)_random_copy_0",
+  "obj2": "Statue_53d54d99",
+  "obj3": "Statue_0e3378a7",
+  "obj4": "Laptop_7edcc0b8",
+  "obj5": "Vase_76173c4b",
+  "obj6": "Shelf_8683559a"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -1.21,
+    0.13,
+    1.25
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.82,
+    0.53,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.69,
+    1.16,
+    -0.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.71,
+    0.51,
+    -1.07
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.14,
+    1.07,
+    0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.55,
+    0.11,
+    1.25
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.82,
+    0.55,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -1.21,
+    0.15,
+    1.25
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.69,
+    1.16,
+    -0.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.71,
+    0.51,
+    -1.07
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.14,
+    1.07,
+    0.4
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.55,
+    0.11,
+    1.25
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -1.21,
+    0.13,
+    1.25
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    0.82,
+    0.53,
+    -1.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Statue",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.69,
+    1.16,
+    -0.0
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.14,
+    1.09,
+    0.4
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -1.71,
+    0.53,
+    -1.07
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Shelf",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.55,
+    0.11,
+    1.25
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two statues",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the vase",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

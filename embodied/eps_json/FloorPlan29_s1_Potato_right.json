@@ -1,0 +1,331 @@
+{
+ "episode_id": "FloorPlan29_s1_Potato_right",
+ "scene": "FloorPlan29",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Potato",
+ "target_name": "potato",
+ "family": "right",
+ "phrase": "the potato on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.25,
+   "y": 0.9317981004714966,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Potato_1a37afca(Clone)_random_copy_1",
+  "obj2": "Potato_1a37afca(Clone)_random_copy_0",
+  "obj3": "Potato_1a37afca",
+  "obj4": "Pot_cac07d00",
+  "obj5": "Bowl_d8683016",
+  "obj6": "Cup_e9647c0b"
+ },
+ "visible_B": [
+  1,
+  3,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.7,
+    0.65,
+    1.07
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.81,
+    1.1,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.65,
+    0.96
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    -0.38,
+    0.19,
+    -1.31
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.21,
+    0.9,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.48,
+    0.59,
+    1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.7,
+    0.65,
+    1.07
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.67,
+    0.96
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.81,
+    1.12,
+    0.18
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    -0.38,
+    0.19,
+    -1.31
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bowl",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.21,
+    0.9,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.48,
+    0.59,
+    1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.7,
+    0.65,
+    1.07
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.81,
+    1.1,
+    0.18
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Potato",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.65,
+    0.96
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pot",
+   "on": [
+    "sink",
+    "sink"
+   ],
+   "position": [
+    1.21,
+    0.92,
+    0.23
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Bowl",
+   "on": [
+    "cabinet"
+   ],
+   "position": [
+    -0.38,
+    0.21,
+    -1.31
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Cup",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.48,
+    0.59,
+    1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two potatos",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pot and the bowl",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

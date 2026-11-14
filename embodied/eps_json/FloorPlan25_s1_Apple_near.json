@@ -1,0 +1,851 @@
+{
+ "episode_id": "FloorPlan25_s1_Apple_near",
+ "scene": "FloorPlan25",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Apple",
+ "target_name": "apple",
+ "family": "near",
+ "phrase": "the apple next to the window",
+ "anchor": {
+  "id": "obj6",
+  "type": "Window",
+  "name": "window"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9009992480278015,
+   "z": 1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Apple_cc12296a(Clone)_random_copy_1",
+  "obj2": "Apple_cc12296a(Clone)_random_copy_0",
+  "obj3": "Apple_cc12296a",
+  "obj4": "Spatula_ff13ec0c",
+  "obj5": "Cup_57f70061",
+  "obj6": "Window_25bdf5de",
+  "obj7": "Bread_ccd7e024",
+  "obj8": "ButterKnife_da1ab1a9",
+  "obj9": "DishSponge_79e0be84",
+  "obj10": "Egg_fb3557b0",
+  "obj11": "Fork_db82d28b",
+  "obj12": "Ladle_08fdd807",
+  "obj13": "Lettuce_6f4694ec",
+  "obj14": "Mug_ee360431",
+  "obj15": "PepperShaker_ffe7dcf5",
+  "obj16": "Plate_8004b6ad",
+  "obj17": "SaltShaker_d5ca407a",
+  "obj18": "SoapBottle_9e3525d0",
+  "obj19": "Spoon_fbbf0708"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.89,
+    0.28
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.17,
+    0.89,
+    1.21
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.89,
+    0.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.83,
+    0.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.82,
+    0.5
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.72,
+    1.34,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.86,
+    0.25
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.83,
+    0.05
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "DishSponge",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.91,
+    0.69,
+    0.38
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.85,
+    0.53
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.82,
+    0.13
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.21,
+    0.87,
+    0.05
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.84,
+    0.76,
+    0.27
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.49,
+    0.82,
+    0.06
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj15",
+   "type": "PepperShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.02,
+    0.69,
+    0.21
+   ]
+  },
+  {
+   "id": "obj16",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.81,
+    0.31
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj17",
+   "type": "SaltShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.54,
+    0.82,
+    0.53
+   ]
+  },
+  {
+   "id": "obj18",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.72,
+    0.82,
+    0.06
+   ]
+  },
+  {
+   "id": "obj19",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.82,
+    0.05
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.17,
+    0.91,
+    1.21
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.91,
+    0.28
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.89,
+    0.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.83,
+    0.03
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.82,
+    0.5
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.72,
+    1.34,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.86,
+    0.25
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.83,
+    0.05
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "DishSponge",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.91,
+    0.69,
+    0.38
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.85,
+    0.53
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.82,
+    0.13
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.21,
+    0.87,
+    0.05
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.84,
+    0.76,
+    0.27
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.49,
+    0.82,
+    0.06
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj15",
+   "type": "PepperShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.02,
+    0.69,
+    0.21
+   ]
+  },
+  {
+   "id": "obj16",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.81,
+    0.31
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj17",
+   "type": "SaltShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.54,
+    0.82,
+    0.53
+   ]
+  },
+  {
+   "id": "obj18",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.72,
+    0.82,
+    0.06
+   ]
+  },
+  {
+   "id": "obj19",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.82,
+    0.05
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.89,
+    0.28
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.17,
+    0.89,
+    1.21
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.89,
+    0.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spatula",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.84,
+    0.5
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cup",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.85,
+    0.03
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.72,
+    1.34,
+    -0.21
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.98,
+    0.86,
+    0.25
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.71,
+    0.83,
+    0.05
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "DishSponge",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.91,
+    0.69,
+    0.38
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Egg",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.85,
+    0.53
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.26,
+    0.82,
+    0.13
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.21,
+    0.87,
+    0.05
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Lettuce",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.84,
+    0.76,
+    0.27
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.49,
+    0.82,
+    0.06
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj15",
+   "type": "PepperShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.02,
+    0.69,
+    0.21
+   ]
+  },
+  {
+   "id": "obj16",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.59,
+    0.81,
+    0.31
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj17",
+   "type": "SaltShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.54,
+    0.82,
+    0.53
+   ]
+  },
+  {
+   "id": "obj18",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.72,
+    0.82,
+    0.06
+   ]
+  },
+  {
+   "id": "obj19",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.37,
+    0.82,
+    0.05
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two apples",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spatula and the cup",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

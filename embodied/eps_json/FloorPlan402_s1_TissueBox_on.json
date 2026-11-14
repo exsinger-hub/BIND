@@ -1,0 +1,353 @@
+{
+ "episode_id": "FloorPlan402_s1_TissueBox_on",
+ "scene": "FloorPlan402",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "TissueBox",
+ "target_name": "tissue box",
+ "family": "on",
+ "phrase": "the tissue box on the toilet",
+ "anchor": {
+  "id": null,
+  "type": "Toilet",
+  "name": "toilet"
+ },
+ "view": {
+  "position": {
+   "x": -1.75,
+   "y": 0.9006701707839966,
+   "z": 4.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "TissueBox_11edae11(Clone)_random_copy_1",
+  "obj2": "TissueBox_11edae11(Clone)_random_copy_0",
+  "obj3": "TissueBox_11edae11",
+  "obj4": "ToiletPaper_b19504c2",
+  "obj5": "Cloth_6e60c328",
+  "obj6": "Plunger_ed710244",
+  "obj7": "ScrubBrush_2f874c37"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -3.77,
+    0.54,
+    0.37
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.39,
+    0.99,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.19,
+    1.04,
+    3.09
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.16,
+    1.04,
+    3.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.45,
+    0.99,
+    4.89
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.96,
+    4.93
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.1,
+    0.96,
+    4.73
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.19,
+    1.06,
+    3.09
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.39,
+    0.99,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -3.77,
+    0.56,
+    0.37
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.16,
+    1.04,
+    3.22
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.45,
+    0.99,
+    4.89
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.96,
+    4.93
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.1,
+    0.96,
+    4.73
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "TissueBox",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -3.77,
+    0.54,
+    0.37
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TissueBox",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.39,
+    0.99,
+    4.89
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TissueBox",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.19,
+    1.04,
+    3.09
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "ToiletPaper",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.45,
+    1.01,
+    4.89
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Cloth",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -0.16,
+    1.06,
+    3.22
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.96,
+    4.93
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.1,
+    0.96,
+    4.73
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tissue boxs",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the toilet paper and the cloth",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "episode_id": "FloorPlan18_s1_Kettle_near",
+ "scene": "FloorPlan18",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Kettle",
+ "target_name": "kettle",
+ "family": "near",
+ "phrase": "the kettle next to the faucet",
+ "anchor": {
+  "id": "obj6",
+  "type": "Faucet",
+  "name": "faucet"
+ },
+ "view": {
+  "position": {
+   "x": -0.25,
+   "y": 0.9009997248649597,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Kettle_7137cd16(Clone)_random_copy_1",
+  "obj2": "Kettle_7137cd16(Clone)_random_copy_0",
+  "obj3": "Kettle_7137cd16",
+  "obj4": "Bread_33971f41",
+  "obj5": "PaperTowelRoll_ac476f7e",
+  "obj6": "Faucet_a975a00f",
+  "obj7": "Plate_a5f84881"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.62,
+    0.99,
+    0.49
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.56,
+    0.99,
+    3.85
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.46,
+    0.83,
+    6.7
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.31,
+    1.05,
+    3.04
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.44,
+    0.99,
+    2.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.62,
+    0.99,
+    2.33
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.4,
+    0.99,
+    1.58
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.56,
+    1.01,
+    3.85
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.62,
+    1.01,
+    0.49
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.46,
+    0.83,
+    6.7
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.31,
+    1.05,
+    3.04
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.44,
+    0.99,
+    2.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.62,
+    0.99,
+    2.33
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.4,
+    0.99,
+    1.58
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.62,
+    0.99,
+    0.49
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Kettle",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.56,
+    0.99,
+    3.85
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Kettle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.46,
+    0.83,
+    6.7
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Bread",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.44,
+    1.01,
+    2.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PaperTowelRoll",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.31,
+    1.07,
+    3.04
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.62,
+    0.99,
+    2.33
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.4,
+    0.99,
+    1.58
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two kettles",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the bread and the paper towel roll",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

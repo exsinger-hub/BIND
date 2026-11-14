@@ -1,0 +1,675 @@
+{
+ "episode_id": "FloorPlan6_s1_Tomato_near",
+ "scene": "FloorPlan6",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Tomato",
+ "target_name": "tomato",
+ "family": "near",
+ "phrase": "the tomato next to the fridge",
+ "anchor": {
+  "id": "obj6",
+  "type": "Fridge",
+  "name": "fridge"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9009991884231567,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Tomato_f7fd1342(Clone)_random_copy_1",
+  "obj2": "Tomato_f7fd1342(Clone)_random_copy_0",
+  "obj3": "Tomato_f7fd1342",
+  "obj4": "PaperTowelRoll_d2d5f79c",
+  "obj5": "ButterKnife_cce72c77",
+  "obj6": "Fridge_bb8487b4",
+  "obj7": "Bread_f550157f",
+  "obj8": "Cup_44251a62",
+  "obj9": "Kettle_94676c2b",
+  "obj10": "Pan_4d9e9543",
+  "obj11": "PepperShaker_20b55868",
+  "obj12": "Plate_c9cdacad",
+  "obj13": "Pot_91c2d6ae",
+  "obj14": "SaltShaker_bc5c5a25"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.95,
+    0.94
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.73,
+    0.95,
+    1.09
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.78,
+    0.95,
+    -1.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.52,
+    1.02,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.6,
+    0.92,
+    0.87
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Fridge",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.48,
+    0.0,
+    -0.78
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.46,
+    0.99,
+    0.13
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.43,
+    0.92,
+    -1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.82,
+    0.91,
+    -1.53
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.54,
+    0.91,
+    0.54
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.44,
+    0.91,
+    -0.89
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.62,
+    0.91,
+    0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.41,
+    0.93,
+    -0.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.42,
+    0.92,
+    -1.31
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.78,
+    0.97,
+    -1.71
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.73,
+    0.95,
+    1.09
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.97,
+    0.94
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.52,
+    1.02,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.6,
+    0.92,
+    0.87
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Fridge",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.48,
+    0.0,
+    -0.78
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.46,
+    0.99,
+    0.13
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.43,
+    0.92,
+    -1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.82,
+    0.91,
+    -1.53
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.54,
+    0.91,
+    0.54
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.44,
+    0.91,
+    -0.89
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.62,
+    0.91,
+    0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.41,
+    0.93,
+    -0.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.42,
+    0.92,
+    -1.31
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.37,
+    0.95,
+    0.94
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.73,
+    0.95,
+    1.09
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.78,
+    0.95,
+    -1.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.6,
+    0.94,
+    0.87
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "ButterKnife",
+   "on": [],
+   "position": [
+    1.52,
+    1.04,
+    -1.14
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Fridge",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -2.48,
+    0.0,
+    -0.78
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.46,
+    0.99,
+    0.13
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.43,
+    0.92,
+    -1.1
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Kettle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.82,
+    0.91,
+    -1.53
+   ],
+   "state": [
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.54,
+    0.91,
+    0.54
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "PepperShaker",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.44,
+    0.91,
+    -0.89
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -2.62,
+    0.91,
+    0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    1.41,
+    0.93,
+    -0.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    1.42,
+    0.92,
+    -1.31
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tomatos",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the paper towel roll and the butter knife",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

@@ -1,0 +1,553 @@
+{
+ "episode_id": "FloorPlan24_s1_Tomato_near",
+ "scene": "FloorPlan24",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Tomato",
+ "target_name": "tomato",
+ "family": "near",
+ "phrase": "the tomato next to the window",
+ "anchor": {
+  "id": "obj6",
+  "type": "Window",
+  "name": "window"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009992480278015,
+   "z": 1.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Tomato_ef8f6e91(Clone)_random_copy_1",
+  "obj2": "Tomato_ef8f6e91(Clone)_random_copy_0",
+  "obj3": "Tomato_ef8f6e91",
+  "obj4": "Lettuce_470604f9",
+  "obj5": "SaltShaker_1ebd593a",
+  "obj6": "Window_2da365b2",
+  "obj7": "Apple_7414608c",
+  "obj8": "Bread_0166c008",
+  "obj9": "Egg_bfeeb8dc",
+  "obj10": "Knife_5d27abd6",
+  "obj11": "Pot_e063a8ec",
+  "obj12": "SoapBottle_db8c0960"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.8,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.59,
+    0.8,
+    0.97
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.8,
+    1.32
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.73,
+    1.13
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.13,
+    1.67,
+    0.81
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.65,
+    0.88,
+    0.98
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.96,
+    0.77,
+    1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.77,
+    0.97
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.84,
+    1.12
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.73,
+    1.29
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.59,
+    0.82,
+    0.97
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.8,
+    0.91,
+    0.94
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.8,
+    1.32
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.73,
+    1.13
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.13,
+    1.67,
+    0.81
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.65,
+    0.88,
+    0.98
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.96,
+    0.77,
+    1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.77,
+    0.97
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.84,
+    1.12
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.73,
+    1.29
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.8,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.95,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.59,
+    0.8,
+    0.97
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Lettuce",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.7,
+    0.75,
+    1.13
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.82,
+    1.32
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Window",
+   "on": [],
+   "position": [
+    -1.13,
+    1.67,
+    0.81
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.65,
+    0.88,
+    0.98
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Bread",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.96,
+    0.77,
+    1.1
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.77,
+    0.97
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.88,
+    0.84,
+    1.12
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.62,
+    0.85,
+    1.4
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.81,
+    0.73,
+    1.29
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tomatos",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the lettuce and the salt shaker",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

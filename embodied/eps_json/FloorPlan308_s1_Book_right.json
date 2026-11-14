@@ -1,0 +1,350 @@
+{
+ "episode_id": "FloorPlan308_s1_Book_right",
+ "scene": "FloorPlan308",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "Book",
+ "target_name": "book",
+ "family": "right",
+ "phrase": "the book on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009991884231567,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Book_892bcb7c(Clone)_random_copy_1",
+  "obj2": "Book_892bcb7c(Clone)_random_copy_0",
+  "obj3": "Book_892bcb7c",
+  "obj4": "Mug_de9b051b",
+  "obj5": "BaseballBat_e1a55d90",
+  "obj6": "AlarmClock_118d42f1",
+  "obj7": "Laptop_11f0c818"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.1,
+    0.56,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.81,
+    0.87,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.84,
+    0.78,
+    2.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.39,
+    0.87,
+    -1.35
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.47,
+    1.14,
+    -0.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.64,
+    0.87,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.73,
+    0.87,
+    -1.7
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.1,
+    0.56,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.84,
+    0.8,
+    2.5
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.81,
+    0.89,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.39,
+    0.87,
+    -1.35
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.47,
+    1.14,
+    -0.83
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.64,
+    0.87,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.73,
+    0.87,
+    -1.7
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.1,
+    0.56,
+    -1.54
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.81,
+    0.87,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.84,
+    0.78,
+    2.5
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Mug",
+   "on": [],
+   "position": [
+    -0.47,
+    1.16,
+    -0.83
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BaseballBat",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.39,
+    0.89,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "AlarmClock",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.64,
+    0.87,
+    -1.01
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.73,
+    0.87,
+    -1.7
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two books",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the mug and the baseball bat",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

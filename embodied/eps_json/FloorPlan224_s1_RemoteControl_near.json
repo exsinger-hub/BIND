@@ -1,0 +1,378 @@
+{
+ "episode_id": "FloorPlan224_s1_RemoteControl_near",
+ "scene": "FloorPlan224",
+ "room": "living",
+ "seed": 1,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "near",
+ "phrase": "the remote control next to the painting",
+ "anchor": {
+  "id": "obj6",
+  "type": "Painting",
+  "name": "painting"
+ },
+ "view": {
+  "position": {
+   "x": -2.25,
+   "y": 0.9283229112625122,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "RemoteControl_e680e616(Clone)_random_copy_1",
+  "obj2": "RemoteControl_e680e616(Clone)_random_copy_0",
+  "obj3": "RemoteControl_e680e616",
+  "obj4": "Statue_2735bb65",
+  "obj5": "Laptop_144f9ca6",
+  "obj6": "Painting_5ed299ff",
+  "obj7": "CellPhone_30dca23b",
+  "obj8": "Vase_5db3b539"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.13,
+    0.6,
+    -0.77
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.99
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.2
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.0
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.77,
+    0.52,
+    1.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    -3.49,
+    1.39,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.38,
+    0.6,
+    -0.36
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.31,
+    0.6,
+    -0.56
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.54,
+    1.2
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.99
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.13,
+    0.62,
+    -0.77
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.0
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.77,
+    0.52,
+    1.39
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    -3.49,
+    1.39,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.38,
+    0.6,
+    -0.36
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.31,
+    0.6,
+    -0.56
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    3.13,
+    0.6,
+    -0.77
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.99
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.52,
+    1.2
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.77,
+    0.54,
+    1.39
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -2.69,
+    0.54,
+    1.0
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Painting",
+   "on": [],
+   "position": [
+    -3.49,
+    1.39,
+    -0.51
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.38,
+    0.6,
+    -0.36
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Vase",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -3.31,
+    0.6,
+    -0.56
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

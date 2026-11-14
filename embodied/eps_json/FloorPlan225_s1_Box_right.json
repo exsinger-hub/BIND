@@ -1,0 +1,300 @@
+{
+ "episode_id": "FloorPlan225_s1_Box_right",
+ "scene": "FloorPlan225",
+ "room": "living",
+ "seed": 1,
+ "target_type": "Box",
+ "target_name": "box",
+ "family": "right",
+ "phrase": "the box on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -1.0,
+   "y": 0.906817615032196,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Box_ea5a235f(Clone)_random_copy_1",
+  "obj2": "Box_ea5a235f(Clone)_random_copy_0",
+  "obj3": "Box_ea5a235f",
+  "obj4": "Laptop_4d6f6e54",
+  "obj5": "Newspaper_63a762ea",
+  "obj6": "TissueBox_3caeaca6"
+ },
+ "visible_B": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.4,
+    0.86,
+    2.98
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.33,
+    0.86,
+    2.53
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -2.61,
+    0.52,
+    4.44
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.52,
+    0.43,
+    2.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.53,
+    0.52,
+    3.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.1,
+    0.76,
+    2.98
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.33,
+    0.88,
+    2.53
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.4,
+    0.88,
+    2.98
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -2.61,
+    0.52,
+    4.44
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.52,
+    0.43,
+    2.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.53,
+    0.52,
+    3.3
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.1,
+    0.76,
+    2.98
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.4,
+    0.86,
+    2.98
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Box",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.33,
+    0.86,
+    2.53
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Box",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -2.61,
+    0.52,
+    4.44
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -4.53,
+    0.54,
+    3.3
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Newspaper",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.52,
+    0.45,
+    2.61
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.1,
+    0.76,
+    2.98
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two boxs",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the newspaper",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

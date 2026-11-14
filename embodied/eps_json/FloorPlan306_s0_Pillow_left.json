@@ -1,0 +1,262 @@
+{
+ "episode_id": "FloorPlan306_s0_Pillow_left",
+ "scene": "FloorPlan306",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "left",
+ "phrase": "the pillow on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.75,
+   "y": 0.9009991884231567,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Pillow_bdcd901a(Clone)_random_copy_0",
+  "obj2": "Pillow_bdcd901a",
+  "obj3": "KeyChain_b02a8599",
+  "obj4": "CellPhone_1477a1dd",
+  "obj5": "TeddyBear_8ced9d4b"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    3.1,
+    0.84,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.43,
+    0.96,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.56,
+    0.78,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.73,
+    0.78,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.46,
+    0.8,
+    -0.76
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.43,
+    0.98,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    3.1,
+    0.86,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.56,
+    0.78,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.73,
+    0.78,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.46,
+    0.8,
+    -0.76
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    3.1,
+    0.84,
+    -1.36
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.43,
+    0.96,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.73,
+    0.8,
+    -1.06
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    2.56,
+    0.8,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.46,
+    0.8,
+    -0.76
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the key chain and the cell phone",
+  "objects": [
+   "obj3",
+   "obj4"
+  ]
+ }
+}

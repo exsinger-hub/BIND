@@ -1,0 +1,350 @@
+{
+ "episode_id": "FloorPlan225_s0_Vase_near",
+ "scene": "FloorPlan225",
+ "room": "living",
+ "seed": 0,
+ "target_type": "Vase",
+ "target_name": "vase",
+ "family": "near",
+ "phrase": "the vase next to the arm chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "ArmChair",
+  "name": "arm chair"
+ },
+ "view": {
+  "position": {
+   "x": -1.5,
+   "y": 0.906817615032196,
+   "z": 1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Vase_148d4dc0(Clone)_random_copy_1",
+  "obj2": "Vase_148d4dc0(Clone)_random_copy_0",
+  "obj3": "Vase_148d4dc0",
+  "obj4": "KeyChain_a23b0a17",
+  "obj5": "Laptop_4d6f6e54",
+  "obj6": "ArmChair_4c4d99d1",
+  "obj7": "Newspaper_63a762ea"
+ },
+ "visible_B": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.43,
+    1.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.76,
+    2.83
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.43,
+    0.64
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -4.46,
+    0.41,
+    3.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -1.4,
+    0.43,
+    4.51
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.88,
+    0.01,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.77,
+    2.98
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.45,
+    0.64
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.76,
+    2.83
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.45,
+    1.15
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -4.46,
+    0.41,
+    3.85
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -1.4,
+    0.43,
+    4.51
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.88,
+    0.01,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.77,
+    2.98
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Vase",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -4.58,
+    0.43,
+    1.15
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Vase",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.25,
+    0.76,
+    2.83
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Vase",
+   "on": [
+    "obj6",
+    "floor"
+   ],
+   "position": [
+    -1.06,
+    0.43,
+    0.64
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "sofa"
+   ],
+   "position": [
+    -1.4,
+    0.45,
+    4.51
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "chair",
+    "floor"
+   ],
+   "position": [
+    -4.46,
+    0.43,
+    3.85
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ArmChair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.88,
+    0.01,
+    0.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Newspaper",
+   "on": [
+    "t v stand"
+   ],
+   "position": [
+    -0.48,
+    0.77,
+    2.98
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two vases",
+  "objects": [
+   "obj3",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the key chain and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

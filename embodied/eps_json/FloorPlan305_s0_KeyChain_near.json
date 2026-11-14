@@ -1,0 +1,352 @@
+{
+ "episode_id": "FloorPlan305_s0_KeyChain_near",
+ "scene": "FloorPlan305",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "KeyChain",
+ "target_name": "key chain",
+ "family": "near",
+ "phrase": "the key chain next to the bed",
+ "anchor": {
+  "id": "obj6",
+  "type": "Bed",
+  "name": "bed"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9009991884231567,
+   "z": -1.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "KeyChain_8a49df77(Clone)_random_copy_1",
+  "obj2": "KeyChain_8a49df77(Clone)_random_copy_0",
+  "obj3": "KeyChain_8a49df77",
+  "obj4": "AlarmClock_8316e9ce",
+  "obj5": "BasketBall_0bd9d102",
+  "obj6": "Bed_c1955e80",
+  "obj7": "Pen_094af667"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.25,
+    0.67,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.15,
+    0.45,
+    1.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.11,
+    0.67,
+    -1.79
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.13,
+    0.79,
+    -1.75
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    0.96,
+    0.0,
+    -0.72
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pen",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.75
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.15,
+    0.47,
+    1.05
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.25,
+    0.69,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.11,
+    0.67,
+    -1.79
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.13,
+    0.79,
+    -1.75
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    0.96,
+    0.0,
+    -0.72
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pen",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.75
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.25,
+    0.67,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "KeyChain",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.15,
+    0.45,
+    1.05
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "AlarmClock",
+   "on": [],
+   "position": [
+    0.13,
+    0.81,
+    -1.75
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "drawer",
+    "side table"
+   ],
+   "position": [
+    -0.11,
+    0.69,
+    -1.79
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bed",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    0.96,
+    0.0,
+    -0.72
+   ],
+   "state": [
+    "dirty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pen",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    -0.22,
+    0.67,
+    -1.75
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two key chains",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the alarm clock and the basket ball",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

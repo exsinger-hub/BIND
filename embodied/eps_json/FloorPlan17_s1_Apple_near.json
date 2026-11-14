@@ -1,0 +1,491 @@
+{
+ "episode_id": "FloorPlan17_s1_Apple_near",
+ "scene": "FloorPlan17",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "Apple",
+ "target_name": "apple",
+ "family": "near",
+ "phrase": "the apple next to the sink",
+ "anchor": {
+  "id": "obj6",
+  "type": "SinkBasin",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": 0.5,
+   "y": 0.9089995622634888,
+   "z": 0.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Apple_9b33ed08(Clone)_random_copy_1",
+  "obj2": "Apple_9b33ed08(Clone)_random_copy_0",
+  "obj3": "Apple_9b33ed08",
+  "obj4": "CellPhone_30bf3935",
+  "obj5": "Mug_65460ff0",
+  "obj6": "SinkBasin_f65a0f44",
+  "obj7": "Fork_439802c4",
+  "obj8": "Lettuce_ed5a1cdb",
+  "obj9": "Pot_eefa2a21",
+  "obj10": "WineBottle_a0af04ed"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.97,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.04,
+    0.82,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.03,
+    2.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.03,
+    0.75,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.02,
+    0.82,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.91,
+    -0.91
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.97,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.05,
+    2.81
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.04,
+    0.84,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.14
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.91,
+    -0.43
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.03,
+    0.75,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.02,
+    0.82,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.91,
+    -0.91
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Apple",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.66,
+    0.97,
+    -0.75
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Apple",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.04,
+    0.82,
+    -0.57
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Apple",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    1.14,
+    1.03,
+    2.81
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.93,
+    -0.43
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Mug",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.05,
+    0.93,
+    -0.14
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "SinkBasin",
+   "on": [],
+   "position": [
+    -0.03,
+    0.75,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Fork",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.14,
+    0.76,
+    -0.61
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Lettuce",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.02,
+    0.82,
+    -0.69
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Pot",
+   "on": [
+    "stove"
+   ],
+   "position": [
+    0.8,
+    0.94,
+    -0.74
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.97,
+    0.91,
+    -0.91
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two apples",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cell phone and the mug",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

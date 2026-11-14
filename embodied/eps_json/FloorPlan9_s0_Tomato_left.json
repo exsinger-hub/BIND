@@ -1,0 +1,312 @@
+{
+ "episode_id": "FloorPlan9_s0_Tomato_left",
+ "scene": "FloorPlan9",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Tomato",
+ "target_name": "tomato",
+ "family": "left",
+ "phrase": "the tomato on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9009991884231567,
+   "z": -0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Tomato_3c7ffe90(Clone)_random_copy_1",
+  "obj2": "Tomato_3c7ffe90(Clone)_random_copy_0",
+  "obj3": "Tomato_3c7ffe90",
+  "obj4": "Pan_2638e731",
+  "obj5": "PepperShaker_098311e6",
+  "obj6": "ButterKnife_2300f552"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.83,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.83,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.83,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.61,
+    0.52,
+    -1.18
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.73,
+    0.79,
+    -1.05
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.81,
+    -1.32
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.85,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.83,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.85,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.61,
+    0.52,
+    -1.18
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.73,
+    0.79,
+    -1.05
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.81,
+    -1.32
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.83,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.83,
+    -1.27
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Tomato",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.83,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pan",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.73,
+    0.81,
+    -1.05
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "PepperShaker",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.61,
+    0.54,
+    -1.18
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "ButterKnife",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.91,
+    0.81,
+    -1.32
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two tomatos",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pan and the pepper shaker",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

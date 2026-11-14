@@ -1,0 +1,513 @@
+{
+ "episode_id": "FloorPlan16_s0_WineBottle_near",
+ "scene": "FloorPlan16",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "WineBottle",
+ "target_name": "wine bottle",
+ "family": "near",
+ "phrase": "the wine bottle next to the faucet",
+ "anchor": {
+  "id": "obj6",
+  "type": "Faucet",
+  "name": "faucet"
+ },
+ "view": {
+  "position": {
+   "x": 0.0,
+   "y": 0.9037266969680786,
+   "z": 2.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "WineBottle_42c4ba35(Clone)_random_copy_1",
+  "obj2": "WineBottle_42c4ba35(Clone)_random_copy_0",
+  "obj3": "WineBottle_42c4ba35",
+  "obj4": "PaperTowelRoll_a90f823a",
+  "obj5": "Fork_d924ba5c",
+  "obj6": "Faucet_4105d586",
+  "obj7": "Egg_0425ce13",
+  "obj8": "Knife_a1b750d5",
+  "obj9": "Mug_0b3dbbd3",
+  "obj10": "Pan_e29550a7"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.19,
+    1.02,
+    1.15
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.78,
+    0.81,
+    1.26
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.52,
+    4.36
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.36,
+    1.13,
+    1.45
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    1.03,
+    1.26
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    1.01,
+    1.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.65,
+    0.86,
+    1.49
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.92,
+    0.84,
+    1.26
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.85,
+    0.81,
+    1.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    2.18,
+    1.03,
+    -1.6
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.54,
+    4.36
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.78,
+    0.81,
+    1.26
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.19,
+    1.04,
+    1.15
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.36,
+    1.13,
+    1.45
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Fork",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    1.03,
+    1.26
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    1.01,
+    1.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.65,
+    0.86,
+    1.49
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.92,
+    0.84,
+    1.26
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.85,
+    0.81,
+    1.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    2.18,
+    1.03,
+    -1.6
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "WineBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.19,
+    1.02,
+    1.15
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "WineBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.78,
+    0.81,
+    1.26
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "WineBottle",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    1.63,
+    0.52,
+    4.36
+   ],
+   "state": [
+    "filled with coffee"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "PaperTowelRoll",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.33,
+    1.05,
+    1.26
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Fork",
+   "on": [],
+   "position": [
+    -0.36,
+    1.15,
+    1.45
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Faucet",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.12,
+    1.01,
+    1.34
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.65,
+    0.86,
+    1.49
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Knife",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.92,
+    0.84,
+    1.26
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.85,
+    0.81,
+    1.34
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Pan",
+   "on": [
+    "stove",
+    "stove"
+   ],
+   "position": [
+    2.18,
+    1.03,
+    -1.6
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two wine bottles",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the paper towel roll and the fork",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

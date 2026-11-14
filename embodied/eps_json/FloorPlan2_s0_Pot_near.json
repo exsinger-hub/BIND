@@ -1,0 +1,460 @@
+{
+ "episode_id": "FloorPlan2_s0_Pot_near",
+ "scene": "FloorPlan2",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Pot",
+ "target_name": "pot",
+ "family": "near",
+ "phrase": "the pot next to the chair",
+ "anchor": {
+  "id": "obj6",
+  "type": "Chair",
+  "name": "chair"
+ },
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9009992480278015,
+   "z": 2.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Pot_68f3f3e0(Clone)_random_copy_1",
+  "obj2": "Pot_68f3f3e0(Clone)_random_copy_0",
+  "obj3": "Pot_68f3f3e0",
+  "obj4": "Spoon_ab4315e1",
+  "obj5": "Knife_32559729",
+  "obj6": "Chair_1090c2d5",
+  "obj7": "Bread_d5a1c3f9",
+  "obj8": "Ladle_24291006",
+  "obj9": "Lettuce_e4c06bf0"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.64,
+    0.91,
+    -1.61
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.05,
+    0.56,
+    1.24
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.92,
+    0.97
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.92,
+    1.2
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Knife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.09,
+    0.59,
+    1.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.0,
+    0.0,
+    1.24
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.64,
+    0.98,
+    1.18
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.11,
+    0.97,
+    1.2
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.9,
+    0.97,
+    1.41
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.64,
+    0.91,
+    -1.61
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.94,
+    0.97
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.05,
+    0.58,
+    1.24
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.92,
+    1.2
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Knife",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.09,
+    0.59,
+    1.19
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.0,
+    0.0,
+    1.24
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.64,
+    0.98,
+    1.18
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.11,
+    0.97,
+    1.2
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.9,
+    0.97,
+    1.41
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.64,
+    0.91,
+    -1.61
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pot",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    -0.05,
+    0.56,
+    1.24
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pot",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.0,
+    0.92,
+    0.97
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Spoon",
+   "on": [
+    "obj6"
+   ],
+   "position": [
+    0.09,
+    0.61,
+    1.19
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Knife",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.21,
+    0.94,
+    1.2
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Chair",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -0.0,
+    0.0,
+    1.24
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Bread",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.64,
+    0.98,
+    1.18
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Ladle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -0.11,
+    0.97,
+    1.2
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Lettuce",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    1.9,
+    0.97,
+    1.41
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pots",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the spoon and the knife",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

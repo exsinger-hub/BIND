@@ -1,0 +1,312 @@
+{
+ "episode_id": "FloorPlan203_s1_RemoteControl_on",
+ "scene": "FloorPlan203",
+ "room": "living",
+ "seed": 1,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "on",
+ "phrase": "the remote control on the dining table",
+ "anchor": {
+  "id": null,
+  "type": "DiningTable",
+  "name": "dining table"
+ },
+ "view": {
+  "position": {
+   "x": -3.0,
+   "y": 0.9070531129837036,
+   "z": 0.5
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "RemoteControl_22e2cef3(Clone)_random_copy_1",
+  "obj2": "RemoteControl_22e2cef3(Clone)_random_copy_0",
+  "obj3": "RemoteControl_22e2cef3",
+  "obj4": "Pillow_f25864b9",
+  "obj5": "Vase_3e4d327d",
+  "obj6": "TissueBox_88aca81e"
+ },
+ "visible_B": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  4,
+  5,
+  6
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.76,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.9,
+    0.52,
+    0.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.35,
+    0.45,
+    2.8
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -3.93,
+    0.83,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.76,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.76,
+    -0.68
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.35,
+    0.47,
+    2.8
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.9,
+    0.52,
+    0.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.78,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -3.93,
+    0.83,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.76,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.76,
+    -0.68
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -4.29,
+    0.76,
+    -0.56
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -3.9,
+    0.52,
+    0.13
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "sofa"
+   ],
+   "position": [
+    -1.35,
+    0.45,
+    2.8
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Pillow",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.78,
+    -0.8
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Vase",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -3.93,
+    0.85,
+    -0.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "TissueBox",
+   "on": [
+    "chair",
+    "dining table"
+   ],
+   "position": [
+    -4.48,
+    0.76,
+    -0.68
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj1",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the pillow and the vase",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

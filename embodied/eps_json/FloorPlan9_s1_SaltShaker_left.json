@@ -1,0 +1,668 @@
+{
+ "episode_id": "FloorPlan9_s1_SaltShaker_left",
+ "scene": "FloorPlan9",
+ "room": "kitchen",
+ "seed": 1,
+ "target_type": "SaltShaker",
+ "target_name": "salt shaker",
+ "family": "left",
+ "phrase": "the salt shaker on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": -0.5,
+   "y": 0.9009991884231567,
+   "z": -0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "SaltShaker_bb605532(Clone)_random_copy_1",
+  "obj2": "SaltShaker_bb605532(Clone)_random_copy_0",
+  "obj3": "SaltShaker_bb605532",
+  "obj4": "Cup_91292e5f",
+  "obj5": "DishSponge_c134d858",
+  "obj6": "Bowl_163b5efc",
+  "obj7": "Egg_ef1031e8",
+  "obj8": "Fork_7696c59e",
+  "obj9": "Knife_f9fbf2c6",
+  "obj10": "Mug_85a2b9e1",
+  "obj11": "Plate_bc9d8875",
+  "obj12": "Potato_f6d2e7df",
+  "obj13": "SoapBottle_18cab97c",
+  "obj14": "Spatula_d47cd08d"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.05,
+    0.76,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.79,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.76,
+    -0.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.79,
+    -1.2
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "DishSponge",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.26,
+    0.76,
+    -0.71
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.78,
+    0.79,
+    -1.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.83,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.19,
+    0.76,
+    -0.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.12,
+    0.76,
+    -0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.64,
+    0.52,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.8,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.8,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.77,
+    -0.71
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.81,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.05,
+    0.78,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.76,
+    -0.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.79,
+    -1.2
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "DishSponge",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.26,
+    0.76,
+    -0.71
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.78,
+    0.79,
+    -1.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.83,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.19,
+    0.76,
+    -0.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.12,
+    0.76,
+    -0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.64,
+    0.52,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.8,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.8,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.77,
+    -0.71
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.05,
+    0.76,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "SaltShaker",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -1.05,
+    0.79,
+    -1.42
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "SaltShaker",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.76,
+    -0.71
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Cup",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.26,
+    0.78,
+    -0.71
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "DishSponge",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.93,
+    0.81,
+    -1.2
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Bowl",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.78,
+    0.79,
+    -1.12
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Egg",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.62,
+    0.83,
+    -1.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Fork",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.19,
+    0.76,
+    -0.65
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Knife",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.58,
+    0.55,
+    -1.29
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    0.12,
+    0.76,
+    -0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -1.64,
+    0.52,
+    -1.15
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj12",
+   "type": "Potato",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.16,
+    0.8,
+    -0.6
+   ]
+  },
+  {
+   "id": "obj13",
+   "type": "SoapBottle",
+   "on": [
+    "dining table"
+   ],
+   "position": [
+    -0.83,
+    0.8,
+    -1.41
+   ]
+  },
+  {
+   "id": "obj14",
+   "type": "Spatula",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -0.09,
+    0.77,
+    -0.71
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two salt shakers",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cup and the dish sponge",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

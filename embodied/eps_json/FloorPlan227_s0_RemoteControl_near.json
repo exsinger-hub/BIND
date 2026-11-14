@@ -1,0 +1,444 @@
+{
+ "episode_id": "FloorPlan227_s0_RemoteControl_near",
+ "scene": "FloorPlan227",
+ "room": "living",
+ "seed": 0,
+ "target_type": "RemoteControl",
+ "target_name": "remote control",
+ "family": "near",
+ "phrase": "the remote control next to the sofa",
+ "anchor": {
+  "id": "obj6",
+  "type": "Sofa",
+  "name": "sofa"
+ },
+ "view": {
+  "position": {
+   "x": -3.0,
+   "y": 0.9270526170730591,
+   "z": 3.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "RemoteControl_45eda945(Clone)_random_copy_1",
+  "obj2": "RemoteControl_45eda945(Clone)_random_copy_0",
+  "obj3": "RemoteControl_45eda945",
+  "obj4": "Statue_044984c5",
+  "obj5": "Laptop_d9d44fbe",
+  "obj6": "Sofa_8bd689dc",
+  "obj7": "KeyChain_350e8f40",
+  "obj8": "Pillow_dc968b61",
+  "obj9": "Vase_61b7da0b"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.2,
+    0.3,
+    2.24
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.93,
+    0.29,
+    3.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.71,
+    0.3,
+    3.38
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.33,
+    0.3,
+    3.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -2.93,
+    0.29,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.02,
+    3.63
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.29,
+    3.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.34,
+    3.44
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -4.95,
+    1.58,
+    5.13
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.93,
+    0.31,
+    3.37
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.2,
+    0.32,
+    2.24
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.71,
+    0.3,
+    3.38
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.33,
+    0.3,
+    3.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -2.93,
+    0.29,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.02,
+    3.63
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.29,
+    3.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.34,
+    3.44
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -4.95,
+    1.58,
+    5.13
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.2,
+    0.3,
+    2.24
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "RemoteControl",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.93,
+    0.29,
+    3.37
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "RemoteControl",
+   "on": [
+    "arm chair",
+    "floor"
+   ],
+   "position": [
+    -1.71,
+    0.3,
+    3.38
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -2.93,
+    0.31,
+    3.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Laptop",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.33,
+    0.32,
+    3.44
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Sofa",
+   "on": [
+    "floor"
+   ],
+   "position": [
+    -3.33,
+    0.02,
+    3.63
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "KeyChain",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.29,
+    3.65
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pillow",
+   "on": [
+    "floor",
+    "obj6"
+   ],
+   "position": [
+    -3.53,
+    0.34,
+    3.44
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Vase",
+   "on": [
+    "shelf"
+   ],
+   "position": [
+    -4.95,
+    1.58,
+    5.13
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two remote controls",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the laptop",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

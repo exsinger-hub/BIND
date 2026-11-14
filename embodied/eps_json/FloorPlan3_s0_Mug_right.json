@@ -1,0 +1,566 @@
+{
+ "episode_id": "FloorPlan3_s0_Mug_right",
+ "scene": "FloorPlan3",
+ "room": "kitchen",
+ "seed": 0,
+ "target_type": "Mug",
+ "target_name": "mug",
+ "family": "right",
+ "phrase": "the mug on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 1.123205542564392,
+   "z": 0.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj1",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj1",
+ "marks": {
+  "obj1": "Mug_9acf1327(Clone)_random_copy_1",
+  "obj2": "Mug_9acf1327(Clone)_random_copy_0",
+  "obj3": "Mug_9acf1327",
+  "obj4": "Potato_be1dddfe",
+  "obj5": "Pan_69dda14e",
+  "obj6": "Apple_37512a22",
+  "obj7": "Cup_5bb98742",
+  "obj8": "DishSponge_ea3773c8",
+  "obj9": "Egg_8dcd3b75",
+  "obj10": "PaperTowelRoll_ac12229b",
+  "obj11": "Plate_c4a3acb6"
+ },
+ "visible_B": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "visible_C_unr": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.73,
+    1.22,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.09,
+    1.33,
+    -1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.81,
+    1.22,
+    1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.27,
+    0.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.23,
+    0.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.28,
+    0.76
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.23,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.23,
+    1.19
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.27,
+    0.98
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PaperTowelRoll",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.06,
+    1.33,
+    0.65
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.9,
+    1.32,
+    -0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.09,
+    1.35,
+    -1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.73,
+    1.24,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.81,
+    1.22,
+    1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.27,
+    0.55
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.23,
+    0.98
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.28,
+    0.76
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.23,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.23,
+    1.19
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.27,
+    0.98
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PaperTowelRoll",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.06,
+    1.33,
+    0.65
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.9,
+    1.32,
+    -0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.73,
+    1.22,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Mug",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -2.09,
+    1.33,
+    -1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Mug",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.81,
+    1.22,
+    1.19
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Potato",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.25,
+    0.98
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pan",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.29,
+    0.55
+   ],
+   "state": [
+    "clean"
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Apple",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.28,
+    0.76
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Cup",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.89,
+    1.23,
+    0.76
+   ],
+   "state": [
+    "clean",
+    "empty"
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "DishSponge",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.98,
+    1.23,
+    1.19
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "Egg",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.14,
+    1.27,
+    0.98
+   ]
+  },
+  {
+   "id": "obj10",
+   "type": "PaperTowelRoll",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.06,
+    1.33,
+    0.65
+   ]
+  },
+  {
+   "id": "obj11",
+   "type": "Plate",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    0.9,
+    1.32,
+    -0.94
+   ],
+   "state": [
+    "clean"
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two mugs",
+  "objects": [
+   "obj1",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the potato and the pan",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

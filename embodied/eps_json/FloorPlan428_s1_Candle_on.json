@@ -1,0 +1,383 @@
+{
+ "episode_id": "FloorPlan428_s1_Candle_on",
+ "scene": "FloorPlan428",
+ "room": "bathroom",
+ "seed": 1,
+ "target_type": "Candle",
+ "target_name": "candle",
+ "family": "on",
+ "phrase": "the candle on the sink",
+ "anchor": {
+  "id": null,
+  "type": "Sink",
+  "name": "sink"
+ },
+ "view": {
+  "position": {
+   "x": -1.25,
+   "y": 0.9014922380447388,
+   "z": 3.25
+  },
+  "rotation": {
+   "x": 0,
+   "y": 270,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj3",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Candle_7c0fd27e(Clone)_random_copy_1",
+  "obj2": "Candle_7c0fd27e(Clone)_random_copy_0",
+  "obj3": "Candle_7c0fd27e",
+  "obj4": "HandTowel_220938de",
+  "obj5": "SprayBottle_dfecf0bb",
+  "obj6": "Plunger_ca4b346a",
+  "obj7": "ScrubBrush_e3cd705a",
+  "obj8": "SoapBottle_f00cb39b"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_rel": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.8,
+    0.95,
+    1.79
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.95,
+    3.75
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.64,
+    0.92,
+    3.95
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.81,
+    1.31,
+    3.95
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.9,
+    1.01,
+    3.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.94,
+    3.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.81,
+    0.92,
+    3.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.52,
+    0.92,
+    3.1
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.8,
+    0.95,
+    1.79
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.64,
+    0.94,
+    3.95
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.97,
+    3.75
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.81,
+    1.31,
+    3.95
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.9,
+    1.01,
+    3.56
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.94,
+    3.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.81,
+    0.92,
+    3.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.52,
+    0.92,
+    3.1
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Candle",
+   "on": [
+    "toilet"
+   ],
+   "position": [
+    -1.8,
+    0.95,
+    1.79
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Candle",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.63,
+    0.95,
+    3.75
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Candle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.64,
+    0.92,
+    3.95
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "HandTowel",
+   "on": [
+    "cabinet",
+    "sink"
+   ],
+   "position": [
+    -1.9,
+    1.03,
+    3.56
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "SprayBottle",
+   "on": [],
+   "position": [
+    -1.81,
+    1.33,
+    3.95
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "Plunger",
+   "on": [
+    "sink"
+   ],
+   "position": [
+    -1.67,
+    0.94,
+    3.57
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "ScrubBrush",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.81,
+    0.92,
+    3.17
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "SoapBottle",
+   "on": [
+    "counter"
+   ],
+   "position": [
+    -1.52,
+    0.92,
+    3.1
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two candles",
+  "objects": [
+   "obj2",
+   "obj3"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the hand towel and the spray bottle",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

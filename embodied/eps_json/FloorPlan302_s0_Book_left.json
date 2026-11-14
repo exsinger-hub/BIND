@@ -1,0 +1,419 @@
+{
+ "episode_id": "FloorPlan302_s0_Book_left",
+ "scene": "FloorPlan302",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "Book",
+ "target_name": "book",
+ "family": "left",
+ "phrase": "the book on the far left",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 0.25,
+   "y": 0.9009991884231567,
+   "z": -1.0
+  },
+  "rotation": {
+   "x": 0,
+   "y": 180,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "Book_7afd3ae1(Clone)_random_copy_1",
+  "obj2": "Book_7afd3ae1(Clone)_random_copy_0",
+  "obj3": "Book_7afd3ae1",
+  "obj4": "CellPhone_d688f9d9",
+  "obj5": "KeyChain_3ff4d992",
+  "obj6": "CreditCard_e329e7f5",
+  "obj7": "Laptop_044c100c",
+  "obj8": "Pencil_84aef9b5",
+  "obj9": "TeddyBear_8657c3be"
+ },
+ "visible_B": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_rel": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "visible_C_unr": [
+  2,
+  3,
+  4,
+  6,
+  7,
+  8,
+  9
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.58,
+    -0.63
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.6,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.6,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.9,
+    0.8,
+    -1.47
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.5,
+    0.68,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.79,
+    0.56,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.53,
+    0.59,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pencil",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.24,
+    0.6,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.61,
+    -1.11
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.62,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.6,
+    -0.63
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.6,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.9,
+    0.8,
+    -1.47
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.5,
+    0.68,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.79,
+    0.56,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.53,
+    0.59,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pencil",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.24,
+    0.6,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.61,
+    -1.11
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.58,
+    -0.63
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.6,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Book",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.81,
+    0.6,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "CellPhone",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    0.5,
+    0.7,
+    -1.68
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "KeyChain",
+   "on": [
+    "desk"
+   ],
+   "position": [
+    -0.9,
+    0.82,
+    -1.47
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "CreditCard",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -0.79,
+    0.56,
+    -1.3
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Laptop",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.53,
+    0.59,
+    -1.35
+   ]
+  },
+  {
+   "id": "obj8",
+   "type": "Pencil",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.24,
+    0.6,
+    -1.6
+   ]
+  },
+  {
+   "id": "obj9",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.1,
+    0.61,
+    -1.11
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two books",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the cell phone and the key chain",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

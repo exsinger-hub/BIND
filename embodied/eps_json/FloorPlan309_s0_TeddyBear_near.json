@@ -1,0 +1,341 @@
+{
+ "episode_id": "FloorPlan309_s0_TeddyBear_near",
+ "scene": "FloorPlan309",
+ "room": "bedroom",
+ "seed": 0,
+ "target_type": "TeddyBear",
+ "target_name": "teddy bear",
+ "family": "near",
+ "phrase": "the teddy bear next to the desk lamp",
+ "anchor": {
+  "id": "obj6",
+  "type": "DeskLamp",
+  "name": "desk lamp"
+ },
+ "view": {
+  "position": {
+   "x": -0.75,
+   "y": 0.9469271898269653,
+   "z": 1.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 90,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj2",
+ "ref_C_rel": "obj1",
+ "ref_C_unr": "obj2",
+ "marks": {
+  "obj1": "TeddyBear_44bd4672(Clone)_random_copy_1",
+  "obj2": "TeddyBear_44bd4672(Clone)_random_copy_0",
+  "obj3": "TeddyBear_44bd4672",
+  "obj4": "Laptop_6c3f5724",
+  "obj5": "Pencil_07274490",
+  "obj6": "DeskLamp_600eab05",
+  "obj7": "Pillow_647a8f8b"
+ },
+ "visible_B": [
+  1,
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3,
+  6,
+  7
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3,
+  6,
+  7
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.85,
+    0.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.85,
+    0.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -3.28,
+    0.37,
+    3.25
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pencil",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.1,
+    0.47,
+    -2.75
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.86,
+    0.58,
+    2.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.87,
+    0.84
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.87,
+    0.12
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -3.28,
+    0.37,
+    3.25
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pencil",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.1,
+    0.47,
+    -2.75
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.86,
+    0.58,
+    2.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.65,
+    0.85,
+    0.12
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    1.51,
+    0.85,
+    0.84
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "TeddyBear",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.08,
+    0.85,
+    1.08
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Laptop",
+   "on": [
+    "chair"
+   ],
+   "position": [
+    -2.1,
+    0.49,
+    -2.75
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "Pencil",
+   "on": [
+    "arm chair"
+   ],
+   "position": [
+    -3.28,
+    0.39,
+    3.25
+   ]
+  },
+  {
+   "id": "obj6",
+   "type": "DeskLamp",
+   "on": [
+    "side table"
+   ],
+   "position": [
+    1.86,
+    0.58,
+    2.43
+   ]
+  },
+  {
+   "id": "obj7",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.92,
+    0.6
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two teddy bears",
+  "objects": [
+   "obj2",
+   "obj1"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the laptop and the pencil",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}

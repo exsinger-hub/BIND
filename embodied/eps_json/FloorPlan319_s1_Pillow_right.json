@@ -1,0 +1,257 @@
+{
+ "episode_id": "FloorPlan319_s1_Pillow_right",
+ "scene": "FloorPlan319",
+ "room": "bedroom",
+ "seed": 1,
+ "target_type": "Pillow",
+ "target_name": "pillow",
+ "family": "right",
+ "phrase": "the pillow on the far right",
+ "anchor": null,
+ "view": {
+  "position": {
+   "x": 1.0,
+   "y": 0.9020015001296997,
+   "z": 0.75
+  },
+  "rotation": {
+   "x": 0,
+   "y": 0,
+   "z": 0
+  },
+  "horizon": 30,
+  "standing": true
+ },
+ "candidates": [
+  "obj1",
+  "obj2",
+  "obj3"
+ ],
+ "ref_B": "obj3",
+ "ref_C_rel": "obj2",
+ "ref_C_unr": "obj3",
+ "marks": {
+  "obj1": "Pillow_4dba0015(Clone)_random_copy_0",
+  "obj2": "Pillow_4dba0015",
+  "obj3": "Pillow_b74037f4",
+  "obj4": "Statue_541ba8fc",
+  "obj5": "BasketBall_875f75be"
+ },
+ "visible_B": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_rel": [
+  1,
+  2,
+  3
+ ],
+ "visible_C_unr": [
+  1,
+  2,
+  3
+ ],
+ "records_B": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.02,
+    0.8,
+    1.23
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.8,
+    0.96
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.18,
+    0.8,
+    1.76
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.6,
+    0.73,
+    0.96
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.5,
+    0.95,
+    0.44
+   ]
+  }
+ ],
+ "records_C_rel": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.02,
+    0.8,
+    1.23
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.18,
+    0.82,
+    1.76
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.82,
+    0.96
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.6,
+    0.73,
+    0.96
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.5,
+    0.95,
+    0.44
+   ]
+  }
+ ],
+ "records_C_unr": [
+  {
+   "id": "obj1",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.02,
+    0.8,
+    1.23
+   ]
+  },
+  {
+   "id": "obj2",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.37,
+    0.8,
+    0.96
+   ]
+  },
+  {
+   "id": "obj3",
+   "type": "Pillow",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    0.18,
+    0.8,
+    1.76
+   ]
+  },
+  {
+   "id": "obj4",
+   "type": "Statue",
+   "on": [
+    "dresser"
+   ],
+   "position": [
+    2.5,
+    0.97,
+    0.44
+   ]
+  },
+  {
+   "id": "obj5",
+   "type": "BasketBall",
+   "on": [
+    "bed"
+   ],
+   "position": [
+    -0.6,
+    0.75,
+    0.96
+   ]
+  }
+ ],
+ "change_rel": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of two pillows",
+  "objects": [
+   "obj3",
+   "obj2"
+  ]
+ },
+ "change_unr": {
+  "by": "Robot B",
+  "log": "tidied up and swapped the places of the statue and the basket ball",
+  "objects": [
+   "obj4",
+   "obj5"
+  ]
+ }
+}
